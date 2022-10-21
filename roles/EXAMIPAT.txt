@@ -1,0 +1,53 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Carga de Solicitudes
+...| Modificar Solicitud (LPI 55)|patentes/p_infosol.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+...| Registro
+....| Modificaci&oacute;n de Registros|patentes/p_infosol.php?vopc=6
+..|---
+..| Prensa Digital
+...| Actualizar Publicacion en Prensa Patentes|patentes/p_actualprensa.php
+..|---
+..| Datos T&eacute;cnicos
+...| Actualizaci&oacute;n Completa|patentes/p_datostecj.php
+...| Palabras Claves|patentes/p_pclaves.php
+..|---
+..| B&uacute;squeda
+...| T&eacute;cnica|sbp/index.php
+..| Consultas y Reportes
+...| Consulta Interna|consultapatentes/indexi.php
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos|
+....| Cronolog&iacute;a|patentes/p_rptpcronol.php
+....| Consulta Abierta|patentes/p_rptpcona.php
+....| Memoria Descriptiva Digitalizadas|patentes/p_rptpsidig.php
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php
+.....| Por Transacciones|patentes/p_rptpavztra.php?conx=1&salir=1
+.....| Por Transacciones x Reg.|patentes/p_rptpavztra_reg.php
+.....| Por Listados Varios x Registro|patentes/p_rptpavztra_r.php
+.....| Por Transacciones X Recept.|patentes/p_rptpavztrar.php?conx=1&salir=1
+.....| Anualidades|patentes/p_rptpanual.php?conx=1&salir=1
+....|---
+....| Tablas|||
+.....| Paises|marcas/m_rptpais.php
+..|---
+..| Estadisticas||Estadistidicas de Patentes|
+...| Todas las Publicaciones de un Boletin|patentes/p_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|patentes/p_est_tpuxbol.php?vopc=0
+...| Presentadas por A&ntilde;o |patentes/p_est_prexmes.php?vopc=0
+...| Examinadas Fondo/Forma por A&ntilde;o (Eventos:28,29,51,52,53,56,59)|patentes/p_est_exaxmes.php?vopc=0
+...| Registradas por a&ntilde;o|patentes/p_est_regxmes.php?vopc=0
+...| Por Estatus en tipos de Patentes|patentes/p_est_estatus.php?vopc=0
+.| Ind. Geogr&aacute;ficas||Sistema de Indicaciones Geogr&aacute;ficas|folder.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php
+

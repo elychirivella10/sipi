@@ -1,0 +1,34 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+..| Ingreso de Solicitud
+...| Obra Literaria                          |autor/a_otrasobr.php?vopc=3&vpla=OL
+...| Obra Musical                            |autor/a_otrasobr.php?vopc=3&vpla=OM
+...| Obra Esc&eacute;nica                    |autor/a_otrasobr.php?vopc=3&vpla=OE
+...| Obra Audiovisual y Radiof&oacute;nicas  |autor/a_otrasobr.php?vopc=3&vpla=AR
+...| Arte Visual                             |autor/a_otrasobr.php?vopc=3&vpla=AV
+...| Programas de Computaci&oacute;n y Base de Datos|autor/a_otrasobr.php?vopc=3&vpla=PC
+...| Actos y Contratos|autor/a_obractos.php?vopc=3&conx=2&salir=1
+...| Producci&oacute;n Fonogr&aacute;fica|autor/a_obrpfono.php?vopc=3&conx=2&salir=1
+...| Interpretaciones y Ejecuciones Art&iacute;sticas|autor/a_obraiea.php?vopc=3&conx=2&salir=1
+..|---
+..| Modificaci&oacute;n de Solicitud
+...| Obra Literaria                          |autor/a_otrasobr.php?vopc=7&vpla=OL
+...| Obra Musical                            |autor/a_otrasobr.php?vopc=7&vpla=OM
+...| Obra Esc&eacute;nica                    |autor/a_otrasobr.php?vopc=7&vpla=OE
+...| Obra Audiovisual y Radiof&oacute;nicas  |autor/a_otrasobr.php?vopc=7&vpla=AR
+...| Arte Visual                             |autor/a_otrasobr.php?vopc=7&vpla=AV
+...| Programas de Computaci&oacute;n y Base de Datos|autor/a_otrasobr.php?vopc=7&vpla=PC
+...| Actos y Contratos|autor/a_obractos.php?vopc=5&conx=2&salir=1
+...| Producci&oacute;n Fonogr&aacute;fica|autor/a_obrpfono.php?vopc=5&conx=2&salir=1
+...| Interpretaciones y Ejecuciones Art&iacute;sticas|autor/a_obraiea.php?vopc=5&conx=2&salir=1
+..|---
+..| Consultas y Reportes
+...| Administrativos|
+....| Solicitudes Presentadas|autor/a_rptpsolpre.php?conx=1&salir=1
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

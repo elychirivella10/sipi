@@ -1,0 +1,63 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+...| Examen de Fondo|marcas/m_exfondo.php?conx=1&salir=1
+...| Devoluciones (CAN)|marcas/m_devoluci.php
+...| Devoluciones (LPI 55)|marcas/m_devoluci56.php
+...| Negaciones|marcas/m_negacion.php
+...| Correcci&oacute;n de Error Material|marcas/m_evcomat.php
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Oficios de Devoluci&oacute;n (CAN)|marcas/m_rptpoficio.php?conx=1&salir=1
+...| Oficios de Devoluci&oacute;n (LPI 55)|marcas/m_rptpoficio55.php?conx=1&salir=1
+...| Administrativos|
+....| Solicitudes Presentadas|marcas/m_rptpsolpre.php
+....| Consulta Interna|consultamarcas/indexi.php
+....| Cronolog&iacute;a|marcas/m_rptpcronol.php
+....| Consulta Abierta|marcas/m_rptpcona.php
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php
+.....| Por Listados Varios|marcas/m_rptpavztra.php
+.....| Por Listados Varios x reg.|marcas/m_rptpavztra_r.php
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php
+....|---
+....| Tablas|||
+.....| Paises|marcas/m_rptpais.php
+.....| Agentes|marcas/m_rptagente.php
+.....| Poderes|marcas/m_rptppoder.php
+.....| Clases Internacionales|marcas/m_rptclafi.php
+..|---
+..| Estadisticas||Estadistidicas de Marcas|
+...|Totales por Tipo|marcas/m_rptpestanu.php
+...|Totales por Pais|marcas/m_rptpestanupais.php
+...|Totales por Clase|marcas/m_rptpestanuclas.php
+.| Patentes||Sistema de Patentes|folder-open.png
+...| Administrativos|
+....| Solicitudes Presentadas|patentes/p_rptpsolpre.php
+....| Cronolog&iacute;a|patentes/p_rptpcronol.php
+....| Consulta Abierta|patentes/p_rptpcona.php
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php
+.....| Por Transacciones|patentes/p_rptpavztra.php
+....|---
+....| Tablas|||
+.....| Status Administrativos|patentes/p_rptestatus.php
+.....| Eventos|patentes/p_rptevento.php
+.....| Migraci&oacute;n de Estatus|patentes/p_rptmigest.php
+..|---
+..| Estadisticas||Estadistidicas de Patentes|
+...|Totales por Tipo|patentes/p_rptpestanu.php
+...|Totales por Pais|patentes/p_rptpestanupais.php
+...|Pat. Registradas|patentes/p_rptpestanureg.php
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+..| Estadisticas||Estadisticas de Derecho de Autor|
+...|Totales por Tipo|autor/a_rptptipo.php
+...|Totales por Clase|autor/a_rptpclase.php
+...|Totales por Personas Naturales y Juridicas|autor/a_rptpnatj.php
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

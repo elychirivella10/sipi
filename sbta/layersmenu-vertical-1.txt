@@ -1,0 +1,3 @@
+.|B&uacute;squeda R&aacute;pida|index.php|Por texto simple|||
+.|Combinada|bcompleja.php|B&uacute;squeda Avanzada de Patentes||
+.|Salir|../index1.php|Ir al Menu Principal||| 

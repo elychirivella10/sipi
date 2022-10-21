@@ -1,0 +1,22 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+...| Cronolog&iacute;a|marcas/m_rptpcronol.php?conx=1&salir=1
+...| Poderes|marcas/m_cpoderes.php?opc=12
+...| Administrativos|
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Listados con Titulares|marcas/m_rptpavzda.php?conx=1&salir=1
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

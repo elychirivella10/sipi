@@ -1,0 +1,25 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Consulta Interna|consultamarcas/indexi.php
+..| B&uacute;squeda
+...| Carga de Pedidos|marcas/m_ingfacfon1.php?vopc=1
+...| Modificaci&oacute;n de Pedido Fonetico|marcas/m_bfonetica_sede.php?vopc=4
+...| Modificaci&oacute;n de Pedido Gr&aacute;fico|marcas/m_bexfigu.php?vopc=4
+...| Reportes de Auditor&iacute;as
+....| Factura B&uacute;squeda Fon&eacute;tica|marcas/m_rptconfon.php
+....| Factura B&uacute;squeda Gr&aacute;fica|marcas/m_rptconlog.php
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+..| Crear Nuevo Bolet&iacute;n|boletin/b_ingreso.php?vopc=3&conx=2&salir=1
+..| Modificar  Bolet&iacute;n|boletin/b_ingreso.php?vopc=5&conx=2&salir=1
+..| Generar Bolet&iacute;n|boletin/b_genbol.php?vopc=5
+..| Concatenar PDF|boletin/b_unionftp.php?vopc=1
+..| Dividir PDF|boletin/b_dividir.php?vopc=1
+..| Orden de Impres.|boletin/b_numimp.php?vopc=1
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

@@ -1,0 +1,106 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+...| Examen de Fondo|marcas/m_exfondo.php?conx=1&salir=1
+...| Negaciones|marcas/m_negacion.php
+...| Correcci&oacute;n de Error Material|marcas/m_evcomat.php
+..|---
+..| Bolet&iacute;n
+...| Marcas de Bolet&iacute;n Anterior a Caducar|marcas/m_cadubol.php
+...| Desistir Observadas sin Contestar en Lote|marcas/m_actobscon.php
+...| Generaci&oacute;n de Datos|marcas/m_bolgenar.php
+...| Edici&oacute;n de Datos Generados|marcas/m_bolediar.php
+...|---
+...| Generaci&oacute;n de Archivos y Listados
+....| Listados|marcas/m_rptplisbol.php?conx=1&salir=1
+....| Listado de Orden de Publicacion|marcas/m_rptpordepub.php?conx=1&salir=1
+....| Orden de Publicaci&oacute;n x Bolet&iacute;n|marcas/m_rptpprensa.php?conx=1&salir=1
+....| Observadas sin Contestaci&oacute;n|marcas/m_rptpobscon.php?conx=1&salir=1
+....| Negadas x Articulo y Literal|marcas/m_rptnegada.php
+....| Archivos TXT para Ventura|marcas/m_gentxt.php?conx=1&salir=1
+....| Archivos TXT para Orden Pub.|marcas/m_genord.php?conx=1&salir=1
+....| Negadas TXT para Ventura|marcas/m_pgentxt.php?conx=1&salir=1
+....| Certificados Elaborados TXT para Ventura|marcas/m_rptpcertxt.php?conx=1&salir=1
+..|---
+..| Consultas y Reportes
+...| Administrativos
+....| Consulta Interna|consultamarcas/indexi.php
+....| Cronolog&iacute;a|marcas/m_rptpcronol.php
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php
+.....| Por Listados Varios|marcas/m_rptpavztra.php
+.....| Por Listados Varios x reg.|marcas/m_rptpavztra_r.php
+.....| Listados Marcas Registradas X Bol.|marcas/m_rptpavztra_estbol.php
+.....| Listados con Titulares|marcas/m_rptpavzda.php
+.....| Transacciones x Sol.|marcas/m_rptpavztra1.php
+.....| Transacciones x Reg.|marcas/m_rptpavztra_reg.php
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Ind. Geogr&aacute;ficas||Sistema de Indicaciones Geogr&aacute;ficas|folder.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+..| Ingreso de Solicitud
+...| Obra Literaria                          |autor/a_otrasobr.php?vopc=3&vpla=OL
+...| Obra Musical                            |autor/a_otrasobr.php?vopc=3&vpla=OM
+...| Obra Esc&eacute;nica                    |autor/a_otrasobr.php?vopc=3&vpla=OE
+...| Obra Audiovisual y Radiof&oacute;nicas  |autor/a_otrasobr.php?vopc=3&vpla=AR
+...| Arte Visual                             |autor/a_otrasobr.php?vopc=3&vpla=AV
+...| Programas de Computaci&oacute;n y Base de Datos|autor/a_otrasobr.php?vopc=3&vpla=PC
+...| Actos y Contratos|autor/a_obractos.php?vopc=3&conx=2&salir=1
+...| Producci&oacute;n Fonogr&aacute;fica|autor/a_obrpfono.php?vopc=3&conx=2&salir=1
+...| Interpretaciones y Ejecuciones Art&iacute;sticas|autor/a_obraiea.php?vopc=3&conx=2&salir=1
+..|---
+..| Modificaci&oacute;n de Solicitud
+...| Obra Literaria                          |autor/a_otrasobr.php?vopc=7&vpla=OL
+...| Obra Musical                            |autor/a_otrasobr.php?vopc=7&vpla=OM
+...| Obra Esc&eacute;nica                    |autor/a_otrasobr.php?vopc=7&vpla=OE
+...| Obra Audiovisual y Radiof&oacute;nicas  |autor/a_otrasobr.php?vopc=7&vpla=AR
+...| Arte Visual                             |autor/a_otrasobr.php?vopc=7&vpla=AV
+...| Programas de Computaci&oacute;n y Base de Datos|autor/a_otrasobr.php?vopc=7&vpla=PC
+...| Actos y Contratos|autor/a_obractos.php?vopc=5&conx=2&salir=1
+...| Producci&oacute;n Fonogr&aacute;fica|autor/a_obrpfono.php?vopc=5&conx=2&salir=1
+...| Interpretaciones y Ejecuciones Art&iacute;sticas|autor/a_obraiea.php?vopc=5&conx=2&salir=1
+..|---
+..| Control Administrativo
+...| Evento Individual                |autor/a_eveind.php?conx=2&salir=1
+...| Devoluciones                     |autor/a_devoluci.php
+...| Asignar N&uacute;mero de Registro|autor/a_asigregi.php
+..|---
+..| B&uacute;squeda T&eacute;cnica|autor/a_busqueda.php?conx=1&salir=1
+..|---
+..| Tablas
+...| Ingresos
+....| Idioma     |autor/a_tablidio.php?vopc=3
+....| Genero     |autor/a_tablgene.php?vopc=3
+...| Actualizacion
+....| Idioma          |autor/a_tablidio.php?vopc=4
+....| Genero          |autor/a_tablgene.php?vopc=4
+....| Persona Natural |autor/a_tabldper.php?vopc=4
+....| Persona Juridica|autor/a_tabldjur.php?vopc=4
+..|---
+..| Consultas y Reportes
+...| Certificados|
+....| Llenado|autor/
+....| Cont.de Datos|autor/
+...| Oficios de Devolucion|autor/a_rptpoficio.php?conx=1&salir=1
+...| Administrativos|
+....| Solicitudes Presentadas|autor/a_rptpsolpre.php?conx=1&salir=1
+....| Cronolog&iacute;a|autor/a_rptpcronol.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|autor/a_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|autor/a_rptplisvar.php?conx=1&salir=1
+.....| Por Transacciones|autor/a_rptpavztra.php?conx=1&salir=1
+....| Tablas|||
+.....| Status Administrativos|autor/a_rptestatus.php
+.....| Eventos|autor/a_rptevento.php
+.....| Migraci&oacute;n de Estatus|autor/a_rptmigest.php
+.....| Paises|marcas/m_rptpais.php
+..|---
+..| Estadisticas||Estadisticas de Derecho de Autor|
+...|Totales por Tipo|autor/a_rptptipo.php
+...|Totales por Clase|autor/a_rptpclase.php
+...|Totales por Personas Naturales y Juridicas|autor/a_rptpnatj.php
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

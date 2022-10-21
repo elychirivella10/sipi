@@ -1,0 +1,462 @@
+     SOBRE LA CLASE:     47
+
+     2006-009127 ...PRESERVANDO LA VIDA                  
+                 YOMA SERVICIOS, C.A.                    
+     2006-012388 ABC DE LA SEMANA; NUESTRA PASION ES LA V
+                 AMENGUAL DIAZ, ARMANDO JOSE             
+     2006-013613 AHORA TODOS PODEMOS TENER PLATA         
+                 TEBCA TRANSFERENCIA ELECTRONICA DE BENEF
+     2006-014109 AL SERVICIO DEL FORTALECIMIENTO DE SU OR
+                 GERENCIA Y CRECIMIENTO PERSONAL, C.A. (G
+     2006-011994 APRENDA INGLES EN SOLO 45 DIAS          
+                 CENTRO LATINOAMERICANO DE IDIOMAS C.A.  
+     2006-011999 APRENDA INGLES RAPIDAMENTE              
+                 CENTRO LATINOAMERICANO DE IDIOMAS C.A.  
+     2006-011998 APRENDA INGLES YA                       
+                 CENTRO LATINOAMERICANO DE IDIOMAS C.A.  
+     2006-009864 AQUI ESTA EL CONFEDERADO                
+                 BANCO CONFEDERADO, S.A.                 
+     2006-009863 AQUI ESTA EL CONFEDERADO                
+                 BANCO CONFEDERADO, S.A.                 
+     2006-009865 AQUI ESTA EL CONFEDERADO                
+                 BANCO CONFEDERADO, S.A.                 
+     2006-012685 AROMAS QUE CURAN                        
+                 ODALYS DE PEREZ.                        
+     2006-014097 ARRORICO SE PASA DE RICO                
+                 GRUPO BIMBO, S.A. DE C.V.               
+     2006-013561 B&M .... LA INMOBILIARIA DE VENEZUELA   
+                 GRUPO INMOBILIARIO B&M 2513 C.A.        
+     2006-012380 BANDES FINANCIANDO EL DESARROLLO INTEGRA
+                 BANCO DE DESARROLLO ECONOMICO Y SOCIAL D
+     2006-012381 BANDES FINANCIANDO EL DESARROLLO INTEGRA
+                 BANCO DE DESARROLLO ECONOMICO Y SOCIAL D
+     2006-013837 BEL EL RETO ES INFINITO                 
+                 SERGIO GONZALEZ                         
+     2006-013835 BEL EVOLUCION SIN LIMITES               
+                 SERGIO GONZALEZ                         
+     2006-013836 BEL, BIENESTAR, EVOLUCION, LIDERAZGO    
+                 SERGIO GONZALEZ                         
+     2006-013004 CALIDAD, TRADICION Y SABOR EDUARDO ES LA
+                 EDUARDO, C.A.                           
+     2005-023058 CENTRAL ...MIBANCO                      
+                 C.A. CENTRAL BANCO UNIVERSAL            
+     2006-011941 COMPROMISO EFECTIVO                     
+                 FIVENCA CASA DE BOLSA, C.A.             
+     2005-023053 CON CENTRALMED, SU CREDITO ES MAS SALUDA
+                 C.A. CENTRAL BANCO UNIVERSAL            
+     2006-013350 CON DIOS NUNCA SE PIERDE CON DIOS SIEMPR
+                 FEDERACION CENTRO CRISTIANO PARA LAS NAC
+     2006-009380 CON EL SAZON DE LA ABUELA               
+                 BERRIOS MEDINA JOSE ORANGEL             
+     2006-013453 CONFEDERADO CONTIGO DONDE ESTES         
+                 BANCO CONFEDERADO, S.A.                 
+     2006-013452 CONFEDERADO CONTIGO DONDE ESTES         
+                 BANCO CONFEDERADO, S.A.                 
+     2006-013454 CONFEDERADO CONTIGO DONDE ESTES         
+                 BANCO CONFEDERADO, S.A.                 
+     2006-012851 CONTIGO A DIARIO                        
+                 ALEMAN DE LOPEZ, MARIA SOLEDAD          
+     2005-023057 CRECEN LAS VENTAJAS, CRECEN LOS BENEFICI
+                 C.A. CENTRAL BANCO UNIVERSAL            
+     2006-009800 CREDITODO PARA TODO                     
+                 C.A. CENTRAL, BANCO UNIVERSAL           
+     2006-012670 CUENTA LIBRE BFC CAMBIA EL LIMITE DE LA 
+                 TOTALBANK, C.A. BANCO UNIVERSAL.        
+     2006-012669 CUENTA LIBRE BFC CAMBIA EL LIMITE DE LA 
+                 TOTALBANK, C.A. BANCO UNIVERSAL.        
+     2006-012668 CUENTA LIBRE BFC CAMBIA EL LIMITE DE LA 
+                 TOTALBANK, C.A. BANCO UNIVERSAL.        
+     2006-010475 DATE UN MEJOR POLLO                     
+                 AGROPECUARIA AVIYARA, C.A.              
+     2006-009801 DE CARA A LA CONFIANZA                  
+                 SEGUROS CARABOBO, C.A.                  
+     2006-011453 DEFINITIVAMENTE LOS MEJORES             
+                 MIMO´S HELADOS CREMA, C.A.              
+     2006-010867 DEL MAS CHICO AL MAS GRANDE             
+                 INVERSIONES ZAPATO GRANDE, C.A.         
+     2006-010868 DEL MAS CHICO AL MAS GRANDE             
+                 INVERSIONES ZAPATO GRANDE, C.A.         
+     2006-013347 DIOS PROSPERA LO QUE TU HACES           
+                 FEDERACION CENTRO CRISTIANO PARA LAS NAC
+     2006-008965 E-MALL APODERATE DE TU DESTINO          
+                 GASCUE A. TRINA MARGARITA               
+     2006-008963 E-MALL APODERATE DE TU FUTURO           
+                 GASCUE A. TRINA MARGARITA               
+     2006-008964 E-MALL APODERATE DE TU VIDA             
+                 GASCUE A. TRINA MARGARITA               
+     2006-008962 E-MALL EL CENTRO COMERCIAL VIRTUAL EN LA
+                 GASCUE A. TRINA MARGARITA               
+     2006-008966 E-MALL EL CENTRO COMERCIAL VIRTUAL MAS G
+                 GASCUE A. TRINA MARGARITA               
+     2006-014268 EL BIENESTAR ES NATURAL LO NATURAL ES BI
+                 ROJAS CRESPO, MIGUEL ANGEL              
+     2006-012140 EL LADO COCA-COLA DE LA VIDA            
+                 THE COCA-COLA COMPANY                   
+     2006-011243 EL NUEVO CONCEPTO DE HABITAT            
+                 ORAA-FLEX PROYECTOS Y CONSTRUCCIONES, C.
+     2006-011748 EL PRIMER QUESO AMARILLO DE VENEZUELA   
+                 INDUSTRIA LACTEA TORONDOY, C.A. (INLATOC
+     2006-011749 EL PRIMER QUESO AMARILLO DE VENEZUELA   
+                 INDUSTRIA LACTEA TORONDOY, C.A. (INLATOC
+     2006-014245 EL PROGRAMA DEL INVERSIONISTA EN VENEZUE
+                 BANESCO HOLDING, C.A.                   
+     2006-011709 EL REY DE LOS BASTIDORES                
+                 DREAM FLEX, C.A.                        
+     2006-011750 EL RON DE CARACAS                       
+                 INDUSTRIAS PAMPERO, C.A.                
+     2006-012855 EL SABOR TRADICIONAL DE TU AREPA        
+                 INDUSTRIAL ALIMENTICIA NACIONAL DE CEREA
+     2006-009683 ELIMINA LA TOS CON FLEMA                
+                 GALENO QUIMICA, C.A.                    
+     2006-011568 EN CONFIANZA...SIEMPRE SU BANCO         
+                 BANCO DEL PICHINCHA, C.A.               
+     2006-010090 EN LA BATALLA POR 10 MILLONES DE SONRISA
+                 DIOGENES DUZOGLOU LEDO                  
+     2006-012671 EN LA NATURALEZA ES CUADRADO            
+                 MABE VENEZUELA, C.A.                    
+     2006-012673 EN LA NATURALEZA NADA ES CUADRADO       
+                 MABE VENEZUELA, C.A.                    
+     2006-012672 EN LA NATURALEZA NADA ES CUADRADO       
+                 MABE VENEZUELA, C.A.                    
+     2005-023056 EN UN ABRIR Y CERRAR DE OJOS            
+                 C.A. CENTRAL BANCO UNIVERSAL            
+     2006-010642 ENCHUFATE                               
+                 C.A. LA ELECTRICIDAD DE CARACAS         
+     2006-010404 EQUILIBRA TU VIDA                       
+                 RENKERS HENDRIKA JOHANNA                
+     2006-010402 EQUILIBRA TU VIDA                       
+                 RENKERS HENDRIKA JOHANNA                
+     2006-010997 ES MODA                                 
+                 ELLIPSE, S.A.                           
+     2006-013611 ES REGARGABLE, ES PRACTICA, ES SEGURA...
+                 TEBCA TRANSFERENCIA ELECTRONICA DE BENEF
+     2006-011268 ESCENCIA DE VIDA                        
+                 VIDXIN C.A.                             
+     2006-011266 ESCENCIA DE VIDA                        
+                 VIDXIN C.A.                             
+     2006-011715 EXCELENCIA Y DISEÑOS                    
+                 CARPINTERIA RIBAEZ, C.A.                
+     2006-013348 EXPANSION TIERRA Y GENTE                
+                 FEDERACION CENTRO CRISTIANO PARA LAS NAC
+     2006-010014 EXPERTOS EN MOVIMIENTO                  
+                 INDUSTRIAS VENOCO, C.A.                 
+     2006-010015 EXPERTOS EN MOVIMIENTO                  
+                 INDUSTRIAS VENOCO, C.A.                 
+     2006-010013 EXPERTOS EN MOVIMIENTO                  
+                 INDUSTRIAS VENOCO, C.A.                 
+     2006-010012 EXPERTOS EN MOVIMIENTO                  
+                 INDUSTRIAS VENOCO, C.A.                 
+     2006-010011 EXPERTOS EN MOVIMIENTO                  
+                 INDUSTRIAS VENECOCO, C.A.               
+     2006-010750 FANTASIAS DE MARY                       
+                 INDUSTRIA ALIMENTICIA NACIONAL DE CERALE
+     2006-011872 GENTE QUE CUIDA A LA GENTE              
+                 GRUPO OMNILIFE, S.A. DE C.V.            
+     2006-011333 GERMAN ENGINEERING                      
+                 ZEITOUNE MAKWAKJI JOSE                  
+     2006-012203 GIFTCARD REGALO INTELIGENTE             
+                 GIFTCARD EXPRESS C.A.                   
+     2006-014095 GUARDIAN ... SPECIAL DIET               
+                 PRODUCTOS TOQUICEL, C.A.                
+     2006-011845 HAY QUE OLER PARA CREER                 
+                 PERFUMES FACTORY, C.A.                  
+     2006-011843 HAY QUE OLER PARA CREER                 
+                 PERFUMES FACTORY, C.A.                  
+     2006-011851 HAY QUE OLER PARA CREER                 
+                 PERFUMES FACTORY, C.A.                  
+     2006-011850 HAY QUE OLER PARA CREER                 
+                 PERFUMES FACTORY, C.A.                  
+     2006-011847 HAY QUE OLER PARA CREER                 
+                 PERFUMES FACTORY, C.A.                  
+     2006-013958 HAZ TRES COSAS A LA VEZ                 
+                 MABE VENEZUELA, C.A.                    
+     2006-011622 HECHO EN CASA CON SELENIA               
+                 SELENIA ALBANO                          
+     2006-014269 INSPIRACION PARA COCREAR TU VIDA        
+                 ROJAS CRESPO, MIGUEL ANGEL              
+     2006-010512 INSPIRACION PARA CREAR TU HOGAR         
+                 THE CLOROX INTERNATIONAL COMPANY        
+     2006-010513 INSPIRACION PARA CREAR TU HOGAR         
+                 THE CLOROX INTERNATIONAL COMPANY        
+     2006-013101 JUSTO Y BALANCEADO                      
+                 HARPER MANAGEMENT LLC.                  
+     2006-013100 JUSTO Y EQUILIBRADO                     
+                 HARPER MANAGEMENT LLC.                  
+     2006-011552 LA FRUTA DEL ARBOL DE LA VIDA           
+                 PROFUMECA, C.A.                         
+     2006-010600 LA GOTA DE SALUD QUE USTED NECESITA     
+                 DISKRIOZON, C.A.                        
+     2006-009941 LA GUIA MEDICA DEL HOGAR                
+                 LEON RICARDO OLAVARRIETA OCANDO         
+     2005-023055 LA LIBERTAD CORRE POR TU CUENTA         
+                 C.A. CENTRAL BANCO UNIVERSAL            
+     2006-014084 LA MAS SABROSA TIZANA                   
+                 AÑEZ ALVIS GUSTAVO ADOLFO               
+     2006-014279 LA MEJOR PARTE DEL POLLO                
+                 FONTANA POULTRY PACKING, C.A.           
+     2006-009072 LA PRIMERA OPCION EN HIPERTENSION       
+                 MEGAT HOLDINGS LLC.                     
+     2006-010601 LA PROTECCION QUE USTED MERECE          
+                 DISKRIOZON, C.A.                        
+     2006-010581 LA VIDA ES DULCE SIN DROGAS             
+                 CENTRAL AZUCARERO PORTUGUESA, C.A.      
+     2006-012736 LAS COSAS CLARAS                        
+                 INDUSTRIAS DE ELECTRODOMESTICOS, C.A.   
+     2006-012738 LAS COSAS CLARAS TAURUS ES CALIDAD      
+                 INDUSTRIAS DE ELECTRODOMESTICOS, C.A.   
+     2006-009123 LEMA COMERCIAL PRESERVANDO LA VIDA.     
+                 REPRESENTACIONES MEDICAS YOMA, C.A.     
+     2006-012898 LIBERTAD DE MOVIMIENTO                  
+                 PONCE & BENZO SUCR C.A.                 
+     2006-011691 LIDERAZGO Y MERCADEO... DIPLOMADO ON LIN
+                 JOHNDANY SOLUTIONS, C.A.                
+     2006-013000 MAGOASISTENCIA EN EMERGENCIAS DEL HOGAR 
+                 CERRAJERIA EL MAGO HOGAR, C.A.          
+     2006-013440 MANTEN EN FORMA A TU MEJOR AMIGO        
+                 MARS, INCORPORATED                      
+     2006-012493 MAS LLENA QUE NUNCA                     
+                 RATTAN HYPERMARKET, C.A.                
+     2006-011900 MEDICAMENTOS A SU ALCANCE               
+                 DISTRIBUIDORA FARMACEUTICA CARACAS, DISF
+     2006-011901 MEDICAMENTOS A SU ALCANCE               
+                 DISTRIBUIDORA FARMACEUTICA CARACAS, DISF
+     2006-011902 MEDICAMENTOS A SU ALCANCE               
+                 DISTRIBUIDORA FARMACEUTICA CARACAS, DISF
+     2006-011897 MEDICAMENTOS A SU ALCANCE               
+                 DISTRIBUIDORA FARMACEUTICA CARACAS, DISF
+     2006-011898 MEDICAMENTOS A SU ALCANCE               
+                 DISTRIBUIDORA FARMACEUTICA CARACAS, DISF
+     2006-011899 MEDICAMENTOS A SU ALCANCE               
+                 DISTRIBUIDORA FARMACEUTICA CARACAS, DISF
+     2006-013612 NADA COMO LLEVAR PLATA EN LA CARTERA    
+                 TEBCA TRANSFERENCIA ELECTRONICA DE BENEF
+     2006-009628 NO LO TUMBA NADIE                       
+                 OJEDA DE GARRIDO THAYS DEL VALLE        
+     2006-012779 NUNCA LA ESPERA FUE TAN DIVERTIDA       
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012783 NUNCA LA ESPERA FUE TAN DIVERTIDA       
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012786 NUNCA LA ESPERA FUE TAN DIVERTIDA       
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012782 NUNCA LA ESPERA FUE TAN DIVERTIDA       
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012781 NUNCA LA ESPERA FUE TAN DIVERTIDA       
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012777 NUNCA LA ESPERA FUE TAN DIVERTIDA       
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012780 NUNCA LA ESPERA FUE TAN DIVERTIDA       
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012785 NUNCA LA ESPERA FUE TAN DIVERTIDA       
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012776 NUNCA LA ESPERA FUE TAN DIVERTIDA       
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012787 NUNCA LA ESPERA FUE TAN DIVERTIDA       
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012778 NUNCA LA ESPERA FUE TAN DIVERTIDA       
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012784 NUNCA LA ESPERA FUE TAN DIVERTIDA       
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012214 PARA CRECER SEGURO                      
+                 SEGUROS LOS ANDES, C.A.                 
+     2006-012215 PARA CRECER SEGURO                      
+                 SEGUROS LOS ANDES, C.A.                 
+     2005-023054 PARA NOSOTROS LO CENTRAL ERES TU        
+                 C.A. CENTRAL, BANCO UNIVERSAL           
+     2006-011565 PERSONAL FACTORY CONFECCION FUERA DE SER
+                 WALTER ROMANELLI                        
+     2006-011564 PERSONAL FACTORY PUNTO DE FABRICA       
+                 WALTER ROMANELLI                        
+     2006-009073 PIENSA CON EL ...                       
+                 MEGAT HOLDINGS LLC.                     
+     2006-012043 PONGALE LA R A SU PRODUCTO              
+                 PEDRO RODRIGUEZ                         
+     2006-011940 PONLE PASION A TU VIDA                  
+                 JAFER LIMITED.                          
+     2006-012768 PONTE AL DIA                            
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012767 PONTE AL DIA                            
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012775 PONTE AL DIA                            
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012774 PONTE AL DIA                            
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012773 PONTE AL DIA                            
+                 BANESCO BANCO UNIVERSAL, C.A            
+     2006-012772 PONTE AL DIA                            
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012771 PONTE AL DIA                            
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012764 PONTE AL DIA                            
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012765 PONTE AL DIA                            
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012766 PONTE AL DIA                            
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012770 PONTE AL DIA                            
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-012769 PONTE AL DIA                            
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-010089 POR 10 MILLONES DE SONRISA              
+                 DIOGENES DUZOGLOU LEDO                  
+     2006-009993 POR TODO ESTO Y MUCHO MAS AQUI ESTA EL C
+                 BANCO CONFEDERADO, S.A.                 
+     2006-009994 POR TODO ESTO Y MUCHO MAS AQUI ESTA EL C
+                 BANCO CONFEDERADO, S.A.                 
+     2006-009995 POR TODO ESTO Y MUCHO MAS, AQUI ESTA EL 
+                 BANCO CONFEDERADO, S.A.                 
+     2006-011519 PRODUCTOS Y SERVICIOS PARA EL AGRO      
+                 PROSEAGRO, C.A.                         
+     2006-010602 PUREZA Y CALIDAD PARA TODA LA FAMILIA   
+                 DISKRIOZON, C.A.                        
+     2006-011625 QUEREMOS QUE TODOS TENGAN PLATA         
+                 TEBCA TRANSFERENCIA ELECTRONICA DE BENEF
+     2006-000004 RAPIDEZ Y PROTECCION                    
+                 REVLON OVERSEAS CORPORATION C.A.        
+     2006-012494 RATTAN ES MARGARITA                     
+                 RATTAN HYPERMARKET, C.A.                
+     2006-009922 RECONFORTA TU ALMA                      
+                 SALMOS PRODUCTIONS, C.A.                
+     2006-011987 RUMBA DE PRECIOS                        
+                 DISTRIBUIDORA SYMON & CO C.A.           
+     2006-012338 SABOR AL INSTANTE                       
+                 CASTRO CONTRERAS INGRID LISSETTE        
+     2006-013349 SI DIOS LO DIJO, DIOS LO HACE           
+                 FEDERACION CENTRO CRISTIANO PARA LAS NAC
+     2006-009292 SI USTED CONOCE SUS CLIENTES NOSOTROS SA
+                 LATINLISTS DE VENEZUELA, C.A            
+     2006-010023 SIENTA EL PLACER DE VIAJAR ANTES DE PART
+                 BANCO CANARIAS DE VENEZUELA, BANCO UNIVE
+     2006-010021 SIENTA EL PLACER DE VIAJAR ANTES DE PART
+                 BANCO CANARIAS DE VENEZUELA, BANCO UNIVE
+     2006-010026 SIENTA EL PLACER DE VIAJAR ANTES DE PART
+                 BANCO CANARIAS DE VENEZUELA, BANCO UNIVE
+     2006-010025 SIENTA EL PLACER DE VIAJAR ANTES DE PART
+                 BANCO CANARIAS DE VENEZUELA, BANCO UNIVE
+     2006-010024 SIENTA EL PLACER DE VIAJAR ANTES DE PART
+                 BANCO CANARIAS DE VENEZUELA, BANCO UNIVE
+     2006-010022 SIENTA EL PLACER DE VIAJAR ANTES DE PART
+                 BANCO CANARIAS DE VENEZUELA, BANCO UNIVE
+     2005-019192 SOLIDEZ, SEGURIDD Y PRIVACIDAD          
+                 STANFORD FINANCIAL GROUP COMPANY        
+     2006-011986 SOMOS MODA                              
+                 DISTRIBUIDORA SYMON & CO C.A.           
+     2006-009966 SU AHORRO GARANTIZADO...                
+                 SUPER ENNE 2000 DR. PORTILLO, C.A.      
+     2006-012441 SU SOLUCION FINANCIERA DE INVERSION     
+                 SOLFIN SOCIEDAD DE CORRETAJE DE VALORES,
+     2006-011308 TAIMA FULL ENTRETENIMIENTO              
+                 ORLANDO ALEJANDRO CARVALLO              
+     2006-012737 TAURUS ES CALIDAD                       
+                 INDUSTRIAS DE ELECTRODOMESTICOS, C.A.   
+     2006-009647 TE HACE LA VIDA FACIL                   
+                 INVERSIONES MUB, S.A.                   
+     2006-009581 TENEMOS CON QUE                         
+                 RCTV, C.A.                              
+     2006-012152 TODO PARA LA AGRICULTURA                
+                 AGROISLEÑA, C.A. SUCESORA DE ENRIQUE FRA
+     2006-009068 TU CIRCULO DE CONFIANZA                 
+                 LA ORIENTAL DE SEGUROS, S.A.            
+     2006-011846 TU FRAGANCIA FAVORITA TODOS LOS DIAS    
+                 PERFUMES FACTORY, C.A.                  
+     2006-011852 TU FRAGANCIA FAVORITA TODOS LOS DIAS    
+                 PERFUMES FACTORY, C.A.                  
+     2006-011848 TU FRAGANCIA FAVORITA TODOS LOS DIAS    
+                 PERFUMES FACTORY, C.A.                  
+     2006-011844 TU FRAGANCIA FAVORITA TODOS LOS DIAS    
+                 PERFUMES FACTORY, C.A.                  
+     2006-011849 TU FRAGANCIA FAVORITA TODOS LOS DIAS    
+                 PERFUMES FACTORY, C.A.                  
+     2006-009448 TU MEJOR OPCION                         
+                 PRIME SHOES, C.A.                       
+     2006-009449 TU MEJOR OPCION                         
+                 PRIME SHOES, C.A.                       
+     2006-013315 TU PROPIO ESPACIO                       
+                 INVERSIONES 04M, C.A.                   
+     2006-012573 TU SABES LO QUE IMPORTA                 
+                 SOCIETE DES PRODUITS NESTLE S.A.        
+     2006-009071 UN BALANCE A SU FAVOR                   
+                 ADVANCE CONSULTORES EMPRESARIALES 1041, 
+     2006-013922 UN FILTRO PARA CADA NECESIDAD           
+                 FELIX GIANNATTASIO CORVINO              
+     2006-013142 UN MUNDO DE OPCIONES                    
+                 BERRIZBEITIA MANUEL                     
+     2006-011893 UN PERIODICO IMPLACABLE                 
+                 ALBERTO NOLIA CEPEDA                    
+     2006-011151 UN SOL EN TU MESA                       
+                 INDUSTRIA ALIMENTICIA NACIONAL DE CEREAL
+     2006-010749 UNA JOYA EN TU MESA                     
+                 INDUSTRIA ALIMENTICIA NACIONAL DE CERALE
+     2006-009997 USTED DIO JUSTO EN EL BANCO             
+                 BANCO NACIONAL DE CREDITO, C.A.         
+     2006-009998 USTED DIO JUSTO EN EL BANCO             
+                 BANCO NACIONAL DE CREDITO, C.A.         
+     2006-013899 VUELTA Y VUELTA                         
+                 FONTANA POULTRY PACKING, C.A.           
+     2006-011985 ¡SIEMPRE UTILES!                        
+                 GUILLERMO RAMIREZ RINCON                
+     2005-023052 ¿PARA TI QUE ES LO CENTRAL?             
+                 C.A. CENTRAL, BANCO UNIVERSAL           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

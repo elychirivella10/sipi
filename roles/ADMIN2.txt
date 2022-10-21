@@ -1,0 +1,721 @@
+.| Salir|aut_logout.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Carga de Solicitudes
+...| Ingreso de Solicitud|marcas/m_infosol.php?vopc=3
+...| Ingreso de Solicitud Omitida|marcas/m_ingomitida.php
+...|---
+...| Modificar Solicitud|marcas/m_infosol.php?vopc=4
+...| Modificar Solicitud|marcas/m_modifica.php?vopc=4
+...| Modificar Solicitud en cualquier estatus|marcas/m_actualiza.php?vopc=4
+...| Modificaci&oacute;n de Clase|marcas/m_modclnac.php?vopc=4
+...| Modificaci&oacute;n de Distingue|marcas/m_modprod.php?vopc=4
+...| Modificaci&oacute;n de Etiqueta|marcas/m_modetiqueta.php?vopc=4
+...| Modificaci&oacute;n de Titular|marcas/m_modtitular.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_pantevent.php
+...| Evento Individual Taquilla Integral|marcas/m_eveind_ti.php?conx=1&salir=1
+...| Evento por Lotes|marcas/m_evelote.php?conx=1&salir=1
+...| Evento Publicaci&oacute;n en Prensa|marcas/m_eveper.php?vopc=4
+...| Pago de Derechos de Registros Facturados|marcas/m_ingfacbol.php?vopc=1
+...| Pago de Derechos de Registros Exonerados|marcas/m_evpagoexo.php
+...| Examen de Forma
+....| Prorrogas|marcas/m_prorroga.php
+....| Devoluciones (LPI 55) Formato VIEJO|marcas/m_devoluci56.php
+....| Modificaci&oacute;n de Devoluciones (LPI 55) Formato VIEJO|marcas/m_devoluci56_mod.php
+....|---
+....| Devoluci&oacute;n (LPI 55) NUEVO FORMATO|marcas/m_devoluci56n.php
+....| Modificaci&oacute;n de Devoluciones (LPI 55) NUEVO FORMATO|marcas/m_devoluci56nf_mod.php
+....|---
+....| Reingresos|marcas/m_infosol.php?vopc=5
+....|---
+....| Control Entrega de Oficios de Devoluci&oacute;n|marcas/m_ctrldev.php?vopc=3
+...| Examen de Fondo
+....| Devoluciones|marcas/m_devfondo.php
+....| Modificaci&oacute;n de Devoluciones Fondo (LPI 55)|marcas/m_devol_fondo_mod.php
+....| Examen de Fondo (LPI)|marcas/m_exfon55.php?conx=1&salir=1
+....| Negaciones (LPI 55)|marcas/m_negacion56.php
+...| Cambios Anteriores a Registros No Facturables
+....| Cambios de Agente/Tramitante|marcas/m_cambagtr_original.php
+....| Cambios de Solicitante|marcas/m_cambtitu_original.php
+....| Cambios de Domicilio del Solicitante|marcas/m_cambdomi_original.php
+...| Cambios Anteriores a Registros Facturables
+....| Cambios de Agente/Tramitante|marcas/m_cambagtr.php
+....| Cambios de Solicitante|marcas/m_cambtitu.php
+....| Cambios de Domicilio del Solicitante|marcas/m_cambdomi.php
+...| Registro
+....| Asignar N&uacute;mero de Registro Manual|marcas/m_regsole.php
+....| Asignar N&uacute;mero de Registro Automatico|marcas/m_regsolm.php
+....| Asignar Nro de Registro en Lote|marcas/m_regsolote.php?conx=1&salir=1
+....| Escrito de Reclasificaci&oacute;n Int->Nac|marcas/m_reclaintnac.php
+....| Reclasificaci&oacute;n Nac->Int (CAN)|marcas/m_reclasif.php
+....| Reclasificaci&oacute;n Int->Nac (LPI 55)|marcas/m_reclasif56.php
+....| Modificaci&oacute;n de Registros|marcas/m_infosol.php?vopc=6
+....| Control de Certificados de Registros|marcas/m_controlcert.php?vopc=3
+....| Control de Certificados de Registros Entrega|marcas/m_entregacert.php?vopc=4
+..|---
+..| Anotaciones Marginales
+...| Con Facturacion Actual >= 2010
+....| Cesiones, Fusiones y Cambios de Titular|marcas/m_amcesion.php
+....| Cambios de Domicilio del Titular|marcas/m_amcamdom.php
+....| Licencias de Uso|marcas/m_amlicuso.php
+....| Renovacion|marcas/m_amrenova.php
+...| Con Facturacion y Fecha <= 2009
+....| Cesiones, Fusiones y Cambios de Titular|marcas/m_amcesionv.php
+....| Cambios de Domicilio del Titular|marcas/m_amcamdomv.php
+....| Licencias de Uso|marcas/m_amlicusov.php
+....| Renovacion|marcas/m_amrenovav.php
+...| Anterior Original
+....| Cesiones, Fusiones y Cambios de Titular|marcas/m_amcesion_original.php
+....| Cambios de Domicilio del Titular|marcas/m_amcamdom_original.php
+....| Renovacion Original|marcas/m_amrenova_original.php
+....| Licencias de Uso Original|marcas/m_amlicuso_original.php
+...| Examen de Forma
+....| Devoluciones|marcas/m_devanota.php
+....| Oficios de Devolucion|marcas/m_rptdevam.php
+....| Listado Devoluciones a Notas Marginales a Publicar|marcas/m_lisdevreg.php?conx=1&salir=1
+...| Publicaciones|marcas/m_marginal.php
+...| Publicaci&oacute;n en Bolet&iacute;n Renovaci&oacute;n|marcas/m_marginalfm04.php
+...| Publicaci&oacute;n en Bolet&iacute;n Cesi&oacute;n|marcas/m_marginalfm05.php
+...| Listado de Anotaciones Marginales a Publicar|marcas/m_rptpmarginal.php?conx=1&salir=1
+...| Eliminacion Anota. Marginal a Publicar|marcas/m_actmargi.php?vopc=1
+..|---
+..| Prensa Digital
+...| Pago de Publicaci&oacute;n en Prensa|marcas/m_infoprensa.php?vopc=3
+...| Pago de Publicaci&oacute;n en Prensa|marcas/m_ingfacpren.php?vopc=1
+...| Reporte Publicaciones Prensa Marcas|marcas/m_rptpubmar.php
+...| Reporte Publicaciones Prensa Patentes|patentes/p_rptpubpat.php
+...| Generar Datos Publicacion en Prensa|marcas/z_publiprensa.php
+...| Actualizar Publicacion en Prensa|marcas/z_actualprensa.php
+...| Actualizar Publicacion en Prensa Patentes|patentes/p_actualprensa.php
+..|---
+..| Bolet&iacute;n
+...| Coordinaci&oacute;n de Marcas
+....| Aplicaci&oacute;n Evento 30 a Marcas por Bolet&iacute;n|marcas/m_ev30bol.php
+....| Marcas sin Consignaci&oacute;n de Publicaci&oacute;n en Prensa a Perimir|marcas/m_peribol.php
+....| Desistir Observadas sin Contestar en Lote|marcas/m_actobscon.php
+....| Actualizar Observadas NO Admitidas Art 49 Lopa en Lote|marcas/m_obsinad49.php
+....| Actualizar a Solicitadas Observadas NO Admitidas Art 49 Lopa en Lote |marcas/m_actobs49sinrec.php
+....| Actualizar a Solicitadas, Observadas NO Ratificadas|marcas/m_actobsinev81.php
+....|---
+....| Generaci&oacute;n de Datos|marcas/m_bolgenar.php
+....| Generaci&oacute;n de Marcas Observadas/Caducas por Boletin|marcas/m_bolgenobs.php
+....| Generaci&oacute;n de Marcas Observadas por Boletin|marcas/m_genobsbol.php
+....| Edici&oacute;n de Datos Generados|marcas/m_bolediar.php
+....|---
+....| Estadisticas previo a la Actualizaci&oacute;n|marcas/m_pminbol.php
+....|---
+....| Generaci&oacute;n de Archivos y Listados
+.....| Listados|marcas/m_rptplisbol.php?conx=1&salir=1
+.....| Listado de Orden de Publicaci&oacute;n|marcas/m_rptpordepub.php?conx=1&salir=1
+.....| Orden de Publicaci&oacute;n x Bolet&iacute;n|marcas/m_rptpprensa.php?conx=1&salir=1
+.....| Observadas sin Contestaci&oacute;n|marcas/m_rptpobscon.php?conx=1&salir=1
+...|---
+...| Registro Propiedad Industrial 
+....| Marcas de Bolet&iacute;n Anterior a Caducar|marcas/m_cadubol.php
+....| Marcas Devueltas Forma Publicadas NO Contestadas a Extinguir|marcas/m_actdevscon.php
+....| Marcas Devueltas Fondo Publicadas NO Contestadas a Extinguir|marcas/m_actdevfondo.php
+....| Marcas Concedidas por Nuevo Procedimiento Forma/Fondo a Publicar|marcas/m_actconnewpro.php
+....| Marcas Detenidas por Nuevo Procedimiento Forma/Fondo a Publicar|marcas/m_actdetnewpro.php
+....|---
+....| Generaci&oacute;n de Datos|marcas/m_bolgenareg.php
+....| Edici&oacute;n de Datos Generados|marcas/m_bolediareg.php
+....|---
+....| Extras Adicionales de su Momento
+.....| Marcas con Intencion de Pago a Caducar|marcas/m_cadu404.php
+.....| Generaci&oacute;n de Datos otras Anotaciones Marginales|marcas/m_bolgenre.php
+.....| Generaci&oacute;n de Datos Bolet&iacute;n 588 II Parte Perenci&oacute;n |marcas/z_prebol588.php
+.....| Generaci&oacute;n de Datos Bolet&iacute;n 600 Cancelaci&oacute;n x NO USO|marcas/z_cancelacion600.php
+.....| Edici&oacute;n de Datos Generados otras Anota. Marginales|marcas/m_boldiare.php
+.....| Verificaci&oacute;n Anotaciones Marginales|marcas/m_bolveram.php
+....|---
+....| Estadisticas previo a la Actualizaci&oacute;n|marcas/m_pminbol.php
+....|---
+....| Generaci&oacute;n de Archivos y Listados
+.....| Listados|marcas/m_rptplisbolr.php?conx=1&salir=1
+.....| Devueltas Publicadas sin Contestaci&oacute;n|marcas/m_devnocon.php?conx=1&salir=1
+.....| Listado Desitimiento Anotaciones Marginales|marcas/m_rptplisdes.php?conx=1&salir=1
+.....| Listado Devoluciones de Registros a Publicar|marcas/m_rptpdevreg.php?conx=1&salir=1
+.....| Listado Reingresos de Devoluci&oacute;n A.M.|marcas/m_rptpreidf.php?conx=1&salir=1
+.....| Negadas x Articulo y Literal|marcas/m_rptnegada.php
+.....| Reporte de Negadas por Bolet&iacute;n|marcas/m_rpnegarlit.php
+...|---
+...| Actualizaci&oacute;n de Bolet&iacute;n
+....| Por Lote|marcas/m_bolactlo.php
+....| Por Lote Rezagada|marcas/m_bolactloe.php
+....| De Fechas Vencimientos|marcas/z_bolvenc.php
+....| Envio de Datos Prensa 2021 a Publicar por Bolet&iacute;n|marcas/m_pubprenbol.php?vopc=1
+....| Publicaci&oacute;n en Bolet&iacute;n de Fechas de Renovaci&oacute;n|marcas/m_actrenbol.php?vopc=1
+....|---
+....| Generacion de Oficios de Devoluci&oacute;n Forma x Boletin para WEBPI|marcas/m_gendevnewfor.php?vopc=1
+....| Generacion de Oficios de Devoluci&oacute;n Fondo x Boletin para WEBPI|marcas/m_gendevolfon.php?vopc=1
+..|---
+..| Tablas
+...| Ingresos
+....| Estatus|comun/z_estatus.php?vopc=3
+....| Eventos|comun/z_evento.php?vopc=3
+....| Migraciones|comun/z_tablmigr.php?vopc=3
+....| Poderes|marcas/m_ipoderes.php?opc=11
+....| Codigos de Viena|marcas/m_viena.php?vopc=3
+...| Actualizacion
+....| Estatus|comun/z_estatus.php?vopc=4
+....| Eventos|comun/z_evento.php?vopc=4
+....| Migraciones
+....| Poderes|marcas/m_apoderes.php?opc=13
+....| Clasificaci&oacute;n de Niza
+....| C&oacute;digos de Viena|marcas/m_viena.php?vopc=4
+..|---
+..| B&uacute;squeda Tecnica|sbm/index.php
+..| B&uacute;squedas
+...| Fonetica y Grafica
+....| (*) Carga Control de Facturas Busquedas Informaci&oacute;n|marcas/m_ingbusrec1.php?vopc=1
+....| Carga de Pedidos|marcas/m_ingfacfon1.php?vopc=1
+....| Modificaci&oacute;n de Pedido Fonetico|marcas/m_bfonetica_sede.php?vopc=4
+....| Modificaci&oacute;n de Pedido Gr&aacute;fico|marcas/m_bexfigu.php?vopc=4
+....| Fonetica
+.....| B&uacute;squedas Externas|marcas/m_panelfon.php
+.....| Examen de Fondo
+......| Generar Archivo TXT Solicitudes Fondo - al Servidor Fonetica|marcas/m_fondotxt.php
+......| Generar Archivo TXT Solicitudes Forma/Fondo - al Servidor Fonetica|marcas/m_fondotxt1.php
+......| Generar Archivo TXT Solicitudes Forma/Fondo - al Servidor Fonetica x Criterio|marcas/m_fondotxtcri.php
+......| Transformar Resultado TXT Busquedas de Fondo a Formato PDF|comun/z_leabusqf.php?vopc=1
+....| Figurativa o Gr&aacute;fica 
+.....| Carga de Datos Gr&aacute;ficos de la Web|marcas/m_ingwebfig.php
+.....| Copiar Imagen Externa al Servidor|marcas/m_upimagen.php?vopc=3
+.....| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+.....| Actualizaci&oacute;n de Verificacion|marcas/m_solviena.php
+.....| Ver Verificacion|marcas/m_vvienasol.php
+.....| Procesamiento
+......| Por Codigo|marcas/m_conviena.php
+......| Externa|marcas/m_pbexfigu.php?vopc=5
+......| Interna|marcas/m_pbinfigu.php
+.....| Ver Resultados Externos|marcas/m_verbusext.php
+.....| Env&iacute;o de Resultado B&uacute;squeda PDF por Correo|comun/m_mailbusqgext.php?vopc=1
+.....| Actualizaci&oacute;n de Estatus para Re-Env&iacute;o de Resultado B&uacute;squeda por Correo|marcas/m_actenvgra.php?vopc=4
+.....| B&uacute;squedas Externas|marcas/m_panelgra.php
+...| Reportes de Auditor&iacute;a
+....| B&uacute;squeda Fonetica(s)/Gr&aacute;fica(s) Diarias|marcas/m_rptbusdia.php
+....| Factura B&uacute;squeda Fonetica Cargadas|marcas/m_rptconfon.php
+....| Factura B&uacute;squeda Gr&aacute;ficas Cargadas|marcas/m_rptconlog.php
+....| B&uacute;squedas Cargadas por Procesar/Enviar|marcas/m_rptbuspen.php
+....| Control de Logos Entregados|marcas/m_rptlogent.php
+....| Proceso de Verificaci&oacute;n|marcas/m_rptpauver.php
+....| B&uacute;squeda Interna|marcas/m_rptpaubin.php
+....| B&uacute;squeda Externa|marcas/m_rptpaubex.php
+...| (*) Fonetica Opciones Anteriores
+....| Carga de Factura y Planillas de Busqueda
+.....| Carga de Facturas Busquedas SAPI
+......| Ingreso Control de Facturas|marcas/m_infonetica.php?vopc=3
+......| Modificaci&oacute;n de Control de Facturas|marcas/m_infonetica.php?vopc=4
+.....| Carga de Busqueda - Sede SAPI
+......| Ingreso de Pedido SAPI|marcas/m_bfonetica_sede.php?vopc=3
+......| Modificaci&oacute;n de Pedido SAPI|marcas/m_bfonetica_sede.php?vopc=4
+......| Ingreso de Pedido SAPI en Lote|marcas/m_ingfacfon.php?vopc=1
+......| Ingreso de Pedido SAPI Taquilla Integral|marcas/m_ingfacfon1.php?vopc=1
+.....| Carga de Busqueda - Taquilla Unica
+......| Ingreso de Pedido|marcas/m_bfonetica.php?vopc=3
+......| Modificaci&oacute;n de Pedido|marcas/m_bfonetica.php?vopc=4
+.....| Modificaci&oacute;n de Fecha Proceso|marcas/m_bfonetica.php?vopc=6
+....| Generar Archivo TXT de Taquillas - Procesar Busquedas|marcas/m_abfontxt.php
+....| Transformar Resultado TXT Busquedas Externas a Formato PDF|comun/m_btxtpdfext.php?vopc=1
+....| Env&iacute;o de Resultado B&uacute;squeda PDF por Correo|comun/m_mailbusqext.php?vopc=1
+....| Reportes de Auditor&iacute;a
+.....| De Facturas Busquedas Recibidas|marcas/m_rptaudfac.php
+.....| De Planillas Cargadas|marcas/m_rptconfon.php
+.....| De Busquedas Procesadas|marcas/m_rptfonpro.php
+....| Examen de Fondo
+.....| Generar Archivo TXT Solicitudes Fondo - al Servidor Fonetica|marcas/m_fondotxt.php
+.....| Transformar Resultado TXT Busquedas de Fondo a Formato PDF|comun/z_leabusqf.php?vopc=1
+...| (*) Figurativa Opciones Anteriores
+....| Copia de Imagenes
+.....| Copiar Imagen Externa al Servidor|marcas/m_upimagen.php?vopc=3
+.....| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+.....| Copiar Imagenes Presentadas al Servidor|marcas/m_upimgbol.php?vopc=3
+....| Actualizaci&oacute;n de Verificacion|marcas/m_solviena.php
+....| Ver Verificacion|marcas/m_vvienasol.php
+....| Carga de Planillas Pedidos
+.....| Ingreso de Pedido|marcas/m_bexfigu.php?vopc=3
+.....| Ingreso de Pedido Informacion|marcas/m_bexlogo.php?vopc=3
+.....| Carga de Datos Gr&aacute;ficos de la Web|marcas/m_ingwebfig.php
+.....| Modificaci&oacute;n de Pedido|marcas/m_bexfigu.php?vopc=4
+.....| Modificaci&oacute;n de Pedido Informacion|marcas/m_bexlogo.php?vopc=4
+....| B&uacute;squedas
+.....| Por Codigo|marcas/m_conviena.php
+.....| Externa|marcas/m_pbexfigu.php?vopc=5
+.....| Interna|marcas/m_pbinfigu.php
+....| Env&iacute;o de Resultado B&uacute;squeda PDF por Correo|comun/m_mailbusqgext.php?vopc=1
+....| Auditor&iacute;a
+.....| Proceso de Verificaci&oacute;n|marcas/m_rptpauver.php
+.....| Planillas Cargadas|marcas/m_rptconlog.php
+.....| Control de Logos Entregados|marcas/m_rptlogent.php
+.....| B&uacute;squeda Interna|marcas/m_rptpaubin.php
+.....| B&uacute;squeda Externa|marcas/m_rptpaubex.php
+...| Peticionario o Solicitante o Titular|
+....| Cargar|marcas/m_peticio.php?conx=1&salir=1
+....| Reporte|marcas/m_rptppeticio.php?conx=1&salir=1
+....| Listados|marcas/m_rptplispet.php?conx=1&salir=1
+..|---
+..| Certificado Electr&oacute;nico
+...| Generacion de Certificado|marcas/m_gencertif.php?vopc=1
+...| Enviar Certificados para la firma|comun/z_enviarcert.php?vopc=1
+...| Consulta de Certificado Electr&oacute;nico|marcas/m_rptpcertem.php?vopc=1
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+...| Consulta Interna Restringida|consultamarcas/indexi2.php
+...| Consulta Interna Completa|consultamarcas/indexfull.php
+...| Consulta Decisi&oacute;n Forma/Fondo|consultamarcas/indexforfon.php
+...| Consulta Abierta|marcas/m_rptpcona.php?conx=1&salir=1
+...| Cronolog&iacute;a|marcas/m_rptpcronol.php?conx=1&salir=1
+...| Expediente Electr&oacute;nico|expediente/m_rptpexp.php
+...| Carga de Agentes|comun/m_rptcaragen.php
+...| Hoja de Acta de Agentes|comun/m_rpthojagen.php
+...| Poderes|marcas/m_cpoderes.php?opc=12
+...| Poderes con Solicitudes|marcas/m_cpoderes_sol.php?opc=12
+...| Pago de Tasa (Derechos)|marcas/m_rptptasa.php?conx=1&salir=1
+...| Administrativos|
+....| Solicitudes Presentadas|marcas/m_rptpsolpre.php?conx=1&salir=1
+....| Solicitudes Presentadas formato Boletin|marcas/b_rptpsolpre.php
+....| Solicitudes por Estatus formato Boletin|marcas/mb_rptpsolpre.php
+....| Solicitudes en Estatus 8 pendiente x Evaluar|marcas/m_rptpestfon8.php
+....| Solicitudes Negadas Estatus 102 en formato Boletin para Revision|marcas/b_rptpsolneg.php
+....|---
+....| Oficios de Devoluci&oacute;n (LPI 55)|marcas/m_rptpoficio55.php?conx=1&salir=1
+....| Oficios de Devoluci&oacute;n Fondo (LPI 55)|marcas/m_rptpofifon55.php?conx=1&salir=1
+....|---
+....| Oficios de Devoluci&oacute;n (LPI 55) Nuevo Formato|marcas/m_rptpoficio55nf.php?conx=1&salir=1
+....|---
+....| Generacion de Oficios de Devoluci&oacute;n Forma x Boletin Formato Anterior|marcas/m_gendevolucion.php?vopc=1
+....| Generacion de Oficios de Devoluci&oacute;n Forma x Boletin Nuevo Formato|marcas/m_gendevnewfor.php?vopc=1
+....|---
+....| Generacion de Oficios de Devoluci&oacute;n Fondo x Boletin Formato Anterior|marcas/m_gendevolfon.php?vopc=1
+....|---
+....| Oficios de Prorrogas|marcas/m_rptprorroga.php
+....| Devueltas Publicadas con Contestaci&oacute;n|marcas/m_devconbol.php?conx=1&salir=1
+....| Control de Certificados|marcas/m_rptctrlcer.php
+....| Emisi&oacute;n Planillas de B&uacute;squedas|marcas/m_ingfacbus.php?vopc=1
+....| Re-Emisi&oacute;n Planillas de B&uacute;squedas|marcas/m_impfacbus.php?vopc=1
+....| Reporte de Planillas B&uacute;squedas Generadas|marcas/m_rptplanbus.php
+....| Auditor&iacute;a Solicitudes Modificadas|marcas/m_rptpaudmod.php
+....| Auditor&iacute;a Logotipos Modificados|marcas/m_rptpaudlog.php
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php?conx=1&salir=1
+.....| Por Criterio y Nombre|marcas/m_rptpavzcri_nom.php?conx=1&salir=1
+.....| Por Criterio Lemas (Est.104/Comentario)|marcas/m_rptpavzcri_lemas.php
+.....| Por Criterio Negadas (Est.102/111)|marcas/m_rptpavzcri_neg.php?conx=1&salir=1
+.....| Negadas Amplio (Est.102/111)|marcas/m_rptpnegada.php
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Listados Varios con Usuario|marcas/m_rptpavztra_u.php?conx=1&salir=1
+.....| Por Listados Varios Auditoria Usuario|marcas/m_rptpavztra_ua.php?conx=1&salir=1
+.....| Por Listados Varios x reg.|marcas/m_rptpavztra_r.php?conx=1&salir=1
+.....| Listado Forma-Fondo|marcas/m_rptpforfon.php
+.....| Listados de Marcas Concedidas con Titulares a Caducar|marcas/m_rptm400bol.php
+.....| Listados de Lemas Detenidos asociadas a Marcas Concedidas|marcas/m_rptlmdtmcon.php
+.....| Listados de Lemas Detenidos asociadas a Marcas Negadas|marcas/m_rptlmdtmneg.php
+.....| Listados Marcas Registradas X Bol.|marcas/m_rptpavztra_estbol.php?conx=1&salir=1
+.....| Listados con Titulares|marcas/m_rptpavzda.php?conx=1&salir=1
+.....| Listados con Datos Telefonicos|marcas/m_rptpavzdt.php?conx=1&salir=1
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php?conx=1&salir=1
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php?conx=1&salir=1
+.....| Por Transacciones de Escritos Defectuosos|marcas/m_rptpavztra1_esc.php?conx=1&salir=1
+.....| Listado de Anotaciones Marginales a Publicar|marcas/m_rptpanota.php?conx=1&salir=1
+....|---
+....| Tablas|||
+.....| Status Administrativos|marcas/m_rptestatus.php
+.....| Eventos|marcas/m_rptevento.php
+.....| Migraci&oacute;n de status|marcas/m_rptmigest.php
+.....| Paises|marcas/m_rptpais.php
+.....| Agentes|marcas/m_rptagente.php
+.....| Poderes|marcas/m_rptppoder.php?conx=1&salir=1
+.....| Clases Internacionales|marcas/m_rptclafi.php
+...| Certificados|
+....| Generar nuevos|marcas/m_rptpcertm_new.php
+....| Generar|marcas/m_rptpcertm.php
+....| Formato|marcas/m_rptcertifp.php
+....| Solo datos|marcas/m_rptpcertifd.php?conx=1&salir=1
+....| Llenado|marcas/m_certdigtp.php
+....| Cont.de datos|marcas/m_rptpconcert.php
+....| Certf. Elaborados|marcas/m_rptpelabcert.php
+..|---
+..| Estadisticas||Estadistidicas de Marcas|
+...| Todas las Publicaciones de un Boletin|marcas/m_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|marcas/m_est_tpuxbol.php?vopc=0
+...| Relaci&oacute;n: (Concesi&oacute;n-Pago) por Boletines|marcas/m_est_rconpag.php?vopc=0
+...| Relaci&oacute;n: (Orden Pub.Prensa-Pago) por Boletines|marcas/m_est_rordpag.php?vopc=0
+...|---
+...| Presentadas por a&ntilde;o|marcas/m_est_prexmes.php?vopc=0
+...| Examinadas Fondo/Forma por A&ntilde;o (Eventos:51,52,53,54)|marcas/m_est_exaxmes.php?vopc=0
+...| Registradas por a&ntilde;o|marcas/m_est_regxmes.php?vopc=0
+...|---
+...| Por Estatus en tipos de Marcas|marcas/m_est_estatus.php?vopc=0
+...| Transacciones por Evento/Usuarios|marcas/m_est_usuxmes.php?vopc=0
+...| Poyeccion Bolet&in Situaci&oacute;n Actual de Marcas|marcas/m_est_proybol.php?vopc=0
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Carga de Solicitudes
+...| Ingreso de Solicitud (LPI 55)|patentes/p_infosol.php?vopc=3
+...| Ingreso de Solicitud Omitida|patentes/p_ingomitida.php
+...|---
+...| Modificar Solicitud (LPI 55)|patentes/p_infosol.php?vopc=4
+...| Modificar Solicitud en cualquier Estatus (LPI 55)|patentes/p_infosol_cualquierestatus.php?vopc=4
+..|---
+..| Datos T&eacute;cnicos
+...| Actualizaci&oacute;n|patentes/p_datostec.php
+...| Actualizaci&oacute;n Completa|patentes/p_datostecj.php
+...| Palabras Claves|patentes/p_pclaves.php
+...| Modificaci&oacute;n de Resumen|patentes/p_resumen.php
+..|---
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+...| Evento por Lotes|patentes/p_evelote.php
+...| Evento Publicaci&oacute;n en Prensa|patentes/p_eveper.php?vopc=4
+...| Pago de Derechos de Registros Facturados|patentes/p_ingfacbol.php?vopc=1
+...| Examen de Forma
+....| Devoluciones|patentes/p_devoluci.php
+....| Modificaci&oacute;n de Devoluciones|patentes/p_devoluci_mod.php
+....| Cambio de Bolet&iacute;n para Notificar Devoluci&oacute;n|patentes/p_boldev.php
+...| Examen de Fondo
+....| Devoluci&oacute;n|patentes/p_ofidevfondo.php?vopc=3
+....| Mod Devoluci&oacute;n|patentes/p_ofidevfondo.php?vopc=4
+....| Modificaci&oacute;n de Devoluci&oacute;n|patentes/p_ofidevfondo_mod.php
+...| Cambios
+....| Cambios de Agente/Tramitante|patentes/p_cambagtr.php
+....| Cambios de titular|patentes/p_cambtitu.php
+....| Cambios de Domicilio del titular|patentes/p_cambdomi.php
+...| Registro
+....| Asignar Nro Registro Individual|patentes/p_regsolp.php
+....| Asignar N&uacute;mero de Registro Manual|patentes/p_regsole.php
+....| Actualizar Fecha de Vencimiento a Registro|patentes/p_vencireg.php
+....| Modificaci&oacute;n de Registros|patentes/p_infosol.php?vopc=6
+....| Control de Certificados de Registros|patentes/p_controlcert.php?vopc=3
+....| Control de Certificados de Registros Entrega|patentes/p_entregacert.php?vopc=4
+...| Correcci&oacute;n de Error Material|patentes/p_evcomat.php
+...| Reverso de Eventos|patentes/p_reversoe.php
+..|---
+..| Anotaciones Marginales
+...| Cesiones, Fusiones y Cambios de Titular|patentes/p_amcesion.php
+...| Cambios de Domicilio del Titular|patentes/p_amcamdom.php
+...| Licencias de Uso|patentes/p_amlicuso.php
+...| Devoluciones|patentes/p_devanota.php
+...| Oficios de Devolucion|patentes/p_rptdevam.php
+..|---
+..| Control de Anualidades
+...| Carga de Anualidades|patentes/p_anualidad.php
+..|---
+..| B&uacute;squeda
+...| T&eacute;cnica|sbp/index.php
+...| Diseno Industrial
+....| Copiar Imagen Externa al Servidor|patentes/p_upimagen.php?vopc=3
+....| Copiar Imagen Fondo al Servidor|patentes/p_upimagen2.php?vopc=3
+....| Ingreso de Pedido|patentes/p_bexfigu.php?vopc=3
+....| Modificaci&oacute;n de Pedido|patentes/p_bexfigu.php?vopc=4
+....| B&uacute;squeda Externa|patentes/p_pbexdise.php?vopc=5
+....| B&uacute;squeda Interna|patentes/p_pbindise.php
+....| Auditor&iacute;a
+.....| B&uacute;squeda Interna|patentes/p_rptpaubin.php
+.....| B&uacute;squeda Externa|patentes/p_rptpaubex.php
+...| Peticionario o Solicitante|
+....| Cargar|patentes/p_peticio.php?conx=1&salir=1
+....| Reporte|patentes/p_rptppeticio.php?conx=1&salir=1
+..|---
+..| Bolet&iacute;n
+...| Patentes sin Consignaci&oacute;n de Publicaci&oacute;n en Prensa a Perimir x Rango|patentes/p_perisol.php
+...| Patentes sin Consignaci&oacute;n de Publicaci&oacute;n en Prensa a Perimir x Boletin|patentes/p_peribol.php
+...| Aplicaci&oacute;n Evento 30 en Lote|patentes/p_ev30pub.php
+...| Patentes Abandonadas por Falta de Pago por Bolet&iacute;n Vencido|patentes/p_cadubol.php
+...| Generaci&oacute;n de Datos|patentes/p_bolgenar.php
+...| Edici&oacute;n de Datos Generados|patentes/p_bolediar.php
+...| Verificaci&oacute;n anotaciones Marginales|patentes/p_bolveram.php
+...| Actualizaci&oacute;n por Lote|patentes/p_bolactlo.php
+...| Actualizaci&oacute;n Anotaciones Marginales|patentes/p_bolactam.php
+...| Actualizaci&oacute;n Extraordinario Nro 1|patentes/p_actbolext_1.php
+...| Eliminaci&oacute;n Actualizaci&oacute;n de Bolet&iacute;n|patentes/p_eliactbol.php
+...|---
+...| Generaci&oacute;n de Archivos y Listados
+....| Listados|patentes/p_rptplisbol.php?conx=1&salir=1
+....| Listado de Orden de Publicacion|patentes/p_rptpordepub.php?conx=1&salir=1
+....| Listado de Patentes de Rehabilitaci&oacute;n|patentes/p_rptprehab.php?conx=1&salir=1
+..|---
+..| Tablas
+...| Ingresos
+....| Estatus|patentes/p_estatus.php?vopc=3
+....| Eventos|patentes/p_evento.php?vopc=3
+....| Migraciones
+....| Poderes|patentes/p_ipoderes.php
+...| Actualizacion
+....| Estatus|patentes/p_estatus.php?vopc=4
+....| Eventos
+....| Migraciones
+....| Poderes|patentes/p_apoderes.php
+..|---
+..| Certificado Electr&oacute;nico
+...| Generacion de Certificado|patentes/p_gencertif.php?vopc=1
+...| Enviar Certificados para la firma|comun/z_enviarcert_pat.php?vopc=1
+...| Consulta de Certificado Electr&oacute;nico|patentes/p_rptpcertep.php?vopc=1
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultapatentes/indexi.php
+...| Consulta Interna Full|consultapatentes/indexfull.php
+...| Consulta Abierta|patentes/p_rptpcona.php?conx=1&salir=1
+...| Cronolog&iacute;a|patentes/p_rptpcronol.php?conx=1&salir=1
+...| Certificados|
+....| Generar|patentes/p_rptpcertp.php
+....| Formato|patentes/p_rptcertifp.php
+....| Solo datos|patentes/p_rptpcertifd.php?conx=1&salir=1
+....| Llenado|patentes/p_certdigtp.php
+....| Cont.de datos|patentes/p_rptpconcert.php
+...| Documentos PDF|patentes/p_iniciopdf.php?conx=1&salir=1
+...| Administrativos|
+....| Solicitudes Presentadas|patentes/p_rptpsolpre.php?conx=1&salir=1
+....| Solicitudes Presentadas formato Boletin|patentes/pb_rptpsolpre.php
+....| Oficios de Devoluci&oacute;n|patentes/p_rptpoficio.php?conx=1&salir=1
+....| Listado de Observaciones a Solicitud|patentes/p_rptcomen.php?conx=1&salir=1
+....|---
+....| Generacion de Oficios de Devoluci&oacute;n Forma x Boletin|patentes/p_gendevolucion.php?vopc=1
+....|---
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php?conx=1&salir=1
+.....| Por Transacciones|patentes/p_rptpavztra.php?conx=1&salir=1
+.....| Por Transacciones Totales|patentes/p_rptpavztra1.php?conx=1&salir=1
+.....| Por Listados Varios x Registro|patentes/p_rptpavztra_r.php
+.....| Listados con Datos Telefonicos|patentes/p_rptpavzdt.php?conx=1&salir=1
+.....| Por Transacciones X Recept.|patentes/p_rptpavztrar.php?conx=1&salir=1
+.....| Por Transacciones x Reg.|patentes/p_rptpavztra_reg.php
+.....| Anualidades|patentes/p_rptpanual.php?conx=1&salir=1
+....| Memoria Descriptiva Digitalizadas|patentes/p_rptpsidig.php
+....| Memoria Descriptiva No Digitalizadas|patentes/p_rptpnodig.php
+....|---
+....| Tablas|||
+.....| Status Administrativos|patentes/p_rptestatus.php
+.....| Eventos|patentes/p_rptevento.php
+.....| Migraci&oacute;n de status|patentes/p_rptmigest.php
+..|---
+..| Estadisticas||Estadistidicas de Patentes|
+...| Todas las Publicaciones de un Boletin|patentes/p_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|patentes/p_est_tpuxbol.php?vopc=0
+...| Relaci&oacute;n: (Concesi&oacute;n-Pago) por Boletines|patentes/p_est_rconpag.php?vopc=0
+...| Relaci&oacute;n: (Orden Pub.Prensa-Pago) por Boletines|patentes/p_est_rordpag.php?vopc=0
+...|---
+...| Presentadas por A&ntilde;o |patentes/p_est_prexmes.php?vopc=0
+...| Examinadas Fondo/Forma por A&ntilde;o (Eventos:28,29,51,52,53,56,59)|patentes/p_est_exaxmes.php?vopc=0
+...| Registradas por a&ntilde;o|patentes/p_est_regxmes.php?vopc=0
+...|---
+...| Por Estatus en tipos de Patentes|patentes/p_est_estatus.php?vopc=0
+...| Transacciones por Evento/Usuarios|patentes/p_est_usuxmes.php?vopc=0
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+..| Crear Nuevo Bolet&iacute;n|boletin/b_ingreso.php?vopc=3&conx=2&salir=1
+..| Crear Nuevo Bolet&iacute;n Extra-Asesoria|boletin/b_newbol.php?vopc=3&conx=2&salir=1
+..| Crear Bolet&iacute;n Pruebas|boletin/b_ingreso2.php?vopc=3&conx=2&salir=1
+..| Modificar  Bolet&iacute;n|boletin/b_ingreso.php?vopc=5&conx=2&salir=1
+..| Modificar  Bolet&iacute;n Asesoria|boletin/b_newbol.php?vopc=5&conx=2&salir=1
+..| Generar Borrador de Bolet&iacute;n|boletin/b_genbol_bor.php?vopc=5
+..| Generar Bolet&iacute;n Nacional|boletin/b_genbol.php?vopc=5
+..| Generar Bolet&iacute;n Extranjero|boletin/b_genbole.php?vopc=5
+..| Concatenar PDF|boletin/b_unionftp.php?vopc=1
+..| Dividir PDF|boletin/b_dividir.php?vopc=1
+.| Ind. Geogr&aacute;ficas||Sistema de Indicaciones Geogr&aacute;ficas|folder.png
+..| Carga de Solicitudes
+...| Ingreso de Solicitud|indicacionesg/i_ingresolig.php?vopc=3
+...| Modificar Solicitud|
+..|---
+..| Control Administrativo
+...| Evento Individual|
+...| Examen de Forma
+....| Devoluci&oacute;n|
+....| Modificaci&oacute;n de Devoluciones|
+....|---
+....| Reingresos|
+..|---
+..| Certificado Electr&oacute;nico
+...| Generacion de Certificado|
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultaindicacionesg/indexi.php
+...| Administrativos|
+....| Solicitudes Presentadas|
+....| Oficios de Devoluci&oacute;n|
+....| Generacion de Oficios de Devoluci&oacute;n x Boletin|
+....|---
+....| Devueltas Publicadas con Contestaci&oacute;n|
+....| Usuarios|
+.....| Por Criterio|
+.| Via Web||Internet|email.png
+..| Carga de Solicitudes
+...| Ingreso de Solicitud Marcas (CAN)|marcas/m_ingsolweb.php?vopc=3&conx=1&salir=1
+..|---
+..| B&uacute;squedas Externas Webpi
+...| Verificaci&oacute;n de Archivos TXT Busquedas a Convertir en PDF|comun/z_verificatxt.php?vopc=1
+...| Cambio de Estatus de Resultados Webpi para Reenvio|marcas/m_actestbusweb.php
+...| Transformar Resultados del Webpi a formato PDF|comun/z_leabusq.php?vopc=1
+...| Verificaci&oacute;n de Resultados en PDF|comun/z_verificapdf.php?vopc=1
+...| Env&iacute;o de Resultados PDF Webpi por Correo|comun/z_enviobusq.php?vopc=1
+..|---
+..| B&uacute;squedas Peticionario Webpi
+...| Reporte Tramites B&uacute;squeda Peticionario Cargados WEBPI|comun/z_rptconpet.php
+...| B&uacute;squeda por Palabra del Titular|comun/z_buspeticio.php
+...| Generaci&oacute;n de Resultados en PDF|comun/z_rptpetiweb.php
+...| Env&iacute;o de Resultados PDF Webpi por Correo|comun/z_enviopet.php?vopc=1
+..|---
+..| Recepci&oacute;n de Solicitud FM02|web/w_ingresol.php?vopc=3
+..|---
+..| Recepci&oacute;n de Cambios Posteriores Marcas
+...| Recepci&oacute;n de Renovaci&oacute;n FM04|web/w_ingreren.php?vopc=3
+...| Recepci&oacute;n de Cesi&oacute;n de Marcas FM05|web/w_ingrecesm.php?vopc=3
+...| Recepci&oacute;n de Cambio de Domicilio de Marcas FM06|web/w_ingredomm.php?vopc=3
+...| Recepci&oacute;n de Licencia de Uso de Marcas FM07|web/w_ingrelicm.php?vopc=3
+...| Recepci&oacute;n de Cambio de Nombre de Marcas FM08|web/w_ingrecnomm.php?vopc=3
+...| Recepci&oacute;n de Fusi&oacute;n de Marcas FM09|web/w_ingrefusm.php?vopc=3
+..|---
+..| Recepci&oacute;n de Solicitud FP01|web/w_ingrepat.php?vopc=3
+..|---
+..| Recepci&oacute;n de Cambios Posteriores Patentes
+...| Recepci&oacute;n de Cesi&oacute;n FP03|web/w_ingrecesp.php?vopc=3
+...| Recepci&oacute;n de Cambio de Domicilio FP04|web/w_ingredomp.php?vopc=3
+...| Recepci&oacute;n de Licencia de Uso FP05|web/w_ingrelicp.php?vopc=3
+...| Recepci&oacute;n de Cambio de Nombre FP06|web/w_ingrecnomp.php?vopc=3
+...| Recepci&oacute;n de Fusi&oacute;n FP09|web/w_ingrefusp.php?vopc=3
+..|---
+..| Recepci&oacute;n de Solicitud de Obras DNDA|web/a_ingresol.php?vopc=3
+..| Recepci&oacute;n de Escritos|web/w_ingrescrito.php?vopc=3
+..|---
+..| Formato Planilla de Marcas|web/z_reportp.php
+..|---
+..| Recepci&oacute;n y Verificaci&oacute;n de Escritos de Marcas|comun/z_veriserv.php
+..|---
+..| Mensajes de Texto Masivos
+...| Env&iacute;o de Archivos Solicitudes de Marcas publicadas en Boletin
+....| Publicadas como Solicitadas|comun/z_fileboletin_sol.php?vopc=1
+....| Orden de Publicaci&oacute;n en Prensa|comun/z_fileboletin_opp.php?vopc=1
+....| Devueltas|comun/z_fileboletin_dev.php?vopc=1
+....| Concedidas|comun/z_fileboletin_con.php?vopc=1
+....| Observadas|comun/z_fileboletin_obs.php?vopc=1
+....| Negadas|comun/z_fileboletin_neg.php?vopc=1
+...| Env&iacute;o de Archivos Solicitudes de Patentes publicadas en Boletin
+....| Publicadas como Solicitadas|comun/z_fileboletin_solp.php?vopc=1
+....| Orden de Publicaci&oacute;n en Prensa|comun/z_fileboletin_oppp.php?vopc=1
+....| Devueltas|comun/z_fileboletin_devp.php?vopc=1
+....| Concedidas|comun/z_fileboletin_conp.php?vopc=1
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+..| Ingreso de Solicitud Autom&aacute;ticas
+...| Obra Literaria                          |autor/a_otrasobrnw.php?vopc=3&vpla=OL
+...| Obra Musical                            |autor/a_otrasobrnw.php?vopc=3&vpla=OM
+...| Obra Esc&eacute;nica                    |autor/a_otrasobrnw.php?vopc=3&vpla=OE
+...| Obra Audiovisual y Radiof&oacute;nicas  |autor/a_otrasobrnw.php?vopc=3&vpla=AR
+...| Arte Visual                             |autor/a_otrasobrnw.php?vopc=3&vpla=AV
+...| Programas de Computaci&oacute;n y Base de Datos|autor/a_otrasobrnw.php?vopc=3&vpla=PC
+...| Actos y Contratos|autor/a_obractosnw.php?vopc=3&conx=2&salir=1
+...| Producci&oacute;n Fonogr&aacute;fica|autor/a_obrpfononw.php?vopc=3&conx=2&salir=1
+...| Interpretaciones y Ejecuciones Art&iacute;sticas|autor/a_obraieanw.php?vopc=3&conx=2&salir=1
+..|---
+..| Ingreso de Solicitud Manual
+...| Obra Literaria                          |autor/a_otrasobr.php?vopc=3&vpla=OL
+...| Obra Musical                            |autor/a_otrasobr.php?vopc=3&vpla=OM
+...| Obra Esc&eacute;nica                    |autor/a_otrasobr.php?vopc=3&vpla=OE
+...| Obra Audiovisual y Radiof&oacute;nicas  |autor/a_otrasobr.php?vopc=3&vpla=AR
+...| Arte Visual                             |autor/a_otrasobr.php?vopc=3&vpla=AV
+...| Programas de Computaci&oacute;n y Base de Datos|autor/a_otrasobr.php?vopc=3&vpla=PC
+...| Actos y Contratos|autor/a_obractos.php?vopc=3&conx=2&salir=1
+...| Producci&oacute;n Fonogr&aacute;fica|autor/a_obrpfono.php?vopc=3&conx=2&salir=1
+...| Interpretaciones y Ejecuciones Art&iacute;sticas|autor/a_obraiea.php?vopc=3&conx=2&salir=1
+..|---
+..| Modificaci&oacute;n de Solicitud
+...| Obra Literaria                          |autor/a_otrasobr.php?vopc=7&vpla=OL
+...| Obra Musical                            |autor/a_otrasobr.php?vopc=7&vpla=OM
+...| Obra Esc&eacute;nica                    |autor/a_otrasobr.php?vopc=7&vpla=OE
+...| Obra Audiovisual y Radiof&oacute;nicas  |autor/a_otrasobr.php?vopc=7&vpla=AR
+...| Arte Visual                             |autor/a_otrasobr.php?vopc=7&vpla=AV
+...| Programas de Computaci&oacute;n y Base de Datos|autor/a_otrasobr.php?vopc=7&vpla=PC
+...| Actos y Contratos|autor/a_obractos.php?vopc=5&conx=2&salir=1
+...| Producci&oacute;n Fonogr&aacute;fica|autor/a_obrpfono.php?vopc=5&conx=2&salir=1
+...| Interpretaciones y Ejecuciones Art&iacute;sticas|autor/a_obraiea.php?vopc=5&conx=2&salir=1
+..|---
+..| Control Administrativo
+...| Evento Individual                |autor/a_eveind.php?conx=2&salir=1
+...| Devoluciones                     |autor/a_devoluci.php
+...| Asignar N&uacute;mero de Registro Manual|autor/a_asigregi.php
+...| Asignar N&uacute;mero de Registro Autom&aacute;tico|autor/a_asigregi_aut.php
+...| Asignar N&uacute;mero de Registro Autom&aacute;tico PROT|autor/a_asigregi_autp.php
+...| Actualizaci&oacute;n Datos Protocolo|autor/a_actprotocolo.php
+..|---
+..| Control de Servicios Webpi
+...| Servicios en L&iacute;nea|autor/a_veriserv.php
+...| Chequeo de Servicios en L&iacute;nea|autor/a_verserfun.php
+..|---
+..| B&uacute;squeda T&eacute;cnica|sba/inicio.php
+..| Busqueda T&eacute;cnica Version 2|sbta/index.php
+..|---
+..| Tablas
+...| Ingresos
+....| Estatus    |autor/a_tablesta.php?vopc=3
+....| Eventos    |autor/a_tableven.php?vopc=3
+....| Migraciones|autor/a_tablmigr.php?vopc=3
+....| Idioma     |autor/a_tablidio.php?vopc=3
+....| Genero     |autor/a_tablgene.php?vopc=3
+...| Actualizaci&oacute;n
+....| Estatus         |autor/a_tablesta.php?vopc=4
+....| Eventos         |autor/a_tableven.php?vopc=4
+....| Idioma          |autor/a_tablidio.php?vopc=4
+....| Genero          |autor/a_tablgene.php?vopc=4
+....| Persona Natural |autor/a_tabldper.php?vopc=4
+....| Persona Jur&iacute;dica|autor/a_tabldjur.php?vopc=4
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultaautor/indexfull.php
+...| Cronolog&iacute;a|autor/a_rptpcronol.php?conx=1&salir=1
+...| Certificados|autor/a_rptpcertifd.php?conx=1&salir=1
+....| Certificados|autor/a_rptpcertif.php?conx=1&salir=1
+....| Cert. Produccion Fon.|autor/a_rptpcertifp.php?conx=1&salir=1
+....| Cert. Actos y Contratos|autor/a_rptpcertif_ac.php?conx=1&salir=1&egc=0
+....| Cert. Actos y Contratos E.G.C.|autor/a_rptpcertif_ac.php?conx=1&salir=1&egc=1
+...| Administrativos|
+....| Solicitudes Presentadas|autor/a_rptpsolpre.php?conx=1&salir=1
+....| Oficios de Devoluci&oacute;n (Despacho Saneador) para Revisi&oacute;n|autor/a_rptpoficio.php?conx=1&salir=1
+....| Generar Oficio de Devoluci&oacute;n formato PDF|autor/a_rptmpoficio.php?conx=1&salir=1
+....| Generaci&oacute;n Oficio(s) de Devoluci&oacute;n Definitivo |autor/a_genoficio.php?vopc=1
+....| Usuarios|
+.....| Por Criterio|autor/a_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|autor/a_rptplisvar.php?conx=1&salir=1
+.....| Por Transacciones|autor/a_rptpavztra.php?conx=1&salir=1
+.....| Ineditas con Datos Autores|autor/a_rptpavzcri2.php?conx=1&salir=1
+....| Tablas|||
+.....| Status Administrativos|autor/a_rptestatus.php
+.....| Eventos|autor/a_rptevento.php
+.....| Migraci&oacute;n de Estatus|autor/a_rptmigest.php
+..|---
+..| Estadisticas||Estadisticas de Derecho de Autor|
+...|Presentadas por A&ntilde;o/Estatus|autor/a_est_prexmes.php
+...|Presentadas por A&ntilde;o/Tipo de Obras|autor/a_est_prextipo.php
+...|Transacciones por Evento/Usuarios|autor/a_est_usuxeve.php
+.| Mantenimiento||Mantenimiento del Sistema|configuration.png
+..| Cambio de Clave|comun/z_modpass.php
+..|---
+..| Eventos Cargados Marcas|marcas/m_actelev.php
+..|---
+..| Eventos Cargados Patentes|patentes/p_actelev.php
+..|---
+..| Eventos Cargados Derecho Autor|autor/a_actelev.php
+..|---
+..| Configuraci&oacute;n|comun/z_adminis.php
+..|---
+..| Tablas Generales
+...| Ingresos
+....| Objetos|marcas/z_ingobj.php
+....| Paises|marcas/z_paises.php?vopc=3
+....| Agentes|comun/z_agentes.php?vopc=3
+...| Asignacion
+....| Opciones de Menu por Rol|comun/z_ingobrol.php
+...| Actualizacion
+....| Objetos|marcas/z_modobj.php
+....| Paises|marcas/z_paises.php?vopc=4
+....| Agentes|comun/z_agentes.php?vopc=4
+....| Poderes|marcas/m_apoderes.php
+...| Eliminacion
+....| Rol|marcas/z_elimrol.php
+....| Objeto|marcas/z_elimobj.php
+....| Rol a Usuario|marcas/z_elrolus.php
+....| Objetos a Rol|marcas/z_elmobrol.php
+....| Eventos por Roles|marcas/z_elmevrol.php
+....| Solicitud de Marca|comun/m_elisolm.php
+....| Solicitud de Patente|comun/p_elisolp.php
+....| Solicitud de Indicaciones Geograficas|comun/i_elisolig.php
+....| Solicitud de Autor|comun/a_elisolda.php

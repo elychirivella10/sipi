@@ -1,0 +1,146 @@
+.| Salir|aut_logout.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Control Administrativo
+...| Evento Individual|marcas/m_pantevent.php
+...| Evento Publicaci&oacute;n en Prensa|marcas/m_eveper.php?vopc=4
+...| Cambios Anteriores a Registros Facturables
+....| Cambios de Agente/Tramitante|marcas/m_cambagtr.php
+....| Cambios de Solicitante|marcas/m_cambtitu.php
+....| Cambios de Domicilio del Solicitante|marcas/m_cambdomi.php
+...| Cambios Anteriores a Registros No Facturables
+....| Cambios de Solicitante|marcas/m_cambtitu_original.php
+....| Cambios de Domicilio del Solicitante|marcas/m_cambdomi_original.php
+...| Pago de Derechos de Registros Facturados|marcas/m_ingfacbol.php?vopc=1
+...| Registro
+....| Control de Certificados de Registros|marcas/m_controlcert.php?vopc=3
+..|---
+..| Prensa Digital
+...| Pago de Publicaci&oacute;n en Prensa|marcas/m_infoprensa.php?vopc=3
+...| Reporte Publicaciones Prensa Marcas|marcas/m_rptpubmar.php
+...| Reporte Publicaciones Prensa Patentes|patentes/p_rptpubpat.php
+..|---
+..| Anotaciones Marginales
+...| Con Facturacion Actual >= 2010
+....| Cesiones, Fusiones y Cambios de Titular|marcas/m_amcesion.php
+....| Cambios de Domicilio del Titular|marcas/m_amcamdom.php
+....| Licencias de Uso|marcas/m_amlicuso.php
+....| Renovacion|marcas/m_amrenova.php
+...| Con Facturacion y Fecha <= 2009
+....| Cesiones, Fusiones y Cambios de Titular|marcas/m_amcesionv.php
+....| Cambios de Domicilio del Titular|marcas/m_amcamdomv.php
+....| Licencias de Uso|marcas/m_amlicusov.php
+....| Renovacion|marcas/m_amrenovav.php
+...| Exoneradas
+....| Cesiones, Fusiones y Cambios de Titular|marcas/m_amcesionex.php
+....| Renovacion|marcas/m_amrenovaex.php
+..|---
+..| Tablas
+...| Ingresos
+....| Agentes|comun/z_agentes.php?vopc=3
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+...| Poderes|marcas/m_cpoderes.php?opc=12
+...| Administrativos|
+....| Solicitudes Presentadas|marcas/m_rptpsolpre.php?conx=1&salir=1
+....| Pago de Tasa (Derechos)|marcas/m_rptptasa.php?conx=1&salir=1
+....| Control de Certificados|marcas/m_rptctrlcer.php
+....| Emisi&oacute;n Planillas de B&uacute;squedas|marcas/m_ingfacbus.php?vopc=1
+....| Re-Emisi&oacute;n Planillas de B&uacute;squedas|marcas/m_impfacbus.php?vopc=1
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Listados Varios x Reg.|marcas/m_rptpavztra_r.php
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php?conx=1&salir=1
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php?conx=1&salir=1
+.....| Por Transacciones de Escritos Defectuosos|marcas/m_rptpavztra1_esc.php?conx=1&salir=1
+.....| Listados con Titulares|marcas/m_rptpavzda.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+...| Evento Publicaci&oacute;n en Prensa|patentes/p_eveper.php?vopc=4
+...| Cambios
+....| Cambios de Agente/Tramitante|patentes/p_cambagtr.php
+....| Cambios de titular|patentes/p_cambtitu.php
+....| Cambios de Domicilio del titular|patentes/p_cambdomi.php
+..|---
+..| Anotaciones Marginales
+...| Cesiones, Fusiones y Cambios de Titular|patentes/p_amcesion.php
+...| Cambios de Domicilio del Titular|patentes/p_amcamdom.php
+...| Licencias de Uso|patentes/p_amlicuso.php
+...| Devoluciones|patentes/p_devanota.php
+...| Oficios de Devolucion|patentes/p_rptdevam.php
+..|---
+..| Control de Anualidades
+...| Carga de Anualidades|patentes/p_anualidad.php
+..|---
+..| B&uacute;squeda
+...| T&eacute;cnica|sbp/index.php
+..|---
+..| Consultas y Reportes
+...| Cronolog&iacute;a|patentes/p_rptpcronol.php?conx=1&salir=1
+...| Administrativos|
+....| Solicitudes Presentadas|patentes/p_rptpsolpre.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios x Registro|patentes/p_rptpavztra_r.php
+.....| Por Transacciones|patentes/p_rptpavztra.php?conx=1&salir=1
+.....| Transacciones x Recept.|patentes/p_rptpavztrar.php?conx=1&salir=1
+.....| Transacciones x Registro|patentes/p_rptpavztra_reg.php
+.....| Anualidades|patentes/p_rptpanual.php?conx=1&salir=1
+.| Ind. Geogr&aacute;ficas||Sistema de Indicaciones Geogr&aacute;ficas|folder.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+..| Recepci&oacute;n de Solicitud FM-02|web/w_ingresol.php?vopc=3
+..|---
+..| Recepci&oacute;n de Cambios Posteriores Marcas
+...| Renovaci&oacute;n FM04|web/w_ingreren.php?vopc=3
+...| Cesi&oacute;n FM05|web/w_ingrecesm.php?vopc=3
+...| Cambio de Domicilio FM06|web/w_ingredomm.php?vopc=3
+...| Licencia de Uso FM07|web/w_ingrelicm.php?vopc=3
+...| Cambio de Nombre FM08|web/w_ingrecnomm.php?vopc=3
+...| Fusi&oacute;n FM09|web/w_ingrefusm.php?vopc=3
+..|---
+..| Recepci&oacute;n de Solicitud FP-01|web/w_ingrepat.php?vopc=3
+..|---
+..| Recepci&oacute;n de Cambios Posteriores Patentes
+...| Cesi&oacute;n FP03|web/w_ingrecesp.php?vopc=3
+...| Cambio de Domicilio FP04|web/w_ingredomp.php?vopc=3
+...| Cambio de Nombre FP06|web/w_ingrecnomp.php?vopc=3
+..|---
+..| Recepci&oacute;n de Solicitud de Obras DNDA|web/a_ingresol.php?vopc=3
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+..| Ingreso de Solicitud Autom&aacute;ticas
+...| Obra Esc&eacute;nica                    |autor/a_otrasobrnw.php?vopc=3&vpla=OE
+...| Obra Audiovisual y Radiof&oacute;nicas  |autor/a_otrasobrnw.php?vopc=3&vpla=AR
+...| Arte Visual                             |autor/a_otrasobrnw.php?vopc=3&vpla=AV
+...| Programas de Computaci&oacute;n y Base de Datos|autor/a_otrasobrnw.php?vopc=3&vpla=PC
+...| Actos y Contratos|autor/a_obractosnw.php?vopc=3&conx=2&salir=1
+...| Producci&oacute;n Fonogr&aacute;fica|autor/a_obrpfononw.php?vopc=3&conx=2&salir=1
+...| Interpretaciones y Ejecuciones Art&iacute;sticas|autor/a_obraieanw.php?vopc=3&conx=2&salir=1
+..|---
+..| Modificaci&oacute;n de Solicitud
+...| Obra Esc&eacute;nica                    |autor/a_otrasobr.php?vopc=7&vpla=OE
+...| Obra Audiovisual y Radiof&oacute;nicas  |autor/a_otrasobr.php?vopc=7&vpla=AR
+...| Arte Visual                             |autor/a_otrasobr.php?vopc=7&vpla=AV
+...| Programas de Computaci&oacute;n y Base de Datos|autor/a_otrasobr.php?vopc=7&vpla=PC
+...| Actos y Contratos|autor/a_obractos.php?vopc=5&conx=2&salir=1
+...| Producci&oacute;n Fonogr&aacute;fica|autor/a_obrpfono.php?vopc=5&conx=2&salir=1
+...| Interpretaciones y Ejecuciones Art&iacute;sticas|autor/a_obraiea.php?vopc=5&conx=2&salir=1
+..|---
+..| Control Administrativo
+...| Evento Individual|autor/a_eveind.php?conx=2&salir=1
+..|---
+..| B&uacute;squeda T&eacute;cnica|sba/inicio.php
+..|---
+..| Consultas y Reportes
+...| Administrativos|
+....| Cronolog&iacute;a|autor/a_rptpcronol.php?conx=1&salir=1
+....| Solicitudes Presentadas|autor/a_rptpsolpre.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|autor/a_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|autor/a_rptplisvar.php?conx=1&salir=1
+.....| Por Transacciones|autor/a_rptpavztra.php?conx=1&salir=1
+.| Mantenimiento||Mantenimiento del Sistema|configuration.png
+..| Cambio de Clave de Acceso|comun/z_modpass.php

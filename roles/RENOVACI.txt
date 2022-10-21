@@ -1,0 +1,26 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Control Administrativo
+...| Evento Individual|marcas/m_pantevent.php
+..| Anotaciones Marginales
+...| Cesiones, Fusiones y Cambios de Titular|marcas/m_amcesion.php
+...| Cambios de Domicilio del Titular|marcas/m_amcamdom.php
+...| Licencias de Uso|marcas/m_amlicuso.php
+...| Renovaciones|marcas/m_amrenova.php
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Cronolog&iacute;a|marcas/m_rptpcronol.php
+...| Administrativos
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Listados Varios x reg.|marcas/m_rptpavztra_r.php?conx=1&salir=1
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php
+.....| Listado de Anotaciones Marginales a Publicar|marcas/m_rptpanota.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

@@ -1,0 +1,42 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+..| Tablas
+...| Ingresos
+....| C&oacute;digos de Viena|marcas/m_viena.php?vopc=3
+...| Actualizacion
+....| C&oacute;digos de Viena|marcas/m_viena.php?vopc=4
+..| B&uacute;squeda
+...| Figurativa
+....| Copia de Imagenes
+.....| Copiar Imagen Externa al Servidor|marcas/m_upimagen.php?vopc=3
+.....| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+....| Actualizaci&oacute;n de Verificacion|marcas/m_solviena.php
+....| Carga de Planillas Pedidos
+.....| Ingreso de Pedido|marcas/m_bexfigu.php?vopc=3
+.....| Modificaci&oacute;n de Pedido|marcas/m_bexfigu.php?vopc=4
+....| B&uacute;squedas
+.....| Por Codigo|marcas/m_conviena.php
+.....| Externa|marcas/m_pbexfigu.php?vopc=5
+.....| Interna|marcas/m_pbinfigu.php
+....| Auditor&iacute;a
+.....| Proceso de Verificaci&oacute;n|marcas/m_rptpauver.php
+.....| Planillas Cargadas|marcas/m_rptconlog.php
+.....| Control de Logos Entregados|marcas/m_rptlogent.php
+.....| B&uacute;squeda Interna|marcas/m_rptpaubin.php
+.....| B&uacute;squeda Externa|marcas/m_rptpaubex.php
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+...| Administrativos|
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

@@ -1,0 +1,29 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Consultas y Reportes
+...| Administrativos|
+....| Consulta Interna o Cronolog&iacute;a|consultamarcas/indexi.php
+....| Solicitudes Presentadas|marcas/m_rptpsolpre.php?conx=1&salir=1
+....| Solicitudes Presentadas formato Bolet&iacute;n|marcas/b_rptpsolpre.php
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Listados Varios con Usuario|marcas/m_rptpavztra_u.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+..| B&uacute;squeda
+...| T&eacute;cnica|sbp/index.php
+..|---
+..| Consultas y Reportes
+...| Administrativos|
+....| Consulta Interna o Cronolog&iacute;a|patentes/p_rptpcronol.php
+....| Solicitudes Presentadas|patentes/p_rptpsolpre.php?conx=1&salir=1
+....| Solicitudes Presentadas formato Bolet&iacute;n|patentes/pb_rptpsolpre.php
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php?conx=1&salir=1
+.....| Por Transacciones|patentes/p_rptpavztra.php?conx=1&salir=1
+.| Bolet&iacute;n||Sistema de Bolet&iacute;n|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

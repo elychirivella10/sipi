@@ -1,0 +1,30 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Carga de Solicitudes
+...| Ingreso de Solicitud|marcas/m_infosol.php?vopc=3
+...|---
+...| Modificar Solicitud|marcas/m_infosol.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_pantevent.php
+...| Examen de Forma
+....| Devoluciones (LPI 55)|marcas/m_devoluci56.php
+....| Reingresos|marcas/m_reingres.php?vopc=5
+..|---
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Oficios de Devoluci&oacute;n (LPI 55)|marcas/m_rptpoficio55.php?conx=1&salir=1
+...| Administrativos
+....| Solicitudes Presentadas|marcas/m_rptpsolpre.php?conx=1&salir=1
+....| Consulta Interna|consultamarcas/indexi.php
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Transacciones x Sol.|marcas/m_rptpavztra1.php
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

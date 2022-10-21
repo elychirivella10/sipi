@@ -1,0 +1,64 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Control Administrativo
+...| Evento Individual|marcas/m_pantevent.php
+...| Examen de Forma
+....| Prorrogas|marcas/m_prorroga.php
+....| Devoluciones (LPI 55)|marcas/m_devoluci56.php
+....| Reingresos|marcas/m_infosol.php?vopc=5
+..| Tablas
+...| Ingresos
+....| C&oacute;digos de Viena|marcas/m_viena.php?vopc=3
+...| Actualizacion
+....| C&oacute;digos de Viena|marcas/m_viena.php?vopc=4
+..| B&uacute;squeda
+...| Carga de Pedidos|marcas/m_ingfacfon1.php?vopc=1
+...| Modificaci&oacute;n de Pedido Fonetico|marcas/m_bfonetica_sede.php?vopc=4
+...| Modificaci&oacute;n de Pedido Gr&aacute;fico|marcas/m_bexfigu.php?vopc=4
+...| Figurativa
+....| Actualizaci&oacute;n de Verificacion|marcas/m_solviena.php
+....| B&uacute;squedas
+.....| Por Codigo|marcas/m_conviena.php
+.....| Externa|marcas/m_pbexfigu.php?vopc=5
+.....| Interna|marcas/m_pbinfigu.php
+....| Copia de Imagenes
+.....| Copiar Imagen Externa al Servidor|marcas/m_upimagen.php?vopc=3
+.....| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+...| Reportes de Auditor&iacute;as
+....| Factura B&uacute;squeda Fon&eacute;tica|marcas/m_rptconfon.php
+....| Busquedas Foneticas Procesadas|marcas/m_rptfonpro.php
+....| Factura B&uacute;squeda Gr&aacute;fica|marcas/m_rptconlog.php
+....| Proceso de Verificaci&oacute;n|marcas/m_rptpauver.php
+....| Control de Logos Entregados|marcas/m_rptlogent.php
+....| B&uacute;squeda Gr&aacute;ficaExterna|marcas/m_rptpaubex.php
+....| B&uacute;squeda Gr&aacute;fica Interna|marcas/m_rptpaubin.php
+...| Peticionario o Solicitante o Titular|
+....| Cargar|marcas/m_peticio.php?conx=1&salir=1
+....| Reporte|marcas/m_rptppeticio.php?conx=1&salir=1
+....| Listados|marcas/m_rptplispet.php?conx=1&salir=1
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+...| Poderes|marcas/m_cpoderes.php?opc=12
+...| Administrativos|
+....| Oficios de Devoluci&oacute;n (LPI 55)|marcas/m_rptpoficio55.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Consultas y Reportes
+...| Administrativos|
+....| Peticionario o Solicitante o Titular|
+.....| Cargar|patentes/p_peticio.php
+.....| Reporte|patentes/p_rptppeticio.php
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+..| B&uacute;squedas Externas Webpi
+...| Transformar Resultados del Webpi a formato PDF|comun/z_leabusq.php?vopc=1
+...| Verificaci&oacute;n de Resultados en PDF|comun/z_verificapdf.php?vopc=1
+...| Env&iacute;o de PDF por Correo|comun/z_enviobusq.php?vopc=1
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

@@ -1,0 +1,23 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Control Administrativo
+...| Evento Individual|marcas/m_pantevent.php
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+..| Estadisticas||Estadistidicas de Marcas|
+...| Todas las Publicaciones de un Boletin|marcas/m_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|marcas/m_est_tpuxbol.php?vopc=0
+...| Presentadas por a&ntilde;o|marcas/m_est_prexmes.php?vopc=0
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+..|---
+..| Consultas y Reportes
+...| Cronolog&iacute;a|patentes/p_rptpcronol.php?conx=1&salir=1
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|configuration.png
+..| Cambio de Clave|comun/z_modpass.php

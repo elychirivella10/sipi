@@ -1,0 +1,62 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Carga de Solicitudes
+...| Modificar Solicitud (CAN)|marcas/m_infosol.php?vopc=4
+...| Modificaci&oacute;n de Clase|marcas/m_modclnac.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+...| Examen de Forma
+....| Devoluciones (CAN)|marcas/m_devoluci.php
+....| Devoluciones (LPI 55)|marcas/m_devoluci56.php
+....| Reingresos|marcas/m_infosol.php?vopc=5
+...| Examen de Fondo
+....| Examen de Fondo (CAN)|marcas/m_exfondo.php?conx=1&salir=1
+....| Negaciones (LPI 55)|marcas/m_negacion56.php
+....| Negaciones (CAN)|marcas/m_negacion.php
+...| Correcci&oacute;n de Datos por Error Material|marcas/m_mdsolerr.php?vopc=4
+...| Cambio de Estatus x Correcci&oacute;n de Error Material|marcas/m_evcomat.php
+..|---
+..| Anotaciones Marginales
+...| Cesiones, Fusiones y Cambios de Titular|marcas/m_amcesion.php
+...| Cambios de Domicilio del Titular|marcas/m_amcamdom.php
+...| Licencias de Uso|marcas/m_amlicuso.php
+...| Renovaciones|marcas/m_amrenova.php
+...| Devoluciones|marcas/m_devanota.php
+...| Oficios de Devolucion|marcas/m_rptdevam.php
+..|---
+..| Resoluciones
+...| Alertas|resoluciones/m_reslistarestabog.php?est=4
+...| Nueva Resoluci&oacute;n|resoluciones/m_resnueva.php
+...| Buscar Resoluci&oacute;n
+....| Por Num. de Solicitud|resoluciones/m_resbuscarabog.php
+....| Por Num. de Boletin|resoluciones/m_resbuscarbolabog.php
+....| En Proceso|resoluciones/m_reslistarestabog.php?est=1
+....| Resueltas por Aprobar|resoluciones/m_reslistarestabog.php?est=2
+....| Detenidas|resoluciones/m_reslistarestabog.php?est=3
+....| Rechazadas|resoluciones/m_reslistarestabog.php?est=4
+....| Aprobadas por Publicar |resoluciones/m_reslistarestabog.php?est=5
+....| En Proceso de Publicaci&oacute;n |resoluciones/m_reslistarestabog.php?est=6
+....| Publicadas en Boletin |resoluciones/m_reslistarestabog.php?est=7
+...| Ayuda |ayuda/ResolucionesMarcas.pdf
+..|---
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Oficios de Devoluci&oacute;n (CAN)|marcas/m_rptpoficio.php?conx=1&salir=1
+...| Oficios de Devoluci&oacute;n (LPI 55)|marcas/m_rptpoficio55.php?conx=1&salir=1
+...| Administrativos
+....| Consulta Interna|consultamarcas/indexi.php
+....| Cronolog&iacute;a|marcas/m_rptpcronol.php
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Listados Varios x reg.|marcas/m_rptpavztra_r.php?conx=1&salir=1
+.....| Transacciones x Sol.|marcas/m_rptpavztra1.php
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

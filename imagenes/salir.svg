@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+   xmlns:ns="http://ns.adobe.com/Variables/1.0/"
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:xml="http://www.w3.org/XML/1998/namespace"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.41"
+   sodipodi:docbase="/home"
+   sodipodi:docname="salir.svg"
+   sodipodi:version="0.32"
+   id="svg153"
+   xml:space="preserve"
+   enable-background="new 0 0 23 23"
+   overflow="visible"
+   viewBox="0 0 23 23"
+   height="48pt"
+   width="48pt"
+   i:pageBounds="295 407 317 385"
+   i:rulerOrigin="-295 -385"
+   i:viewOrigin="294.5 407.5">
+  <defs
+   id="defs193" />
+
+  <sodipodi:namedview
+   inkscape:current-layer="svg153"
+   inkscape:window-y="50"
+   inkscape:window-x="1"
+   inkscape:window-height="542"
+   inkscape:window-width="640"
+   inkscape:cy="30.000000"
+   inkscape:cx="30.000000"
+   inkscape:zoom="6.0166667"
+   id="base" />
+
+  <metadata
+   id="metadata154">
+    <sfw
+   id="sfw6">
+      <slices
+   id="slices8" />
+
+      <sliceSourceBounds
+   id="sliceSourceBounds10"
+   bottomLeftOrigin="true"
+   height="23"
+   width="23"
+   y="384.5"
+   x="294.5" />
+
+    </sfw>
+
+    <ns:variableSets
+   id="variableSets12">
+      <ns:variableSet
+   id="variableSet14"
+   locked="none"
+   varSetName="binding1">
+        <ns:variables
+   id="variables16" />
+
+        <ns:sampleDataSets
+   id="sampleDataSets18" />
+
+      </ns:variableSet>
+
+    </ns:variableSets>
+
+  <rdf:RDF
+   id="RDF39">
+  <cc:Work
+     id="Work41"
+     rdf:about="">
+    <dc:format
+       id="format43">image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+       id="type45" />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+
+  <g
+   style="font-size:12;stroke:#000000;"
+   id="g158">
+    <linearGradient
+   y2="3.3819"
+   x2="3.3819"
+   y1="19.6191"
+   x1="19.6191"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_1_">
+      <stop
+   id="stop160"
+   style="stop-color:#FFFFFF"
+   offset="0" />
+
+      <stop
+   id="stop161"
+   style="stop-color:#4F0C0B"
+   offset="1" />
+
+      
+      
+      
+    </linearGradient>
+
+    <path
+   id="path165"
+   d="M20.5,17.5c0,1.65-1.35,3-3,3h-12c-1.65,0-3-1.35-3-3v-12      c0-1.65,1.35-3,3-3h12c1.65,0,3,1.35,3,3V17.5z"
+   stroke="none"
+   fill="url(#XMLID_1_)"
+   i:knockout="Off" />
+
+    <path
+   id="path166"
+   d="M20.5,17.5c0,1.65-1.35,3-3,3h-12      c-1.65,0-3-1.35-3-3v-12c0-1.65,1.35-3,3-3h12c1.65,0,3,1.35,3,3V17.5z"
+   stroke-linejoin="round"
+   stroke-width="0.5"
+   fill="none"
+   i:knockout="Off" />
+
+  </g>
+
+  <g
+   style="font-size:12;stroke:#000000;"
+   id="g169">
+    <linearGradient
+   y2="18.6193"
+   x2="18.6193"
+   y1="4.3818"
+   x1="4.3818"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_2_">
+      <stop
+   id="stop171"
+   style="stop-color:#FFFFFF"
+   offset="0" />
+
+      <stop
+   id="stop172"
+   style="stop-color:#4F0C0B"
+   offset="1" />
+
+      
+      
+      
+    </linearGradient>
+
+    <path
+   id="path176"
+   d="M19.5,16.5c0,1.65-1.35,3-3,3h-10c-1.65,0-3-1.35-3-3v-10      c0-1.65,1.35-3,3-3h10c1.65,0,3,1.35,3,3V16.5z"
+   stroke="none"
+   fill="url(#XMLID_2_)"
+   i:knockout="Off" />
+
+  </g>
+
+  <g
+   style="font-size:12;stroke:#000000;"
+   id="g179">
+    <linearGradient
+   y2="15.122"
+   x2="15.1533"
+   y1="7.8403"
+   x1="7.8716"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_3_">
+      <stop
+   id="stop181"
+   style="stop-color:#FFFFFF"
+   offset="0" />
+
+      <stop
+   id="stop182"
+   style="stop-color:#CE1109"
+   offset="1" />
+
+      
+      
+      
+    </linearGradient>
+
+    <path
+   id="path186"
+   d="M10.744,16.603      c-2.485-0.374-4.39-2.518-4.39-5.106c0-2.852,2.312-5.164,5.165-5.164s5.164,2.312,5.164,5.164c0,2.443-1.697,4.491-3.978,5.028      "
+   stroke="none"
+   fill="url(#XMLID_3_)"
+   opacity="0.1"
+   i:knockout="Off" />
+
+    <path
+   id="path187"
+   d="      M10.744,16.603c-2.485-0.374-4.39-2.518-4.39-5.106c0-2.852,2.312-5.164,5.165-5.164s5.164,2.312,5.164,5.164      c0,2.443-1.697,4.491-3.978,5.028"
+   stroke-linejoin="round"
+   stroke-linecap="round"
+   stroke-width="2"
+   stroke="#FAFAFA"
+   fill="none"
+   i:knockout="Off" />
+
+  </g>
+
+  <g
+   style="font-size:12;stroke:#000000;"
+   id="g190">
+    <path
+   id="path191"
+   d="      M11.658,17.829V9.288"
+   stroke-linejoin="round"
+   stroke-linecap="round"
+   stroke-width="2"
+   stroke="#FAFAFA"
+   fill="none"
+   i:knockout="Off" />
+
+  </g>
+
+</svg>

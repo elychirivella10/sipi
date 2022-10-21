@@ -1,0 +1,56 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Carga de Solicitudes
+...| Modificar Solicitud (LPI 55)|patentes/p_infosol.php?vopc=4
+..| Datos T&eacute;cnicos
+...| Actualizaci&oacute;n|patentes/p_datostec.php
+...| Actualizaci&oacute;n Completa|patentes/p_datostecj.php
+...| Palabras Claves|patentes/p_pclaves.php
+..|---
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+...| Examen de Forma
+....| Devoluciones|patentes/p_devoluci.php
+....| Modificaci&oacute;n de Devoluciones|patentes/p_devoluci_mod.php
+....| Cambio de Bolet&iacute;n para Notificar Devoluci&oacute;n|patentes/p_boldev.php
+...| Registro
+....| Modificaci&oacute;n de Registros|patentes/p_infosol.php?vopc=6
+..|---
+..| Prensa Digital
+...| Actualizar Publicacion en Prensa Patentes|patentes/p_actualprensa.php
+..|---
+..| Control de Anualidades
+...| Carga de Anualidades|patentes/p_anualidad.php
+..|---
+..| Anotaciones Marginales
+...| Cesiones, Fusiones y Cambios de Titular|patentes/p_amcesion.php
+...| Cambios de Domicilio del Titular|patentes/p_amcamdom.php
+...| Licencias de Uso|patentes/p_amlicuso.php
+...| Devoluciones|patentes/p_devanota.php
+...| Oficios de Devolucion|patentes/p_rptdevam.php
+..|---
+..| B&uacute;squeda
+...| T&eacute;cnica|sbp/index.php
+...| Diseno Industrial
+....| Copiar Imagen Externa al Servidor|patentes/p_upimagen.php?vopc=3
+....| Copiar Imagen Fondo al Servidor|patentes/p_upimagen2.php?vopc=3
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultapatentes/indexi.php
+...| Poderes|marcas/m_cpoderes.php?opc=12
+...| Oficios de Devoluci&oacute;n|patentes/p_rptpoficio.php
+...| Administrativos|
+....| Cronolog&iacute;a|patentes/p_rptpcronol.php
+....| Consulta Abierta|patentes/p_rptpcona.php
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php
+.....| Por Transacciones|patentes/p_rptpavztra.php
+.....| Por Transacciones x Reg.|patentes/p_rptpavztra_reg.php
+.....| Anualidades|patentes/p_rptpanual.php?conx=1&salir=1
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

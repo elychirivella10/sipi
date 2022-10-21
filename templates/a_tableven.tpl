@@ -1,0 +1,118 @@
+<html>
+<head>
+  <LINK REL="STYLESHEET" TYPE="text/css" HREF="../main.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body onLoad="this.document.{$varfocus}.focus()">
+<div align="center">
+<br>
+
+<form name="frmstatus1" action="a_tableven.php?vopc=1" method="POST">
+  <table>
+  <tr>
+    <tr>
+      <td class="izq5-color">{$campo1}</td>
+      <td class="der-color">
+        <input type="text" name='evento' size="3" maxlength="3" value='{$evento}' {$vmodo} 
+               onKeyPress="return acceptChar(event,2, this)">&nbsp;
+      </td>	
+      <td class="cnt">
+      {if $vopc eq 4}
+          <input type ='hidden' name='accion' value='Modificacion'>
+          <input type='image' src="../imagenes/boton_buscar_azul.png" value="Buscar">
+      {/if}
+      {if $vopc eq 3}
+          <input type ='hidden' name='accion' value='Ingreso'> 
+          <input type='image' src="../imagenes/boton_nuevo_azul.png" value="Nuevo">
+      {/if} 
+      </td>
+    </tr>
+  </tr>
+  </table>
+</form>				  
+
+
+<form name="frmstatus2" action="a_tableven.php?vopc=2" method="POST" onsubmit='return pregunta();'>
+  <input type ='hidden' name='accion' value={$accion}>
+  <input type ='hidden' name='evento' value={$evento}>
+
+  <table cellspacing="1" border="1">
+  <tr>
+    <tr>
+      <td class="izq-color" >{$campo2}</td>
+      <td class="der-color">
+        <input type="text" name='nombre' value='{$nombre}' {$modo} size="90" maxlength="90" onKeyPress="return acceptChar(event,0, this)" onkeyup="this.value=this.value.toUpperCase()" onchange="checkLength(event,this,90,document.forevento2.tipo_evento)">
+      </td>
+    </tr>
+    <tr>
+      <td class="izq-color" >{$campo3}</td>
+      <td class="der-color" >
+        {html_radios name="tipo_evento" values=$tipo_eve selected=$tipo_evento output=$even_def separator="<br />"}
+      </td>
+    </tr>
+    <tr>
+      <td class="izq-color" >{$campo4}</td>
+      <td class="der-color">
+        <select size="1" name="inf_adicional" {$modo2} onchange="habilinf(document.forevento2.inf_adicional,document.forevento2.documento,document.forevento2.comentario)">
+          {html_options values=$tipo_inf selected=$inf_adicional output=$info_def}
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td class="izq-color" >{$campo5}</td>
+      <td class="der-color"><input type='text' name='mensa_automatico' value='{$mensa_automatico}' {$modo} size='90' maxlength="90" onKeyPress="return acceptChar(event,0, this)" onkeyup="this.value=this.value.toUpperCase()"></td>
+    </tr> 
+    <tr>
+      <td class="izq-color" >{$campo6}</td>
+      <td class="der-color">
+        <select size="1" name="tipo_plazo" {$modo2} onchange="habilplz(document.forevento2.tipo_plazo,document.forevento2.plazo_ley)">
+          {html_options values=$tipo_plz selected=$tipo_plazo output=$plazo_def}
+        </select>
+    </tr>
+    <tr>
+      <td class="izq-color" >{$campo7}</td>
+      <td class="der-color" >
+      <input type='text' name='plazo_ley' value='{$plazo_ley}' {$modo} size='3' maxlength="3" onKeyPress="return acceptChar(event,2, this)"></td>
+    </tr>
+    <tr>
+      <td class="izq-color" >{$campo8}</td>
+      <td class="der-color"><input type='text' name='documento' value='{$documento}' {$modo} size='20' maxlength="20" onKeyPress="return acceptChar(event,3, this)"></td>
+    </tr> 
+    <tr>
+      <td class="izq-color" >{$campo9}</td>
+      <td class="der-color"><input type='text' name='comentario' value='{$comentario}' {$modo} size='40' maxlength="40" onKeyPress="return acceptChar(event,0, this)"></td>
+    </tr> 
+    <tr>
+      <td class="izq-color" >{$campo10}</td>
+      <td class="der-color">
+        <select size="1" name="aplica" {$modo2} >
+          {html_options values=$apli_inf selected=$aplica output=$apli_def}
+        </select>
+      </td>
+    </tr>
+      
+  </tr>
+  </table></center>
+  &nbsp;
+  <table width="220" >
+  <tr>
+    <td class="cnt">
+      <input type="image" {$modo2} src="../imagenes/boton_guardar_rojo.png" value="Guardar"></td> 
+    <td class="cnt">
+      {if ($vopc eq 1 && $accion eq 2) || $vopc eq 4}
+        <a href="a_tableven.php?vopc=4"><img src="../imagenes/boton_cancelar_rojo.png" border="0"></a>
+      {/if}    
+      {if ($vopc eq 1 && $accion eq 1) || $vopc eq 3}
+        <a href="a_tableven.php?vopc=3"><img src="../imagenes/boton_cancelar_rojo.png" border="0"></a>
+      {/if}    
+    </td>      
+    <td class="cnt">
+      <a href="../index1.php"><img src="../imagenes/boton_salir_rojo.png" border="0"></a></td>
+    </td>
+  </tr>
+  </table>
+
+</form>
+</div>  
+</body>
+</html>

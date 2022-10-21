@@ -1,0 +1,77 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Carga de Solicitudes
+...| Ingreso de Solicitud|marcas/m_infosol.php?vopc=3
+...|---
+...| Modificar Solicitud|marcas/m_infosol.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_pantevent.php
+...| Cambios
+....| Cambios de Agente/Tramitante|marcas/m_cambagtr.php
+....| Cambios de Solicitante|marcas/m_cambtitu.php
+....| Cambios de Domicilio del Solicitante|marcas/m_cambdomi.php
+..|---
+..| Anotaciones Marginales
+...| Cesiones, Fusiones y Cambios de Titular|marcas/m_amcesion.php
+...| Cambios de Domicilio del Titular|marcas/m_amcamdom.php
+...| Licencias de Uso|marcas/m_amlicuso.php
+...| Renovaciones|marcas/m_amrenova.php
+...| Devoluciones|marcas/m_devanota.php
+...| Oficios de Devolucion|marcas/m_rptdevam.php
+...| Publicaciones|marcas/m_marginal.php
+...| Eliminacion Anota. Marginal a Publicar|marcas/m_actmargi.php?vopc=1
+..|---
+..| Tablas
+...| Ingresos
+....| C&oacute;digos de Viena|marcas/m_viena.php?vopc=3
+...| Actualizacion
+....| C&oacute;digos de Viena|marcas/m_viena.php?vopc=4
+..| B&uacute;squeda
+...| Figurativa
+....| Actualizaci&oacute;n de Verificaci&oacute;n|marcas/m_solviena.php
+....| B&uacute;squeda
+.....| Por Codigo|marcas/m_conviena.php
+.....| Externa|marcas/m_pbexfigu.php?vopc=5
+.....| Interna|marcas/m_pbinfigu.php
+....| Copia de Imagenes
+.....| Copiar Imagen Externa al Servidor|marcas/m_upimagen.php?vopc=3
+.....| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+....| Reportes de Auditor&iacute;a
+.....| Proceso de Verificaci&oacute;n|marcas/m_rptpauver.php
+.....| Control de Logos Entregados|marcas/m_rptlogent.php
+.....| B&uacute;squeda Interna|marcas/m_rptpaubin.php
+.....| B&uacute;squeda Externa|marcas/m_rptpaubex.php
+...| Peticionario o Solicitante o Titular|
+....| Cargar|marcas/m_peticio.php?conx=1&salir=1
+....| Reporte|marcas/m_rptppeticio.php?conx=1&salir=1
+....| Listados|marcas/m_rptplispet.php?conx=1&salir=1
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+...| Administrativos|
+....| Solicitudes Presentadas|marcas/m_rptpsolpre.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Control Administrativo
+...| Cambios
+....| Cambios de Agente/Tramitante|patentes/p_cambagtr.php
+....| Cambios de titular|patentes/p_cambtitu.php
+....| Cambios de Domicilio del titular|patentes/p_cambdomi.php
+..|---
+..| B&uacute;squeda
+...| T&eacute;cnica|sbp/index.php
+..|---
+..| Consultas y Reportes
+...| Cronolog&iacute;a|patentes/p_rptpcronol.php?conx=1&salir=1
+...| Administrativos|
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php?conx=1&salir=1
+.....| Por Transacciones|patentes/p_rptpavztra.php?conx=1&salir=1
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

@@ -1,0 +1,21 @@
+.| Salir|aut_logout.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Control Administrativo
+...| Cambios
+....| Cambios de Agente/Tramitante|marcas/m_cambagtr.php
+....| Cambios de Solicitante|marcas/m_cambtitu.php
+....| Cambios de Domicilio del Solicitante|marcas/m_cambdomi.php
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+...| Administrativos|
+....| Usuarios|
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|configuration.png
+..| Cambio de Clave|comun/z_modpass.php

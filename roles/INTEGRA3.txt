@@ -1,0 +1,105 @@
+.| Salir|aut_logout.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| (*)Ingreso de Solicitud|marcas/m_infosol.php?vopc=3
+..| Modificaci&oacute;n de Solicitudes
+...| Modificar Solicitud|marcas/m_infosol.php?vopc=4
+...| (*)Modificaci&oacute;n de Clase|marcas/m_modclnac.php?vopc=4
+...| (*)Modificaci&oacute;n de Distingue|marcas/m_modprod.php?vopc=4
+...| Modificaci&oacute;n de Etiqueta|marcas/m_modetiqueta.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_pantevent.php
+...| Evento Publicaci&oacute;n en Prensa|marcas/m_eveper.php?vopc=4
+...| (*)Examen de Forma
+....| (*)Devoluciones (LPI 55)|marcas/m_devoluci56.php
+....| (*)Reingresos|marcas/m_reingres.php?vopc=5
+...| (*)Cambios
+....| (*)Cambios de Agente/Tramitante|marcas/m_cambagtr.php
+....| Cambios de Solicitante|marcas/m_cambtitu.php
+...| (*)Correcci&oacute;n de Error Material|marcas/m_evcomat.php
+...| Pago de Derechos de Registros Facturados|marcas/m_ingfacbol.php?vopc=1
+...| Pago de Derechos de Registros Exonerados
+...| Registro
+....| Control de Certificados de Registros|marcas/m_controlcert.php?vopc=3
+..|---
+..| B&uacute;squedas
+...| Fonetica y Grafica
+....| Carga de Pedidos|marcas/m_ingfacfon1.php?vopc=1
+....| Modificaci&oacute;n de Pedido Fonetico|marcas/m_bfonetica_sede.php?vopc=4
+....| Modificaci&oacute;n de Pedido Gr&aacute;fico|marcas/m_bexfigu.php?vopc=4
+....| (*)Procesamiento de B&uacute;squedas Gr&aacute;ficas Externas|marcas/m_pbexfigu.php?vopc=5
+....| (*)Copiar Imagen Externa al Servidor|marcas/m_upimagen.php?vopc=3
+....| (*)Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+...| Reportes de Auditor&iacute;a
+....| Factura B&uacute;squeda Fonetica|marcas/m_rptconfon.php
+....| Factura B&uacute;squeda Gr&aacute;ficas|marcas/m_rptconlog.php
+....| (*)Control de Logos Entregados|marcas/m_rptlogent.php
+..|---
+..| Tablas
+...| Ingresos
+....| Agentes|comun/z_agentes.php?vopc=3
+....| Poderes|marcas/m_ipoderes.php
+...| Actualizaci&oacute;n
+....| Poderes|marcas/m_apoderes.php
+...| Reportes
+....| Agentes|marcas/m_rptagente.php
+....| Poderes|marcas/m_rptppoder.php
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+...| Poderes|marcas/m_cpoderes.php?opc=12
+...| Expediente Electr&oacute;nico|expediente/m_rptpexp.php
+...| Administrativos|
+....| Solicitudes Presentadas|marcas/m_rptpsolpre.php?conx=1&salir=1
+....| Oficios de Devoluci&oacute;n (LPI 55)|marcas/m_rptpoficio55.php?conx=1&salir=1
+....| Pago de Tasa (Derechos)|marcas/m_rptptasa.php?conx=1&salir=1
+....| Control de Certificados|marcas/m_rptctrlcer.php
+....| (*)Devueltas Publicadas con Contestaci&oacute;n|marcas/m_devconbol.php?conx=1&salir=1
+....| Control de Planillas B&uacute;squedas|marcas/m_ingfacbus.php?vopc=1
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Listados Varios x Reg.|marcas/m_rptpavztra_r.php
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php?conx=1&salir=1
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php?conx=1&salir=1
+.....| Por Transacciones de Escritos Defectuosos|marcas/m_rptpavztra1_esc.php?conx=1&salir=1
+.....| Listados con Titulares|marcas/m_rptpavzda.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Carga de Solicitudes
+...| Ingreso de Solicitud|patentes/p_infosol.php?vopc=3
+...| Modificar Solicitud|patentes/p_infosol.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+...| Evento Publicaci&oacute;n en Prensa|patentes/p_eveper.php?vopc=4
+...| (*)Cambios
+....| (*)Cambios de Agente/Tramitante|patentes/p_cambagtr.php
+..|---
+..| Control de Anualidades
+...| Carga de Anualidades|patentes/p_anualidad.php
+..|---
+..| B&uacute;squeda
+...| T&eacute;cnica|sbp/index.php
+..|---
+..| Consultas y Reportes
+...| Cronolog&iacute;a|patentes/p_rptpcronol.php?conx=1&salir=1
+...| Administrativos|
+....| Solicitudes Presentadas|patentes/p_rptpsolpre.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios x Registro|patentes/p_rptpavztra_r.php
+.....| Por Transacciones|patentes/p_rptpavztra.php?conx=1&salir=1
+.....| Transacciones x Recept.|patentes/p_rptpavztrar.php?conx=1&salir=1
+.....| Transacciones x Registro|patentes/p_rptpavztra_reg.php
+.....| Anualidades|patentes/p_rptpanual.php?conx=1&salir=1
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+..| Recepci&oacute;n de Solicitud Marcas|web/w_ingresol.php?vopc=3
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+..| B&uacute;squeda T&eacute;cnica|sba/inicio.php
+..| Consultas y Reportes
+...| Administrativos|
+....| Cronolog&iacute;a|autor/a_rptpcronol.php?conx=1&salir=1
+.| Mantenimiento||Mantenimiento del Sistema|configuration.png
+..| Cambio de Clave de Acceso|comun/z_modpass.php

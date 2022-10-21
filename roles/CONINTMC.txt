@@ -1,0 +1,29 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Modificar Solicitud (CAN)|marcas/m_infosol.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+...| Devoluciones (LPI 55)|marcas/m_devoluci56.php
+...| Reingresos|marcas/m_reingres.php?vopc=5
+...| Modificaci&oacute;n de Distingue|marcas/m_modprod.php?vopc=4
+...| Modificaci&oacute;n de Clase|marcas/m_modclnac.php?vopc=4
+..|---
+..| Modificaci&oacute;n de Clase|marcas/m_modclnac.php?vopc=4
+..|---
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos
+....| Consulta Interna|consultamarcas/indexi.php
+....| Cronolog&iacute;a|marcas/m_rptpcronol.php
+....| Oficios de Devoluci&oacute;n (LPI 55)|marcas/m_rptpoficio55.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php
+.....| Transacciones x Sol.|marcas/m_rptpavztra1.php
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

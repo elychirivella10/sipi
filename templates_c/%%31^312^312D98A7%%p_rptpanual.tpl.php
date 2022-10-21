@@ -1,0 +1,71 @@
+<?php /* Smarty version 2.6.8, created on 2021-02-24 10:09:07
+         compiled from p_rptpanual.tpl */ ?>
+<?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
+smarty_core_load_plugins(array('plugins' => array(array('modifier', 'date_format', 'p_rptpanual.tpl', 20, false),array('function', 'html_options', 'p_rptpanual.tpl', 31, false),)), $this); ?>
+<html>
+<head>
+  <LINK REL="STYLESHEET" TYPE="text/css" HREF="../main.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <script language="javascript" src="../include/cal2.js"></script>
+  <script language="javascript" src="../include/cal_conf2.js"></script>
+</head>
+
+<body onLoad="this.document.<?php echo $this->_tpl_vars['varfocus']; ?>
+.focus()">
+
+<form name="forsolpre" action="p_rptanual.php" method="POST">
+  <div align="center">
+
+<table width="69%" cellspacing="1" border="0">
+  <tr>
+    <tr>
+      <td class="izq-color" ><?php echo $this->_tpl_vars['campo1']; ?>
+</td>
+      <td class="der-color">
+        <?php echo $this->_tpl_vars['campod']; ?>
+
+        <input type="text" name="fecsold" value='<?php echo ((is_array($_tmp=$this->_tpl_vars['fecsold'])) ? $this->_run_mod_handler('date_format', true, $_tmp, "%d/%m/%G") : smarty_modifier_date_format($_tmp, "%d/%m/%G")); ?>
+' size='9' onChange="valFecha(document.forsolpre.fecsold)" onBlur="valagente(document.forsolpre.fecsold,document.forsolpre.fecsolh)"> 
+        <a href="javascript:showCal('Calendar58');"><img src="../imagenes/calendar2.gif" title="Haga Clic para Seleccionar la Fecha" align="middle" width="26" height="24" border="0"></a>&nbsp;
+	     <?php echo $this->_tpl_vars['campoh']; ?>
+
+	     <input type="text" name="fecsolh" value='<?php echo ((is_array($_tmp=$this->_tpl_vars['fecsolh'])) ? $this->_run_mod_handler('date_format', true, $_tmp, "%d/%m/%G") : smarty_modifier_date_format($_tmp, "%d/%m/%G")); ?>
+' size='9' onChange="valFecha(document.forsolpre.fecsolh)">
+        <a href="javascript:showCal('Calendar59');"><img src="../imagenes/calendar2.gif" title="Haga Clic para Seleccionar la Fecha" align="middle" width="26" height="24" border="0"></a>&nbsp;
+        <font class="textoayuda">Formato: dd/mm/aaaa</font>&nbsp; 
+    </tr>
+ 	 <tr>
+	   <td class="izq-color"><?php echo $this->_tpl_vars['ltipo']; ?>
+</td>
+      <td class="der-color">
+        <select size="1" name="v2">
+          <?php echo smarty_function_html_options(array('values' => $this->_tpl_vars['arrayvmodal'],'selected' => $this->_tpl_vars['modalidad'],'output' => $this->_tpl_vars['arraytmodal']), $this);?>
+
+        </select>
+      </td>  
+	 </tr>  
+    <tr>
+      <td class="izq-color" ><?php echo $this->_tpl_vars['campo2']; ?>
+</td>
+      <td class="der-color">
+        <input type="text" name="usuario" size="10" maxlength="10">
+      </td>
+    </tr>
+  </tr>
+</table></center>
+<p></p>
+
+<table width="210">
+    <tr>
+      <td class="cnt"><input type="image" src="../imagenes/search_f2.png" value="Buscar">  Buscar  </td>
+      <td class="cnt"><a href="p_rptpanual.php"><img src="../imagenes/cancel_f2.png" border="0"></a>  Cancelar  </td>
+      <td class="cnt"><a href="../salir.php?nconex=<?php echo $this->_tpl_vars['n_conex']; ?>
+"><img src="../imagenes/salir_f2.png" border="0"></a>  Salir  </td>
+    </tr>
+</table>
+	  
+</div>  
+</form>
+
+</body>
+</html>

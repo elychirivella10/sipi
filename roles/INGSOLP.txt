@@ -1,0 +1,17 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Ingreso de Solicitud (LPI 55)|patentes/p_infosol.php?vopc=3
+..|---
+..| Modificar Solicitud (LPI 55)|patentes/p_infosol.php?vopc=4
+..|---
+..| Consultas y Reportes
+...| Cronolog&iacute;a|patentes/p_rptpcronol.php?conx=1&salir=1
+...| Administrativos|
+....| Solicitudes Presentadas|patentes/p_rptpsolpre.php?conx=1&salir=1
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

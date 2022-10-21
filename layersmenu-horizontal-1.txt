@@ -1,0 +1,132 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Asignación de Número|z_numera.php
+..|---
+..| Carga de Datos de Solicitud|m_ingexpm.php||
+..|---
+..| Modificaciones de Solicitud|m_modidama.php
+..|---
+..| Carga de Solicitudes Anteriores|m_ingsolan.php
+..|---
+..| Ingreso de Solicitudes|m_ingreso.php
+..|---
+..| Carga de Solicitud|m_manteni.php
+..|---
+..| Otra de Solicitud|m_1manteni.php
+..|---
+..| Clasificacion Figurativa|m_solviena.php
+..|---
+..| Control Administrativo
+...| Evento Individual|m_eveind.php
+...| Evento por Lotes|m_evelote.php
+...| Devoluciones|m_devoluci.php
+...| Reingresos|m_reingres.php
+...| Negaciones|m_negacion.php
+...| Cambios de Agente/Tramitante|m_cambagtr.php
+...| Cambios de titular|m_cambtitu.php
+...| Cambios de Domicilio del titular|m_cambdomi.php
+...| Asignar Numero de Registro|m_regsolm.php
+...| Asignar Nro de Registro en Lote|m_regsolote.php
+...| Reclasificaciones|m_reclasif.php
+...| Correccion de Error Material|m_evcomat.php
+...| Reverso de Eventos|m_reversoe.php
+..|---
+..| Anotaciones Marginales
+...| Cesiones, Fusiones y Cambios de Titular|m_amcesion.php
+...| Cambios de Domicilio del Titular|m_amcamdom.php
+...| Licencias de Uso|m_amlicuso.php
+...| Renovaciones|m_amrenova.php
+..|---
+..| Boletines
+...| Generación de Datos|m_bolgenar.php
+...| Edición de Datos Generados|m_bolediar.php
+...| Verificación anotaciones Marginales|m_bolveram.php
+...| Actualizaciones por Lote|m_bolactlo.php
+...| Actualización de Negadas|m_actuneg.php
+...| Actualizaciones Anotaciones Marginales|m_bolactam.php
+..|---
+..| Expedientes
+...| Envío|z_envexp.php
+...| Recepción|z_recexp.php
+...| Asignación|z_asigexp.php
+...| Consulta
+..|---
+..| Tablas
+...| Ingresos
+....| Departamentos|z_ingdep.php
+....| Usuarios|z_ingusua.php
+....| Roles|z_ingrol.php
+....| Objetos|z_ingobj.php
+....| Estatus
+....| Eventos
+....| Migraciones
+....| Paises
+....| Poderes|m_ipoderes.php
+....| Códigos de Viena
+...| Asignación
+....| Opciones de Menu por Rol|z_ingobrol.php
+....| Eventos por Roles|z_ingevrol.php
+....| Rol por Usuario|z_ingusrol.php
+...| Actualización
+....| Departamentos|z_modepto.php
+....| Usuarios|z_modusua.php
+....| Roles|z_modrol.php
+....| Objetos|z_modobj.php
+....| Estatus
+....| Eventos
+....| Migraciones
+....| Paises
+....| Poderes|m_apoderes.php
+....| Clasificación de Niza
+....| Códigos de Viena
+...| Eliminación
+....| Objetos por Roles|z_elmobrol.php
+....| Eventos por Roles|z_elmevrol.php
+....| Rol por Usuario|z_elrolus.php
+....| Rol|z_elimrol.php
+....| Objeto|z_elimobj.php
+....| Solicitud de Marca|elisolm.php
+..|---
+..| Consultas y Reportes
+...| Solicitudes de Marcas |m_rptpsolic.php
+...| Certificados de Marcas|m_rptpcertif.php
+...| Oficios de Devolucion|m_rptpoficio.php
+...| Administrativos|
+....| Expedientes|m_rptpexp.php
+....| Peticionario|
+.....| Cargar|m_peticio.php
+.....| Reporte|m_rptppeticio.php
+....| Cronologia|m_rptpcronol.php
+....| Consulta Abierta|m_rptpcona.php
+....| Boletin|
+.....| Listados|m_rptplisbol.php
+.....| Generacion de PDF|m_rptpgenbol.php
+......| Solicitadas|m_rptpgenbol.php
+......| Concedidas|m_rptpgenbolc.php
+......| Observadas|m_rptpgenbolo.php
+......| Negadas|m_rptpgenboln.php
+......| Otros Pdf|m_rptpgenbolv.php
+....| Usuarios|
+.....| Por Criterio|m_rptpavzcri.php
+.....| Por Transacciones|m_rptpavztra.php
+....|---
+....| Tablas|||
+.....| Status Administrativos|m_rptestatus.php
+.....| Eventos|m_rptevento.php
+.....| Migracion de status|m_rptmigest.php
+.....| Paises|m_rptpais.php
+.....| Agentes|m_rptagente.php
+.....| Poderes|m_rptppoder.php
+.....| Clases Internacionales|m_rptclafi.php
+..|---
+..| Estadisticas||Estadistidicas de Marcas|
+...|Totales por Tipo|m_rptpestanu.php
+...|Totales por Pais|m_rptpestanupais.php
+...|Totales por Clase|m_rptpestanuclas.php
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Generacion del Pdf|../patentes_pdf/index.php
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Mantenimiento de Colores|m_pconfcol.php
+..| Archivos TXT para Ventura|m_gentxt.php
+..| Negadas TXT para Ventura|m_pgentxt.php

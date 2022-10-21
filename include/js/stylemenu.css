@@ -1,0 +1,23 @@
+.slide{
+    border: .1em solid #000000;
+    width: 1290px;
+    height: 214px;
+    margin: 2% auto;
+    border-radius: .2em;
+    box-shadow: 10px 10px 5px #888;
+    position: relative;
+}
+ 
+.slide img{
+    width: 1290px;
+    height: 214px;
+    position: absolute;
+}
+ 
+.slide .img2, .slide .img3, .slide .img4, .slide .img5, .slide .img6, .slide .img7 {
+    display: none;
+}
+
+figure{
+    margin: 0;
+}

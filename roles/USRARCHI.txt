@@ -1,0 +1,20 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Control Administrativo
+...| Evento Individual|marcas/m_pantevent.php
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+..|---
+..| Consultas y Reportes
+...| Cronolog&iacute;a|patentes/p_rptpcronol.php?conx=1&salir=1
+.| Ind. Geogr&aacute;ficas||Sistema de Indicaciones Geogr&aacute;ficas|folder.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|configuration.png
+..| Cambio de Clave|comun/z_modpass.php

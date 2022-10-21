@@ -1,0 +1,47 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|help.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Carga de Solicitudes
+...| Ingreso de Solicitud|marcas/m_infosol.php?vopc=3
+...|---
+...| Modificar Solicitud|marcas/m_infosol.php?vopc=4
+...| Modificaci&oacute;n de Clase|marcas/m_modclnac.php?vopc=4
+...| Modificaci&oacute;n de Distingue|marcas/m_modprod.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+..| Tablas
+...| Ingresos
+....| Poderes|marcas/m_ipoderes.php?opc=11
+...| Actualizacion
+....| Poderes|marcas/m_apoderes.php?opc=13
+...| Actualizacion
+....| Poderes|marcas/m_apoderes.php
+..| B&uacute;squeda
+...| Figurativa
+....| Copia de Imagenes
+.....| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+...| Cronolog&iacute;a|marcas/m_rptpcronol.php?conx=1&salir=1
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos|
+....| Solicitudes Presentadas|marcas/m_rptpsolpre.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Carga de Solicitudes
+...| Ingreso de Solicitud (LPI 55)|patentes/p_infosol.php?vopc=3
+...|---
+...| Modificar Solicitud (LPI 55)|patentes/p_infosol.php?vopc=4
+..|---
+..| Consultas y Reportes
+...| Administrativos|
+....| Solicitudes Presentadas|patentes/p_rptpsolpre.php?conx=1&salir=1
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

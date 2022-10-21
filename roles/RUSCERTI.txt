@@ -1,0 +1,15 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Consultas y Reportes
+...| Administrativos
+....| Consulta Interna|consultamarcas/indexi2.php
+....| Cronolog&iacute;a|marcas/m_rptpcronol.php
+...| Usuarios|
+....| Listados Marcas Registradas X Bol.|marcas/m_rptpavztra_estbol.php
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento|m_pconfcol.php|Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

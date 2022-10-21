@@ -1,0 +1,57 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Ingreso de Solicitud|marcas/m_infosol.php?vopc=3
+..|---
+..| Modificar Solicitud|marcas/m_infosol.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+...| Cambios de Agente/Tramitante|marcas/m_cambagtr.php
+...| Cambios de titular|marcas/m_cambtitu.php
+...| Cambios de Domicilio del titular|marcas/m_cambdomi.php
+...| Escrito de Reclasificaci&oacute;n Int->Nac|marcas/m_reclaintnac.php
+...| Modificaci&oacute;n de Distingue|marcas/m_modprod.php?vopc=4
+..|---
+..| Escritos Defectuosos
+...| Ingresar Escritos Defectuosos|marcas/m_escritos_ing.php
+...| Modificar Escritos Defectuosos|marcas/m_escritos_mod.php
+..|---
+..| Tablas
+...| Ingresos
+....| Poderes|marcas/m_ipoderes.php
+...| Actualizaci&oacute;n
+....| Poderes|marcas/m_apoderes.php
+..|---
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos
+....| Consulta Interna|consultamarcas/indexi.php
+....| Cronolog&iacute;a|marcas/m_rptpcronol.php
+....| Usuarios|
+.....| Solicitudes Presentadas|marcas/m_rptpsolpre.php
+.....| Por Listados Varios|marcas/m_rptpavztra.php
+.....| Por Listados Varios x reg.|marcas/m_rptpavztra_r.php
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php
+.....| Por Transacciones de Escritos Defectuosos|marcas/m_rptpavztra1_esc.php?conx=1&salir=1
+....|---
+....| Tablas|||
+.....| Agentes|marcas/m_rptagente.php
+.....| Poderes|marcas/m_rptppoder.php
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+..| Consultas y Reportes
+...| Administrativos|
+....| Cronolog&iacute;a|patentes/p_rptpcronol.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Transacciones|patentes/p_rptpavztra.php
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php
+..| Tablas Generales
+...| Ingresos
+....| Agentes|comun/z_agentes.php?vopc=3

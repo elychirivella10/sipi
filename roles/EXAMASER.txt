@@ -1,0 +1,41 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+...| Examen de Fondo|marcas/m_exfondo.php?conx=1&salir=1
+...| Negaciones (CAN)|marcas/m_negacion.php
+...| Negaciones (LPI 55)|marcas/m_negacion56.php
+..|---
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos|
+....| Consulta Interna|consultamarcas/indexi.php
+....| Cronolog&iacute;a|marcas/m_rptpcronol.php
+....| Consulta Abierta|marcas/m_rptpcona.php
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php
+.....| Por Listados Varios|marcas/m_rptpavztra.php
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+..| Consultas y Reportes
+...| Consulta Abierta|patentes/p_rptpcona.php?conx=1&salir=1
+...| Cronolog&iacute;a|patentes/p_rptpcronol.php?conx=1&salir=1
+...| Administrativos|
+....| Solicitudes Presentadas|patentes/p_rptpsolpre.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php?conx=1&salir=1
+.....| Por Transacciones|patentes/p_rptpavztra.php?conx=1&salir=1
+..|---
+..| Estadisticas||Estadistidicas de Patentes|
+...|Totales por Tipo|patentes/p_rptpestanu.php
+...|Totales por Pais|patentes/p_rptpestanupais.php
+...|Pat. Registradas|patentes/p_rptpestanureg.php
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

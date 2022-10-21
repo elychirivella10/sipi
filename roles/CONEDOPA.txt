@@ -1,0 +1,30 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+.| Patentes||Sistema de Patentes|folder-open.png
+..| B&uacute;squeda
+...| T&eacute;cnica|sbp/index.php
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos|
+....| Cronolog&iacute;a|patentes/p_rptpcronol.php
+....| Consulta Abierta|patentes/p_rptpcona.php
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php
+.....| Por Transacciones|patentes/p_rptpavztra.php
+....|---
+....| Tablas|||
+.....| Status Administrativos|patentes/p_rptestatus.php
+.....| Eventos|patentes/p_rptevento.php
+.....| Migraci&oacute;n de status|patentes/p_rptmigest.php
+.....| Paises|marcas/m_rptpais.php
+..|---
+..| Estadisticas||Estadisticas de Patentes|
+...|Totales por Tipo|patentes/p_rptpestanu.php
+...|Totales por Pais|patentes/p_rptpestanupais.php
+...|Pat. Registradas|patentes/p_rptpestanureg.php
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

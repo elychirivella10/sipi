@@ -1,0 +1,75 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Carga de Solicitudes
+...| Ingreso de Solicitud|marcas/m_infosol.php?vopc=3
+...|---
+...| Modificar Solicitud|marcas/m_infosol.php?vopc=4
+...| Modificaci&oacute;n de Distingue|marcas/m_modprod.php?vopc=4
+...| Modificaci&oacute;n de Etiqueta|marcas/m_modetiqueta.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+..| Tablas
+...| Ingresos
+....| C&oacute;digos de Viena|marcas/m_viena.php?vopc=3
+...| Actualizacion
+....| C&oacute;digos de Viena|marcas/m_viena.php?vopc=4
+..| B&uacute;squeda
+...| Ingreso de Pedido SAPI Taquilla Integral|marcas/m_ingfacfon1.php?vopc=1
+...| Fonetica
+....| Generar Archivo TXT de Taquillas - Procesar Busquedas|marcas/m_abfontxt.php
+....| Reportes de Auditor&iacute;a
+.....| De Planillas Cargadas|marcas/m_rptconfon.php
+.....| De Busquedas Procesadas|marcas/m_rptfonpro.php
+....| Examen de Fondo
+.....| Transformar Busquedas de Fondo a formato PDF|comun/z_leabusqf.php?vopc=1
+...| Figurativa
+....| Copia de Imagenes
+.....| Copiar Imagen Externa al Servidor|marcas/m_upimagen.php?vopc=3
+.....| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+....| Actualizaci&oacute;n de Verificacion|marcas/m_solviena.php
+....| Carga de Planillas Pedidos
+.....| Modificaci&oacute;n de Pedido|marcas/m_bexfigu.php?vopc=4
+....| B&uacute;squedas
+.....| Por Codigo|marcas/m_conviena.php
+.....| Externa|marcas/m_pbexfigu.php?vopc=5
+.....| Interna|marcas/m_pbinfigu.php
+....| Auditor&iacute;a
+.....| Proceso de Verificaci&oacute;n|marcas/m_rptpauver.php
+.....| Planillas Cargadas|marcas/m_rptconlog.php
+.....| Control de Logos Entregados|marcas/m_rptlogent.php
+.....| B&uacute;squeda Interna|marcas/m_rptpaubin.php
+.....| B&uacute;squeda Externa|marcas/m_rptpaubex.php
+...| Peticionario o Solicitante|
+....| Cargar|marcas/m_peticio.php?conx=1&salir=1
+....| Reporte|marcas/m_rptppeticio.php?conx=1&salir=1
+....| Listados|marcas/m_rptplispet.php?conx=1&salir=1
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+...| Administrativos|
+....| Solicitudes Presentadas|marcas/m_rptpsolpre.php?conx=1&salir=1
+....| Cronolog&iacute;a|marcas/m_rptpcronol.php
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php?conx=1&salir=1
+....| Peticionario|
+.....| Cargar|marcas/m_peticio.php
+.....| Reporte|marcas/m_rptppeticio.php
+.....| Listados|marcas/m_rptplispet.php
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Consultas y Reportes
+...| Administrativos|
+....| Peticionario|
+.....| Cargar|patentes/p_peticio.php
+.....| Reporte|patentes/p_rptppeticio.php
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+..| B&uacute;squedas Externas Webpi
+...| Transformar Resultados del Webpi a formato PDF|comun/z_leabusq.php?vopc=1
+...| Verificaci&oacute;n de Resultados en PDF|comun/z_verificapdf.php?vopc=1
+...| Env&iacute;o de PDF por Correo|comun/z_enviobusq.php?vopc=1
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

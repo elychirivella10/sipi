@@ -1,0 +1,17 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Datos T&eacute;cnicos
+...| Actualizaci&oacute;n|patentes/p_datostec.php
+..| Consultas y Reportes
+...| Administrativos|
+....| Cronolog&iacute;a|patentes/p_rptpcronol.php
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php
+.....| Por Transacciones|patentes/p_rptpavztra.php
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

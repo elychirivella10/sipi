@@ -1,0 +1,69 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+...| Modificaci&oacute;n de Distingue|marcas/m_modprod.php?vopc=4
+...| Reclasificaci&oacute;n|marcas/m_reclasif.php
+..| Anotaciones Marginales
+...| Cesiones, Fusiones y Cambios de Titular|marcas/m_amcesion.php
+...| Cambios de Domicilio del Titular|marcas/m_amcamdom.php
+...| Licencias de Uso|marcas/m_amlicuso.php
+...| Renovaciones|marcas/m_amrenova.php
+...| Devoluciones|marcas/m_devanota.php
+...| Oficios de Devolucion|marcas/m_rptdevam.php
+...| Publicaciones en Bolet&iacute;n|marcas/m_marginal.php
+...| Eliminacion Anota. Marginal a Publicar|marcas/m_actmargi.php?vopc=1
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos
+....| Consulta Interna|consultamarcas/indexi.php
+....| Consulta Abierta|marcas/m_rptpcona.php
+....| Cronolog&iacute;a|marcas/m_rptpcronol.php
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Listados Varios x reg.|marcas/m_rptpavztra_r.php?conx=1&salir=1
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php
+.....| Listado de Anotaciones Marginales a Publicar|marcas/m_rptpanota.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+...| Asignar Nro Registro Individual|patentes/p_regsolp.php
+...| Asignar N&uacute;mero de Registro Manual|patentes/p_regsole.php
+..| Control de Anualidades
+...| Carga de Anualidades|patentes/p_anualidad.php
+..|---
+..| Anotaciones Marginales
+...| Cesiones, Fusiones y Cambios de Titular|patentes/p_amcesion.php
+...| Cambios de Domicilio del Titular|patentes/p_amcamdom.php
+...| Licencias de Uso|patentes/p_amlicuso.php
+...| Devoluciones|patentes/p_devanota.php
+...| Oficios de Devolucion|patentes/p_rptdevam.php
+..| B&uacute;squeda
+...| T&eacute;cnica|sbp/index.php
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos|
+....| Cronolog&iacute;a|patentes/p_rptpcronol.php
+....| Consulta Abierta|patentes/p_rptpcona.php
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php
+.....| Por Transacciones|patentes/p_rptpavztra.php
+.....| Anualidades|patentes/p_rptpanual.php?conx=1&salir=1
+....|---
+....| Tablas|||
+.....| Status Administrativos|patentes/p_rptestatus.php
+.....| Eventos|patentes/p_rptevento.php
+.....| Migraci&oacute;n de status|patentes/p_rptmigest.php
+.....| Paises|marcas/m_rptpais.php
+..|---
+..| Estadisticas||Estadisticas de Patentes|
+...|Totales por Tipo|patentes/p_rptpestanu.php
+...|Totales por Pais|patentes/p_rptpestanupais.php
+...|Pat. Registradas|patentes/p_rptpestanureg.php
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

@@ -1,0 +1,49 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Modificar Solicitud|patentes/p_infosol.php?vopc=4
+..|---
+..| Datos T&eacute;cnicos
+...| Actualizaci&oacute;n|patentes/p_datostec.php
+...| Palabras Claves|patentes/p_pclaves.php
+..|---
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+...| Devoluciones|patentes/p_devoluci.php
+...| Cambios de Agente/Tramitante|patentes/p_cambagtr.php
+...| Cambios de Titular|patentes/p_cambtitu.php
+...| Cambios de Domicilio del titular|patentes/p_cambdomi.php
+...| Asignar Nro Registro Individual|patentes/p_regsolp.php
+...| Correcci&oacute;n de Error Material|patentes/p_evcomat.php
+..|---
+..| B&uacute;squeda
+...| T&eacute;cnica|patentes/p_busqueda.php
+..|---
+..| Bolet&iacute;n
+...| Generaci&oacute;n de Datos|patentes/p_bolgenar.php
+...| Edici&oacute;n de Datos Generados|patentes/p_bolediar.php
+...| Verificaci&oacute;n Anotaciones Marginales|patentes/p_bolveram.php
+..|---
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Oficios de Devoluci&oacute;n|patentes/p_rptpoficio.php
+...| Administrativos|
+....| Cronolog&iacute;a|patentes/p_rptpcronol.php
+....| Consulta Abierta|patentes/p_rptpcona.php
+....| Bolet&iacute;n|
+.....| Listados|patentes/p_rptplisbol.php
+.....| Archivos TXT para Ventura|patentes/p_gentxt.php
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php
+.....| Por Transacciones|patentes/p_rptpavztra.php
+..|---
+..| Estadisticas||Estadistidicas de Patentes|
+...|Totales por Tipo|patentes/p_rptpestanu.php
+...|Totales por Pais|patentes/p_rptpestanupais.php
+...|Pat. Registradas|patentes/p_rptpestanureg.php
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

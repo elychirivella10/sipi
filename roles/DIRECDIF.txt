@@ -1,0 +1,48 @@
+.| Salir|aut_logout.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+..|---
+..| Prensa Digital
+...| Generar Datos Publicacion en Prensa|marcas/z_publiprensa.php
+..|---
+..| Estadisticas||Estadistidicas de Marcas|
+...| Todas las Publicaciones de un Boletin|marcas/m_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|marcas/m_est_tpuxbol.php?vopc=0
+...| Relaci&oacute;n: (Concesi&oacute;n-Pago) por Boletines|marcas/m_est_rconpag.php?vopc=0
+...|---
+...| Presentadas por a&ntilde;o|marcas/m_est_prexmes.php?vopc=0
+...| Examinadas Fondo/Forma por A&ntilde;o (Eventos:51,52,53,54)|marcas/m_est_exaxmes.php?vopc=0
+...| Registradas por a&ntilde;o|marcas/m_est_regxmes.php?vopc=0
+...|---
+...| Por Estatus en tipos de Marcas|marcas/m_est_estatus.php?vopc=0
+...| Transacciones por Evento/Usuarios|marcas/m_est_usuxmes.php?vopc=0
+.| Patentes||Sistema de Patentes|folder-open.png
+..| B&uacute;squeda
+...| T&eacute;cnica|sbp/index.php
+..|---
+..| Consultas y Reportes
+...| Cronolog&iacute;a|patentes/p_rptpcronol.php?conx=1&salir=1
+..|---
+..| Estadisticas||Estadistidicas de Patentes|
+...| Todas las Publicaciones de un Boletin|patentes/p_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|patentes/p_est_tpuxbol.php?vopc=0
+...|---
+...| Presentadas por A&ntilde;o |patentes/p_est_prexmes.php?vopc=0
+...| Examinadas Fondo/Forma por A&ntilde;o (Eventos:28,29,51,52,53,56,59)|patentes/p_est_exaxmes.php?vopc=0
+...| Registradas por a&ntilde;o|patentes/p_est_regxmes.php?vopc=0
+...|---
+...| Por Estatus en tipos de Patentes|patentes/p_est_estatus.php?vopc=0
+...| Transacciones por Evento/Usuarios|patentes/p_est_usuxmes.php?vopc=0
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+..| B&uacute;squeda T&eacute;cnica|sba/inicio.php
+..|---
+..| Estadisticas||Estadisticas de Derecho de Autor|
+...|Presentadas|autor/d_est_prexmes.php
+...|Por Estatus en tipo de Obras|autor/a_est_estatus.php
+...|Por Solicitante|autor/a_rptpnatj.php
+.| Mantenimiento||Mantenimiento del Sistema|configuration.png
+..| Cambio de Clave|comun/z_modpass.php

@@ -1,0 +1,22 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Ind. Geogr&aacute;ficas||Sistema de Indicaciones Geogr&aacute;ficas|folder.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+..|---
+..| B&uacute;squeda T&eacute;cnica|sba/inicio.php
+..|---
+..| Consultas y Reportes
+...| Administrativos|
+....| Cronolog&iacute;a|autor/a_rptpcronol.php?conx=1&salir=1
+..|---
+..| Estadisticas||Estadisticas de Derecho de Autor|
+...|Presentadas por A&ntilde;o/Estatus|autor/a_est_prexmes.php
+...|Presentadas por A&ntilde;o/Tipo de Obras|autor/a_est_prextipo.php
+...|Transacciones por Evento/Usuarios|autor/a_est_usuxeve.php
+...|Por Solicitante|autor/a_rptpnatj.php
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

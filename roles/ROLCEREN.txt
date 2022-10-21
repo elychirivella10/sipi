@@ -1,0 +1,36 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Modificaci&oacute;n de Solicitudes
+...| Modificar Solicitud|marcas/m_infosol.php?vopc=4
+...| Modificaci&oacute;n de Distingue|marcas/m_modprod.php?vopc=4
+...| Modificaci&oacute;n de Etiqueta|marcas/m_modetiqueta.php?vopc=4
+..| Figurativa o Gr&aacute;fica 
+...| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+..|---
+..| Tablas
+...| Ingresos
+....| Poderes|marcas/m_ipoderes.php
+....| Agentes|comun/z_agentes.php?vopc=3
+...| Actualizaci&oacute;n
+....| Poderes|marcas/m_apoderes.php
+....| Agentes|comun/z_agentes.php?vopc=4
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+...| Administrativos
+....| Poderes|marcas/m_cpoderes.php
+....| Usuarios|
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Listados Varios x reg.|marcas/m_rptpavztra_r.php?conx=1&salir=1
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php
+.....| Listado de Anotaciones Marginales a Publicar|marcas/m_rptpanota.php?conx=1&salir=1
+.....| Listados Marcas Registradas X Bol.|marcas/m_rptpavztra_estbol.php
+.....| Auditor&iacute;a Solicitudes Modificadas|marcas/m_rptpaudmod.php
+.....| Auditor&iacute;a Logotipos Modificados|marcas/m_rptpaudlog.php
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php
+

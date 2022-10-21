@@ -1,0 +1,38 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+...| Modificaci&oacute;n de Registros|marcas/m_modregis.php?vopc=4&conx=1&salir=1
+..|---
+..| Actualizacion Imagen
+...| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+..|---
+..| Bolet&iacute;n
+...| Generaci&oacute;n de Archivos y Listados
+....| Certificados Elaborados TXT para Ventura|marcas/m_rptpcertxt.php
+..|---
+..| Certificado Electr&oacute;nico
+...| Generacion de Certificado|marcas/m_gencertif.php?vopc=1
+...| Enviar Certificados para la firma|comun/z_enviarcert.php?vopc=1
+..|---
+..| Consultas y Reportes
+...| Administrativos
+....| Consulta Interna|consultamarcas/indexi2.php
+....| Cronolog&iacute;a|marcas/m_rptpcronol.php
+...| Certificados|
+....| Generar|marcas/m_rptpcertm.php
+....| Certf.Elaborados|marcas/m_rptpelabcert.php
+....| Consulta de Certificado Electr&oacute;nico|marcas/m_rptpcertem.php?vopc=1
+...| Usuarios|
+....| Listados Marcas Registradas X Bol.|marcas/m_rptpavztra_estbol.php
+....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php
+....| Auditor&iacute;a Solicitudes Modificadas|marcas/m_rptpaudmod.php
+....| Auditor&iacute;a Logotipos Modificados|marcas/m_rptpaudlog.php
+....| Listado de Anotaciones Marginales a Publicar|marcas/m_rptpanota.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|configuration.png
+..| Cambio de Clave|comun/z_modpass.php

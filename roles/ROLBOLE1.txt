@@ -1,0 +1,42 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Prensa Digital
+...| Reporte Publicaciones Prensa Marcas|marcas/m_rptpubmar.php
+...| Reporte Publicaciones Prensa Patentes|patentes/p_rptpubpat.php
+...| Generar Datos Publicacion en Prensa|marcas/z_publiprensa.php
+..|---
+..| Estadisticas||Estadistidicas de Marcas|
+...| Todas las Publicaciones de un Boletin|marcas/m_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|marcas/m_est_tpuxbol.php?vopc=0
+...| Relaci&oacute;n: (Concesi&oacute;n-Pago) por Boletines|marcas/m_est_rconpag.php?vopc=0
+...|---
+...| Presentadas por a&ntilde;o|marcas/m_est_prexmes.php?vopc=0
+...| Examinadas Fondo/Forma por A&ntilde;o (Eventos:51,52,53,54)|marcas/m_est_exaxmes.php?vopc=0
+...| Registradas por a&ntilde;o|marcas/m_est_regxmes.php?vopc=0
+...|---
+...| Por Estatus en tipos de Marcas|marcas/m_est_estatus.php?vopc=0
+...| Transacciones por Evento/Usuarios|marcas/m_est_usuxmes.php?vopc=0
+.| Patentes||Sistema de Patentes|folder-open.png
+..|---
+..| Estadisticas||Estadistidicas de Patentes|
+...| Todas las Publicaciones de un Boletin|patentes/p_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|patentes/p_est_tpuxbol.php?vopc=0
+...|---
+...| Presentadas por A&ntilde;o |patentes/p_est_prexmes.php?vopc=0
+...| Examinadas Fondo/Forma por A&ntilde;o (Eventos:28,29,51,52,53,56,59)|patentes/p_est_exaxmes.php?vopc=0
+...| Registradas por a&ntilde;o|patentes/p_est_regxmes.php?vopc=0
+...|---
+...| Por Estatus en tipos de Patentes|patentes/p_est_estatus.php?vopc=0
+...| Transacciones por Evento/Usuarios|patentes/p_est_usuxmes.php?vopc=0
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+..| Crear Nuevo Bolet&iacute;n Ord/Ext|boletin/b_ingreso.php?vopc=3&conx=2&salir=1
+..| Crear Nuevo Bolet&iacute;n|boletin/b_newbol.php?vopc=3&conx=2&salir=1
+..| Modificar  Bolet&iacute;n Ord/Ext|boletin/b_ingreso.php?vopc=5&conx=2&salir=1
+..| Modificar  Bolet&iacute;n|boletin/b_newbol.php?vopc=5&conx=2&salir=1
+..| Generar Bolet&iacute;n Nacional|boletin/b_genbol.php?vopc=5
+..| Generar Bolet&iacute;n Extranjero|boletin/b_genbole.php?vopc=5
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

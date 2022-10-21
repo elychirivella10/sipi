@@ -1,0 +1,38 @@
+.| Salir|aut_logout.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Consultas y Reportes
+...| Consulta Interna Completa|consultamarcas/indexfull.php
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Ind. Geogr&aacute;ficas||Sistema de Indicaciones Geogr&aacute;ficas|folder.png
+..| Carga de Solicitudes
+...| Ingreso de Solicitud|indicacionesg/i_ingresolig.php?vopc=3
+...| Modificar Solicitud|
+..|---
+..| Control Administrativo
+...| Evento Individual|
+...| Examen de Forma
+....| Devoluci&oacute;n|
+....| Modificaci&oacute;n de Devoluciones|
+....|---
+....| Reingresos|
+..|---
+..| Certificado Electr&oacute;nico
+...| Generacion de Certificado|
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultaindicacionesg/indexi.php
+...| Administrativos|
+....| Solicitudes Presentadas|
+....| Oficios de Devoluci&oacute;n|
+....| Generacion de Oficios de Devoluci&oacute;n x Boletin|
+....|---
+....| Devueltas Publicadas con Contestaci&oacute;n|
+....| Usuarios|
+.....| Por Criterio|
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|configuration.png
+..| Cambio de Clave|comun/z_modpass.php
+

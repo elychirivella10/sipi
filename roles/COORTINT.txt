@@ -1,0 +1,96 @@
+.| Salir|aut_logout.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Carga de Solicitudes
+...| Ingreso de Solicitud Omitida|marcas/m_ingomitida.php
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_pantevent.php
+..|---
+..| B&uacute;squedas
+...| Peticionario o Solicitante o Titular|
+....| Cargar|marcas/m_peticio.php?conx=1&salir=1
+....| Reporte|marcas/m_rptppeticio.php?conx=1&salir=1
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexfull.php
+...| Poderes|marcas/m_cpoderes.php?opc=12
+...| Administrativos|
+....| Solicitudes Presentadas|marcas/m_rptpsolpre.php?conx=1&salir=1
+....| Pago de Tasa (Derechos)|marcas/m_rptptasa.php?conx=1&salir=1
+....| Control de Certificados|marcas/m_rptctrlcer.php
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Listados Varios x Reg.|marcas/m_rptpavztra_r.php
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php?conx=1&salir=1
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php?conx=1&salir=1
+.....| Por Transacciones de Escritos Defectuosos|marcas/m_rptpavztra1_esc.php?conx=1&salir=1
+..|---
+..| Estadisticas||Estadisticas de Marcas|
+...| Todas las Publicaciones de un Boletin|marcas/m_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|marcas/m_est_tpuxbol.php?vopc=0
+...| Relaci&oacute;n: (Concesi&oacute;n-Pago) por Boletines|marcas/m_est_rconpag.php?vopc=0
+...|---
+...| Presentadas por a&ntilde;o|marcas/m_est_prexmes.php?vopc=0
+...| Registradas por a&ntilde;o|marcas/m_est_regxmes.php?vopc=0
+...|---
+...| Por Estatus en tipos de Marcas|marcas/m_est_estatus.php?vopc=0
+...| Transacciones por Evento/Usuarios|marcas/m_est_usuxmes.php?vopc=0
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Carga de Solicitudes
+...| Ingreso de Solicitud Omitida|patentes/p_ingomitida.php
+..|---
+..| Consultas y Reportes
+...| Cronolog&iacute;a|patentes/p_rptpcronol.php?conx=1&salir=1
+...| Administrativos|
+....| Solicitudes Presentadas|patentes/p_rptpsolpre.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios x Registro|patentes/p_rptpavztra_r.php
+.....| Por Transacciones|patentes/p_rptpavztra.php?conx=1&salir=1
+.....| Transacciones x Recept.|patentes/p_rptpavztrar.php?conx=1&salir=1
+.....| Transacciones x Registro|patentes/p_rptpavztra_reg.php
+.....| Anualidades|patentes/p_rptpanual.php?conx=1&salir=1
+..|---
+..| B&uacute;squedas
+...| Peticionario o Solicitante|
+....| Cargar|patentes/p_peticio.php?conx=1&salir=1
+....| Reporte|patentes/p_rptppeticio.php?conx=1&salir=1
+..|---
+..| Estadisticas||Estadisticas de Patentes|
+...| Todas las Publicaciones de un Boletin|patentes/p_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|patentes/p_est_tpuxbol.php?vopc=0
+...|---
+...| Presentadas por A&ntilde;o |patentes/p_est_prexmes.php?vopc=0
+...| Examinadas Fondo/Forma por A&ntilde;o (Eventos:28,29,51,52,53,56,59)|patentes/p_est_exaxmes.php?vopc=0
+...| Registradas por a&ntilde;o|patentes/p_est_regxmes.php?vopc=0
+...|---
+...| Por Estatus en tipos de Patentes|patentes/p_est_estatus.php?vopc=0
+...| Transacciones por Evento/Usuarios|patentes/p_est_usuxmes.php?vopc=0
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+..| Recepci&oacute;n de Solicitud FM-02|web/w_ingresol.php?vopc=3
+..|---
+..| Recepci&oacute;n de Renovaci&oacute;n FM04|web/w_ingreren.php?vopc=3
+..| Recepci&oacute;n de Cesion de Marcas FM05|web/w_ingrecesm.php?vopc=3
+..| Recepci&oacute;n de Cambio de Domicilio de Marcas FM06|web/w_ingredomm.php?vopc=3
+..| Recepci&oacute;n de Licencia de Uso de Marcas FM07|web/w_ingrelicm.php?vopc=3
+..| Recepci&oacute;n de Cambio de Nombre de Marcas FM08|web/w_ingrecnomm.php?vopc=3
+..|---
+..| Recepci&oacute;n de Solicitud FP-01|web/w_ingrepat.php?vopc=3
+..|---
+..| Recepci&oacute;n de Solicitud de Obras DNDA|web/a_ingresol.php?vopc=3
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+..| B&uacute;squeda T&eacute;cnica|sba/inicio.php
+..| Consultas y Reportes
+...| Administrativos|
+....| Solicitudes Presentadas|autor/a_rptpsolpre.php?conx=1&salir=1
+....| Cronolog&iacute;a|autor/a_rptpcronol.php?conx=1&salir=1
+..|---
+..| Estadisticas||Estadisticas de Derecho de Autor|
+...|Presentadas por A&ntilde;o/Estatus|autor/a_est_prexmes.php
+...|Presentadas por A&ntilde;o/Tipo de Obras|autor/a_est_prextipo.php
+...|Transacciones por Evento/Usuarios|autor/a_est_usuxeve.php
+.| Mantenimiento||Mantenimiento del Sistema|configuration.png
+..| Cambio de Clave de Acceso|comun/z_modpass.php

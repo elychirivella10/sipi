@@ -1,0 +1,39 @@
+
+<html>
+<head>
+  <LINK REL="STYLESHEET" TYPE="text/css" HREF="../main.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <script language="javascript" src="../libjs/r_funciones.js"></script>
+</head>
+<body onLoad="Inicializar()">
+<div align="center">
+
+<form name="form" action="m_resnueva3.php" method="POST">
+
+ 
+<p></p> <p></p> <p></p>
+  <table width="255" >
+    <tr>
+      <td class="izq-color" >Evento a Cargar: </td>
+      <td class="der-color" >
+        <select size='1' name='evto'>
+          {html_options values=$arrayevto selected=$tipo output=$arrayevto}
+        </select>
+      </td>
+    </tr> 
+  </table>        
+        
+<p></p> <p></p> <p></p>
+  <table width="255" >
+  <tr>
+
+	
+    <td class="cnt"><input type="image" src="../imagenes/save_f2.png" value="Guardar"><br>Guardar</td> 
+    <td class="cnt"><a href="javascript:history.back();"><img src="../imagenes/salir_f2.png" border="0"></a>	Salir</td>
+  </tr>
+  </table>
+
+ </form>
+</div>
+</body>
+</html>

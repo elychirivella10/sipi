@@ -1,0 +1,45 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Control Administrativo
+...| Evento Individual|marcas/m_pantevent.php
+..|---
+..| Tablas Generales
+...| Ingresos
+....| Agentes|comun/z_agentes.php?vopc=3
+...| Actualizacion
+....| Agentes|comun/z_agentes.php?vopc=4
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexfull.php
+...| Expediente Electr&oacute;nico|expediente/m_rptpexp.php
+...| Carga de Agentes|comun/m_rptcaragen.php
+...| Hoja de Acta de Agentes|comun/m_rpthojagen.php
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos|
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php
+.....| Por Listados Varios|marcas/m_rptpavztra.php
+.....| Por Listados Varios x Registro|marcas/m_rptpavztra_r.php?conx=1&salir=1
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php
+.....| Agentes|marcas/m_rptagente.php
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+..|---
+..| B&uacute;squeda
+...| T&eacute;cnica|sbp/index.php
+..|---
+..| Consultas y Reportes
+...| Administrativos|
+....| Cronolog&iacute;a|patentes/p_rptpcronol.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php?conx=1&salir=1
+.....| Por Transacciones|patentes/p_rptpavztra.php?conx=1&salir=1
+.| Ind. Geogr&aacute;ficas||Sistema de Indicaciones Geogr&aacute;ficas|folder.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

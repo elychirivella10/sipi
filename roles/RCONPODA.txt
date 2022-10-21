@@ -1,0 +1,25 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+...| Cronolog&iacute;a|marcas/m_rptpcronol.php?conx=1&salir=1
+...| Poderes|marcas/m_cpoderes.php?opc=12
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Consultas y Reportes
+...| Cronolog&iacute;a|patentes/p_rptpcronol.php?conx=1&salir=1
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+..| Consultas y Reportes
+...| Cronolog&iacute;a|autor/a_rptpcronol.php?conx=1&salir=1
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php
+..|---
+..| Tablas Generales
+...| Ingresos
+....| Agentes|comun/z_agentes.php?vopc=3
+....| Poderes|marcas/m_ipoderes.php?opc=11
+...| Actualizacion
+....| Agentes|comun/z_agentes.php?vopc=4
+....| Poderes|marcas/m_apoderes.php?opc=13

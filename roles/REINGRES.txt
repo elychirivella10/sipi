@@ -1,0 +1,57 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Carga de Solicitudes
+...| Modificar Solicitud|marcas/m_infosol.php?vopc=4
+...| Modificaci&oacute;n de Etiqueta|marcas/m_modetiqueta.php?vopc=4
+...| Modificaci&oacute;n de Distingue|marcas/m_modprod.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+...| Examen de Forma
+....| Devoluci&oacute;n (LPI 55) NUEVO FORMATO|marcas/m_devoluci56n.php
+....| Modificaci&oacute;n de Devoluciones (LPI 55) NUEVO FORMATO|marcas/m_devoluci56nf_mod.php
+....|---
+....| Reingresos|marcas/m_infosol.php?vopc=5
+..|---
+..| Prensa Digital
+...| Actualizar Publicacion en Prensa|marcas/z_actualprensa.php
+...| Actualizar Publicacion en Prensa Patentes|patentes/p_actualprensa.php
+..|---
+..| B&uacute;squedas
+...| Gr&aacute;fica
+....| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+...| De Peticionario o Solicitante o Titular|
+....| Cargar|marcas/m_peticio.php?conx=1&salir=1
+....| Reporte|marcas/m_rptppeticio.php?conx=1&salir=1
+....| Listados|marcas/m_rptplispet.php?conx=1&salir=1
+..|---
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos
+....| Consulta Interna Completa|consultamarcas/indexfull.php
+....| Oficios de Devoluci&oacute;n (LPI 55) VIEJO FORMATO|marcas/m_rptpoficio55.php?conx=1&salir=1
+....| Oficios de Devoluci&oacute;n (LPI 55) NUEVO FORMATO|marcas/m_rptpoficio55nf.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Listados Varios|marcas/m_rptpavztra.php
+.....| Auditor&iacute;a Solicitudes Modificadas|marcas/m_rptpaudmod.php
+.....| Auditor&iacute;a Logotipos Modificados|marcas/m_rptpaudlog.php
+..|---
+..| Estadisticas||Estadistidicas de Marcas|
+...| Todas las Publicaciones de un Boletin|marcas/m_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|marcas/m_est_tpuxbol.php?vopc=0
+...| Relaci&oacute;n: (Concesi&oacute;n-Pago) por Boletines|marcas/m_est_rconpag.php?vopc=0
+...|---
+...| Presentadas por a&ntilde;o|marcas/m_est_prexmes.php?vopc=0
+...| Examinadas Fondo/Forma por A&ntilde;o (Eventos:51,52,53,54)|marcas/m_est_exaxmes.php?vopc=0
+...| Registradas por a&ntilde;o|marcas/m_est_regxmes.php?vopc=0
+...|---
+...| Por Estatus en tipos de Marcas|marcas/m_est_estatus.php?vopc=0
+...| Transacciones por Evento/Usuarios|marcas/m_est_usuxmes.php?vopc=0
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php
+

@@ -1,0 +1,660 @@
+     SOBRE LA CLASE:     46
+
+     2006-009478 100 % JESUS                             
+                 HERNANDEZ ARMAO JENNY YELITZE           
+     2006-009478 100 % JESUS                             
+                 MOTA CASTILLO NURIS CRISTINA            
+     2006-011409 A X ARREDO X-PRESS                      
+                 DISTRIBUIDORA E IMPORTADORA ARREDO X-PRE
+     2006-009480 ACELACA                                 
+                 ACEROS LAMINADOS C.A.                   
+     2006-009849 ACTITUD                                 
+                 REPRESENTACIONES LEXMAT, C.A.           
+     2006-012334 ADELANTE VALORES SOCIEDAD DE CORRETAJE D
+                 ADELANTE VALORES SOCIEDAD DE CORRETAJE D
+     2006-009953 ADUANERA DEL ZULIA                      
+                 ADUANERA DEL ZULIA C.A.(AZUCA)          
+     2006-008988 ADVANCE CONSULTORES EMPRESARIALES       
+                 ADVANCE CONSULTORES EMPRESARIALES 1041, 
+     2006-010299 AGRICOLA TANAUSU                        
+                 AGRICOLA TANAUSU C.A.                   
+     2006-012581 ALBIS                                   
+                 ALBIS VENEZOLANA, C.A.                  
+     2006-012582 ALBIS VENEZOLANA                        
+                 ALBIS VENEZOLANA, C.A.                  
+     2006-010298 ALCONI                                  
+                 INDUSTRIAS ALCONI, C.A.                 
+     2006-012161 ALDO COLLECTION                         
+                 ALDO GROUP INTERNATIONAL AG.            
+     2006-012162 ALDO SPIRIT                             
+                 ALDO GROUP INTERNATIONAL AG             
+     2006-011403 ALINAT ANIMAL NUTRITION/AGRIBUSINESS    
+                 ALINAT C.A.                             
+     2006-009458 ALLFACTORING                            
+                 ALL FACTORING DE VENEZUELA, C.A.        
+     2006-010394 ALPHA MOTORS                            
+                 ALPHA MOTORS, C.A.                      
+     2006-014180 ALRICAZ, CORRETAJE DE SEGUROS           
+                 ALRICA, CORRETAJE DE SEGUROS, C.A.      
+     2006-010045 AMAJEDON XCLUSIVE                       
+                 WORD SPORT 2119, C.A.                   
+     2006-013238 AMBEV                                   
+                 COMPANHIA DE BEBIDAS DAS AMERICAS-AMBEV 
+     2006-014255 AMICI                                   
+                 DIVISARIA FABRICACION DE TABIQUES, C.A. 
+     2006-009888 AMIGO CAR RENTAL                        
+                 EUGENIO SOL DOMINGUEZ                   
+     2006-012191 ANTI XTRESS                             
+                 ANTI-XTRESS INTL, C.A.                  
+     2006-013928 ARMAS JOE                               
+                 ARMERIA ARMAS JOSE C.A.                 
+     2006-010218 ATHLETIC                                
+                 FRONT, C.A.                             
+     2006-010951 ATMOSPHERE ESSENTIALS                   
+                 ATMOSPHERE ESSENTIALS, C.A.             
+     2006-009189 AUTO REPUESTOS ITALY CAR`S 6            
+                 AUTO REPUESTO ITALY CAR`S 6, C.A.       
+     2006-013832 AUTOS EL TUNAL                          
+                 EL TUNAL C.A.                           
+     2005-017776 AVELLAN                                 
+                 CORPORACION EVA C.A.                    
+     2006-010477 AVIYARA                                 
+                 AGROPECUARIA AVIYARA, C.A.              
+     2006-009089 BALANCED SCORE CARD                     
+                 C.A. DANAVEN                            
+     2006-013672 BAMECA                                  
+                 BAMECA., C.A.                           
+     2006-012170 BEST                                    
+                 PILTEX C.A.                             
+     2006-013946 BIBLOS EL JARDIN                        
+                 EL TIGUI TIGUI SUE—O TROPICAL, C.A.     
+     2006-013945 BIBLOS EL SUE—O                         
+                 EL TIGUI TIGUI SUE—O TROPICAL, C.A.     
+     2006-010599 BICHI                                   
+                 INVERSIONES PERUJAPO, C.A.              
+     2006-009012 BICHI                                   
+                 INVERSIONES PERUJAPO, C.A.              
+     2006-013996 BIG IDEAS GAMA                          
+                 EXCELSIOR GAMA SUPERMERCADOS, C.A       
+     2006-010724 BIORGANICA                              
+                 CORPORACION BIORGANICA DE VENEZUELA, C.A
+     2006-010725 BIORGANICA                              
+                 CORPORACION BIORGANICA DE VENEZUELA, C.A
+     2006-010317 BLUE STAR COMPANY                       
+                 BLUE STAR COMPANY, C.A.                 
+     2006-009096 BOUTIQUE CAPRICCIO                      
+                 AIDA MARGARITA CORREA DE RAMOS          
+     2006-012274 BOX SURPRISE                            
+                 COMPAÒIA INVERSIONES K`MELO 2006, C.A   
+     2006-010070 BRIANNATHY                              
+                 CARMEN CECILIA ECCIONES BRIANNATHY      
+     2006-009392 BVC VENEZOLANO DE CREDITO BANCO UNIVERSA
+                 VENEZOLANO DE CREDITO, S.A. BANCO UNIVER
+     2006-009679 CANAL INFORMATIVO                       
+                 CORPORACION JP ALHER 18, C.A.           
+     2006-013140 CARACAS GOURMET LOUNGE                  
+                 SUCRE JUAN PABLO                        
+     2006-011517 CARROFERTA                              
+                 CARROCERIA MEDIA GROUP, C.A.            
+     2006-009661 CAVENSER                                
+                 ZEITOUNE MAKWAKJI JOSE                  
+     2006-009840 CELPAGO                                 
+                 CELL PHONE SYSTEMS 2005, C.A.           
+     2006-010580 CENTRAL AZUCARERO PORTUGUESA ACARIGUA   
+                 CENTRAL AZUCARERO PORTUGUESA, C.A.      
+     2006-013608 CENTROS PLATA PAGO                      
+                 TEBCA TRANSFERENCIA ELECTRONICA DE BENEF
+     2006-014090 CHINITA EXPRESS                         
+                 COMERCIALIZADORA LA CHINITA, C.A.       
+     2006-010329 CHIQUITINE                              
+                 CORPORACION ARS, C.A.                   
+     2006-009377 CHIRU                                   
+                 CORPORACION CHIRU 2006, C.A.            
+     2006-010217 CHOCOLATE CARBONERO                     
+                 CHOCOLATE CARBONERO C.A.                
+     2006-014110 CLEAN EXPRESS                           
+                 ALFOMBRAS CLEAN EXPRESS, C.A.           
+     2006-013314 COMAGRAVI                               
+                 COMAGRAVI C.A.                          
+     2006-010472 COMERCIALIZADORA AMARO                  
+                 COMERCIALIZADORA AMARO C.A.             
+     2006-011106 COMPU TRONIC                            
+                 IMPORTADORA SIF, C.A.                   
+     2006-012218 COMPUAHORRO                             
+                 BILLY AMILCAR COCCA ZAMBRNO.            
+     2006-009595 CONCEPTO                                
+                 CONCEPTO BAR EQUIPMENT, C.A.            
+     2006-009234 CONSORCIO ASEGURA-T                     
+                 GUZMAN ALFREDO                          
+     2006-012905 CONSULTORIOS SOLIDARIOS                 
+                 CONSULTORIOS SOLIDARIOS CONSOLI, C.A.   
+     2006-013152 COOPERATIVA AMARANTHUS DE LA CRUZ       
+                 COOPERATIVA AMARANTHUS DE LA CRUZ       
+     2006-014143 COOPERATIVA EN DIOS HAREMOS PROEZAS 2100
+                 COOPERATIVA EN DIOS HAREMOS PROEZAS 2100
+     2006-012183 COOPERATIVA LUNCHERIA ROMERO CASTELLANO 
+                 COOPERATIVA LUNCHERIA ROMERO CASTELLANO 
+     2006-010108 CORPORACION COOLWAVE                    
+                 ARISTIDES ANTONIO PEREZ NU—EZ           
+     2006-012040 CORPORACION DERMOESTETICA               
+                 CORPORACION DERMOESTETICA S.A.          
+     2006-014247 CORPORACION JOA                         
+                 CORPORACION JOA, S.A.                   
+     2006-009366 CORPORACION RESPREFA CR                 
+                 CORPORACION RESPREFA C.A.               
+     2006-010898 CORPORACION VENEZOLANA AGRARIA CVA      
+                 CORPORACION VENEZOLANA AGRARIA          
+     2006-009545 CORPORACION ZAM ZAM VENEZUELA, C.A.     
+                 CORPORACION ZAM ZAM VENEZUELA, C.A.     
+     2006-010406 CREATAS                                 
+                 CREATAS, C.A.                           
+     2006-010137 CREDILOLAS                              
+                 CORPORACION CREDILOLAS, C.A.            
+     2006-012981 CULTURISIMA                             
+                 BRAIN STORM PUBLICIDAD, C.A.            
+     2006-014160 CURSOSGERENCIALES.COM                   
+                 CURSOSGERENCIALES.COM, C.A.             
+     2006-010883 CVA CORPORACION VENEZOLANA AGRARIA      
+                 CORPORACION VENEZOLANA AGRARIA          
+     2006-011787 DAG'S                                   
+                 DIGITAL ANGEL GUARDIAN'S, C.A. (DAG'S, C
+     2006-012304 DAYTONA MOTORS                          
+                 DAYTONA MOTORS C.A.                     
+     2006-013094 DE CARO TELAS                           
+                 DE CARO TELAS, C.A.                     
+     2006-011050 DIGITEL 412                             
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-011049 DIGITEL 412                             
+                 BANESCO BANCO UNIVERSAL, C.A.           
+     2006-013247 DIMEQUI                                 
+                 DIMEQUI, C.A.                           
+     2005-022329 DIMITRI & CO                            
+                 DEMETRIO LAMPRU H.                      
+     2006-013096 DISTIBUIDORA DE CARO                    
+                 DISTRIBUIDORA DE CARO, C.A.             
+     2006-009596 DISTRIBUCIONES INTEGRALES C.A. DISINCA  
+                 DISTRIBUCIONES INTEGRALES C.A. DISINCA  
+     2006-014251 DIVISARIA                               
+                 DIVISARIA FABRICACION DE TABIQUES, C.A. 
+     2006-009716 DON DIVINO                              
+                 VISION DON DIVINO INTERNACIONAL (V.D.D.I
+     2006-009589 DOPPIO                                  
+                 RONIT KAUFMAN KEVILEVITZ                
+     2006-013382 DORADO CENTER                           
+                 FINICIOS, C.A.                          
+     2006-013249 DROFALI                                 
+                 DROFALI, C.A.                           
+     2006-013343 DSW WAREHOUSE SHOES                     
+                 CALZADOS ROCKLAND C.A.                  
+     2006-008952 E-MALL                                  
+                 GASCUE A. TRINA MARGARITA               
+     2006-013104 EDITORIAL MI TIERRA ETICA               
+                 EDITORIAL MI TIERRA, C.A.               
+     2006-013384 EL DORADO                               
+                 FINICIOS, C.A.                          
+     2006-010110 EMA                                     
+                 PHARMAPIEL, C.A.                        
+     2006-010824 EMPORIUM                                
+                 ABOU LTAIF RABIH KHIZAI                 
+     2006-011136 ENCANTARIAS                             
+                 ENCANTARIAS, C.A.                       
+     2006-010211 ENJUEGOS                                
+                 INVERSIONES JHENNYRAN FUTURO 2000, C.A. 
+     2006-010099 ENVIAMED                                
+                 DISTRIBUIDORA FARMACEUTICA CARACAS, DISF
+     2006-011705 EQUIVALORES CASA DE BOLSA               
+                 EQUIVALORES CASA DE BOLSA, C.A.         
+     2006-011271 EUROAGRICOLA PRIMIUM FOODS              
+                 EUROAGRICOLA PRIMIUM FOODS, C.A.        
+     2006-010360 EXPO TRADE CENTER SIGLO 21              
+                 EXPO TRADE CENTER SIGLO 21, C.A.        
+     2006-011753 FABRICA DE HIELO FATIMA, C.A.           
+                 FABRICA DE HIELO FATIMA, C.A.           
+     2006-011361 FARMA INTEGRAL SALUD PARA TODOS         
+                 ASOCIATIVA FARMA INTEGRAL.              
+     2006-011647 FARMALCOSTO                             
+                 FARMACIA MACRO CENTRO C.A.              
+     2006-012077 FEELING                                 
+                 CORPORACION BRICE—O & UTRERA, C.A.      
+     2006-013925 FERRE ALQUILER                          
+                 FERRE ALQUILER LEBRUN, C.A.             
+     2006-010498 FERRO FASIL ACCESORIOS                  
+                 INVERSIONES FF2015, C.A.                
+     2006-012231 FITU FERRE INDUSTRIAL DEL TUY           
+                 FERRE INDUSTRIAL DEL TUY, C.A.          
+     2006-010521 FONSHI BALLOONS                         
+                 FONSHI BALLOONS, C.A.                   
+     2006-010128 FRESAS NATURALES PUEBLO HONDO           
+                 FRESAS NATURALES PUEBLO HONDO, C.A.     
+     2006-010096 FRIGORIFICO SAN MARIO                   
+                 FRIGORIFICO SAN MARIO, C.A.             
+     2006-012881 FROZEN FOODS 2004                       
+                 FROZEN FOODS 2004, C.A.                 
+     2006-013407 FUCSIA                                  
+                 SALAH HAMMOUD GASSEN                    
+     2006-011926 G.H.B.& CO.                             
+                 OUTLAND SPORTS, C.A                     
+     2006-009897 GAVIONES RIVAS 27                       
+                 GAVIONES RIVAS 27, C.A.                 
+     2006-011925 GHB                                     
+                 OUTLAND SPORTS, C.A                     
+     2006-012931 GO GO                                   
+                 DISTRIBUIDORA GO GO DE VENEZUELA, C.A.  
+     2006-009695 GOURMET GARDEN                          
+                 GOURMET GARDEN, C.A.                    
+     2006-008950 GRANEL                                  
+                 GONZALEZ ARNAL, FERNANDO MIGUEL         
+     2006-011371 GRUPO CANARIAS                          
+                 FRIGORIFICO CANARIAS, S.R.L.            
+     2006-012442 GRUPO CINESA                            
+                 CINE SOCIEDAD ANONIMA (CINESA)          
+     2006-010481 GRUPO EASY SOLUTIONS                    
+                 GRUPO EASY SOLUTIONS C.A.               
+     2006-012158 GRUPO ON LINE 3000                      
+                 GRUPO ON LINE 3000, C.A.                
+     2006-012159 GRUPO ON LINE 3000 CYBER CAFE           
+                 GRUPO ON LINE 3000, C.A.                
+     2006-010221 GV BOLSA CORPORATIVA INMOBILIARIA       
+                 VERA GUSTAVO                            
+     2006-010712 HACIENDA EL CAUJARAL                    
+                 HACIENDA EL CAUJARAL, C.A.              
+     2006-011746 HOMEXPORT                               
+                 INVERSIONES HOMEXPORT C.A.              
+     2006-012156 HOTEL VISTAVILA                         
+                 JUAN DAVID GOMEZ FIGUEIRA               
+     2005-022335 IA IMPRESOS AMENDAR                     
+                 LOPEZ NIEBLES LUIS EDUARDO              
+     2006-013470 IDEO                                    
+                 INSTITUTO DOCENTE DE ESPECIALIDADES OFTA
+     2006-011231 IMAGINE REVISTA INFANTIL                
+                 ISABEL C. GONZALEZ  VILCHEZ             
+     2006-011231 IMAGINE REVISTA INFANTIL                
+                 MARIA LORENA SALAS PIRELA               
+     2006-010423 INALVE                                  
+                 INALVE INDUSTRIA ALIMENTICIA VENEZOLANA,
+     2006-009752 INCENTIVE ASESORES                      
+                 INCENTIVE GROUP, C.A.                   
+     2006-009751 INCENTIVE GROUP                         
+                 INCENTIVE GROUP, C.A.                   
+     2006-009753 INCENTIVE SOLUTIONS                     
+                 INCENTIVE GROUP, C.A.                   
+     2006-011334 INDARSA                                 
+                 INTERNACIONAL DE MARCAS, REGISTROS Y PAT
+     2006-011100 INDUVAR                                 
+                 INDUVAR, S.A.                           
+     2006-011864 INFACA                                  
+                 INVERSIONES FACCIN-CAON, C.A.           
+     2006-012350 INNOVAR                                 
+                 RUSZ PAGLIONE BIGLIA, ALEJANDRO         
+     2006-014257 INTELLITECH                             
+                 INTELLITECH DE VENEZUELA, C.A.          
+     2006-009735 INTERTELAS LARENSE                      
+                 INTERTELAS LARENSE C.A.                 
+     2006-013388 INVERSIONES RIANOSKA                    
+                 TVERSIONES RIANOSKA C.A.                
+     2006-014249 IRON-ART                                
+                 CORPORACION JOA, S.A.                   
+     2006-014250 IRON-LINE                               
+                 CORPORACION JOA, S.A.                   
+     2006-014248 IRON-TECH                               
+                 CORPORACION JOA, S.A.                   
+     2006-011286 ISOLA                                   
+                 MD CORPORATION                          
+     2005-019533 IVERCAIXA                               
+                 IVERCAIXA C.A.                          
+     2006-010046 J&M CORPORACION FULL MODA               
+                 WORD SPORT 2119, C.A.                   
+     2006-010205 JHENNYRAN FUTURO 2000                   
+                 INVERSIONES JHENNYRAN FUTURO 2000, C.A. 
+     2006-010129 JIMENEZ & LORINSER                      
+                 JIMENEZ RODRIGUEZ, ANTONIO              
+     2006-013234 JN MICROSYSTEM                          
+                 CARABALLO SANTANA, JULIO MIGUEL         
+     2006-010225 K03                                     
+                 DISKRIOZON, C.A.                        
+     2005-025856 KAKOA                                   
+                 DELICATESSES KAKAO, C.A.                
+     2006-010113 KELL PHARMACEUTICALS                    
+                 KELL PHARMACEUTICALS, C.A.              
+     2006-011219 KITA PESO                               
+                 KARINA SANCHEZ REINOZA                  
+     2006-011483 KU                                      
+                 FERNANDO HERNAN MONSALVO                
+     2005-021624 LA FORESTA                              
+                 TAMANACO SUITE I, C.A.                  
+     2006-009703 LA GOCHA                                
+                 MARIA EDILIA RANGEL MARQUEZ             
+     2006-011295 LA PRENSA DE LARA                       
+                 TECNOLOGIA DE MEDIOS TMC C.A.           
+     2006-009934 LABORATORIO CENTRAL RAZETTI             
+                 LABORATORIO CENTRAL RAZETTI, C.A.       
+     2006-010105 LABX                                    
+                 CORPORACION MENDORD, C.A.               
+     2006-009383 LATINLISTS                              
+                 LATINLISTS DE VENEZUELA, C.A.           
+     2005-017456 LEXINGTON AVENUE                        
+                 TEJIDOS ARAGUA, C.A.                    
+     2006-009750 LINAZEITE                               
+                 INTERVIT C.A.                           
+     2006-008912 LOMA                                    
+                 LOGISTICA DE VENEZUELA LOMA, C.A.       
+     2006-010208 LOTERWIN                                
+                 INVERSIONES JHENNYRAN FUTURO 2000, C.A. 
+     2006-010928 LOVER'S                                 
+                 INVERSORA SONARIS, C.A.                 
+     2006-010924 LOVER'S                                 
+                 INVERSORA SONARIS, C.A.                 
+     2006-011131 LUITEX-JEANS                            
+                 LUITEX-JEANS                            
+     2006-010408 MACRO FOOD VENEZUELA                    
+                 MACRO FOOD VENEZUELA, C.A.              
+     2006-009754 MADELACA                                
+                 UNITRUST CONSULTORES C.A.               
+     2006-009755 MADELAKA                                
+                 UNITRUST CONSULTORES C.A.               
+     2006-011152 MAKRIS                                  
+                 MABEL LUZ PACHECO                       
+     2006-013673 MARLI                                   
+                 INVERSIONES PERALES MARTIN., C.A. (PEMAR
+     2006-009345 MDK                                     
+                 COMERCIALIZADORA CANVAS, C.A.           
+     2006-011707 MEDITEA                                 
+                 MASSS IMPORTACIONES, S.A.               
+     2006-010383 MEDYTEC OFFICE                          
+                 MEDICION Y TECNOLOGIA, C.A.             
+     2006-013399 MILLENIUM CELEBRITY                     
+                 COMERCIALIZADORA  BAD FEET, C.A.        
+     2006-009022 MOLINOS ALFONZO RIVAS                   
+                 ALFONZO RIVAS & CIA C.A.                
+     2006-011936 MOOREA                                  
+                 INVERSIONES HABITAT 2004, C.A.          
+     2005-022068 MOVI                                    
+                 LUGO RAZZAR, THOMAS JOSE                
+     2006-013406 MUA                                     
+                 SALAH HAMMOUD GASSEN                    
+     2006-013508 MUNDO AVENTURA                          
+                 GRUPO B.L., C.A.                        
+     2006-009971 NENO'S                                  
+                 IMPORTADORA NENO'S, C.A.                
+     2006-013693 NEWFLEXI MEDICAL                        
+                 NEWFLEXI-MEDICAL., C.A.                 
+     2006-010111 NUTRA DERM                              
+                 PHARMAPIEL, C.A.                        
+     2006-010112 NUTRA VITHAL                            
+                 PHARMAPIEL, C.A.                        
+     2006-010395 OBRESCA                                 
+                 OBRAS ESPECIALES OBRESCA C.A.           
+     2006-010396 OBRESCA                                 
+                 OBRAS ESPECIALES OBRESCA C.A.           
+     2006-011634 OFFICE LINE                             
+                 DISTRIBUIDORA SCOLARI 27, C.A.          
+     2006-012900 OPTIMA                                  
+                 SMARTHOME, C.A.                         
+     2006-010908 P.G.S DE VENEZUELA                      
+                 PGS DE VENEZUELA, C.A.                  
+     2006-013652 PANADERIA Y PASTELERIA ANDRADE`S        
+                 ANDRADES PANADERIA Y PASTELERIA, C.A.   
+     2006-009728 PANERA                                  
+                 PANERA ARTESANOS DEL PAN, C.A.          
+     2006-011353 PASTELERIA Y HELADERIA DINO             
+                 PASTELERIA Y HELADERIA DINO, C.A.       
+     2006-012205 PC STORE                                
+                 PC STORE, C.A.                          
+     2006-013802 PEDEVILLA INMOBILIARIAS                 
+                 PEDEVILLA INMOBILIARIAS C.A.            
+     2006-011837 PERFUMES FACTORY                        
+                 PERFUMES FACTORY, C.A.                  
+     2006-009583 PETROCASA                               
+                 PETROQUIMICA DE VENEZUELA, S.A. (PEQUIVE
+     2006-010328 PICARITO                                
+                 CORPORACION ARS, C.A.                   
+     2006-010330 PICOLINO                                
+                 CORPORACION ARS, C.A.                   
+     2006-009483 PINLATIN                                
+                 PINTURAS COLORES DE MI PATRIA, C.A.     
+     2006-009482 PINTURAS COLORES DE MI PATRIA           
+                 PINTURAS COLORES DE MI PATRIA, C.A.     
+     2006-012275 PIRUETAS                                
+                 INVERSIONES K¥MELO 2006, C.A.           
+     2006-011534 PIZZAS M.D.B.                           
+                 M.D.B., C.A.                            
+     2006-014254 PLATINUM POWER & NET                    
+                 DIVISARIA FABRICACION DE TABIQUES, C.A. 
+     2006-012917 POLYCOAT                                
+                 COATINGS DE ORIENTE C.A.                
+     2006-012916 POLYCOAT                                
+                 COATINGS DE ORIENTE C.A.                
+     2006-010483 POMME DE PAIN                           
+                 INVERSIONES POMME DE PAIN, C.A.         
+     2006-011913 POWERSONG                               
+                 NIKE INTERNATIONAL, LTD.                
+     2006-009597 PREMIER ANDINA                          
+                 PREMIER ANDINA C.A.                     
+     2006-013134 PREMIER DISTRIBUCIONES                  
+                 PREMIER DISTRIBUCIONES, C.A.            
+     2006-009571 PREMIUM SUPERMERCADO                    
+                 SUPERMERCADO PREMIUM, C.A.              
+     2006-009075 PRIME SHOES                             
+                 PRIME SHOES, C.A.                       
+     2006-013386 PRINTACOPY                              
+                 PRINTACOPY C.A.                         
+     2006-009580 PROANDSYS                               
+                 SOLUCIONES AUTOMATIZADAS INVERPRO C.A.  
+     2006-010327 PRODUCCIONES ERICK                      
+                 PRODUCCIONES ERICK PROFESIONALES EN FOTO
+     2006-013105 PRODUCCIONES GROUP DE VENEZUELA SIGLO XX
+                 PRODUCCIONES GROUP DE VENEZUELA SIGLO XX
+     2006-011945 PROENFAR                                
+                 PRODUCTORES DE ENVASES FARMACEUTICOS S.A
+     2006-011292 PROMEAGRO                               
+                 PRODUCTOS Y MEDICAMENTOS AGROPECUARIOS (
+     2006-011518 PROSEAGRO                               
+                 PROSEAGRO, C.A.                         
+     2005-021470 PROSEGUROS                              
+                 PROSEGUROS, S.A.                        
+     2005-021464 PROSEGUROS                              
+                 PROSEGUROS, S.A.                        
+     2006-010799 PROSERPRICA PROTECCION Y SERVICIOS PRIVA
+                 PROTECCION Y SERVICIOS PRIVADOS (PROSERP
+     2006-010347 RATTAN ELECTRONICS                      
+                 RATTAN HYPERMARKET, C.A.                
+     2006-010345 RATTAN EXPRESS                          
+                 RATTAN HYPERMARKET, C.A.                
+     2006-012495 RATTAN PARAGUANA                        
+                 RATTAN HYPERMARKET, C.A.                
+     2006-010346 RATTAN PLAY                             
+                 RATTAN HYPERMARKET, C.A.                
+     2006-012496 RATTAN VENEZUELA                        
+                 RATTAN HYPERMARKET, C.A.                
+     2006-012373 RESTAURANT B'WAY                        
+                 RESTAURANT B'WAY                        
+     2006-011711 RIBAEZ                                  
+                 CARPINTERIA RIBAEZ, C.A.                
+     2006-009471 SALMOS PRODUCTIONS                      
+                 SALMOS PRODUCTIONS C.A.                 
+     2006-009648 SCALA RISTORANTE                        
+                 PPP DELIVERY, C.A.                      
+     2005-026590 SEATSUY                                 
+                 COMERCIALIZADORA SEATSUY, S.A.          
+     2005-022655 SERVIVIENDA.COM                         
+                 IDEAS DELFOS, C.A.                      
+     2006-013276 SILVIA QUEEN                            
+                 CONTRERAS RUEDA, SILVIA MARGARITA       
+     2006-013151 SINCOR                                  
+                 SINCRUDOS DE ORIENTE SINCOR, C.A.       
+     2006-012348 SOLDADURAS Y TUBERIAS DE ORIENTE        
+                 SOLDADURAS Y TUBERIAS DE ORIENTE, C.A.  
+     2006-012439 SOLFIN SOCIEDAD DE CORRETAJE DE VALORES 
+                 SOLFIN SOCIEDAD DE CORRETAJE DE VALORES,
+     2006-013251 SOLUMEL                                 
+                 SOLUMEL C.A.                            
+     2006-011803 SOPRANO                                 
+                 DISTRIBUIDORA GOLDEN ICE, C.A.          
+     2006-009505 SOPY SECO                               
+                 CORPORACION CATERER WORLD, C.A.         
+     2006-000002 SOTEMAN SOCIEDAD DE TECNOLOGIA Y MANTENI
+                 SOCIEDAD DE TECNOLOGIA Y MANTENIMIENTO S
+     2006-009473 SOUL CLIPS                              
+                 SALMOS PRODUCTIONS C.A.                 
+     2006-009790 SOUSA SUPPLY C.A.                       
+                 SOUSA SUPPLY C.A.                       
+     2006-009295 SPECTRUM SEGURIDAD                      
+                 JDML TECNOLOGIA INTEGRAL, C.A.          
+     2006-011101 SPORTEX DE VENEZUELA                    
+                 SPORTEX DE VENEZUELA, C.A.              
+     2006-013478 STC FORO LATINOAMERICA                  
+                 STC FORO LATINOAMERICA, S.A.            
+     2006-013090 STK COMPANY SOFTWARE TECHNOLOGY KNOWLEDG
+                 STK DE VENEZUELA, C.A.                  
+     2006-014103 SUCRE HIELO                             
+                 SUCRE HIELO, C.A.                       
+     2006-008924 SUKYAMA                                 
+                 IMPORT EXPORT II, C.A.                  
+     2006-012097 SUMIFAST, C.A.                          
+                 SUMIFAST, C.A.                          
+     2006-012345 SYSTAR                                  
+                 CORPORACION SYSTAR C.A.                 
+     2006-012552 T.M.T ACCESORIOS                        
+                 T.M.T. ACCESORIOS, C.A.                 
+     2006-013610 TA PAGO                                 
+                 TEBCA TRANSFERENCIA ELECTRONICA DE BENEF
+     2006-012460 TACONES & PUNTAS                        
+                 TACONES Y PUNTAS, C.A.                  
+     2006-009451 TANTRA                                  
+                 PELUFFO DE CASIQUE ANGELICA REGINA      
+     2006-012128 TIP - TELECOM                           
+                 GASCUE A TRINA MARGARITA                
+     2006-011535 TOBACCO & CIGARS                        
+                 TOBACCO & CIGARS, C.A.                  
+     2006-012463 TOP PRODUCTIONS                         
+                 TOP-PRODUCTIONS, C.A.                   
+     2006-010157 TOTEM                                   
+                 PINA COLINA GRIKZON                     
+     2006-012365 TOYAMA MAQUINARIA                       
+                 TOYAMA MAQUINARIA, S.A.                 
+     2006-012813 TRAMAS                                  
+                 PLATINIUM TEXTIL C.A.                   
+     2006-011915 TUNE YOUR RUN                           
+                 NIKE INTERNATIONAL, LTD.                
+     2006-009967 ULTRAVITAL THERAPIE CELLULAIRE          
+                 PE—A NAVA JACKSON                       
+     2006-011982 UNO LINK                                
+                 UNO LINK, C.A.                          
+     2006-010828 UOMO                                    
+                 CONFECCIONES UOMO, C.A.                 
+     2006-012339 UZI                                     
+                 CASTRO CONTRERAS INGRID LISSETTE        
+     2006-012375 VEMASCA                                 
+                 DENIS FLORES LAESKER                    
+     2006-010214 VENDELOT EN LINEA                       
+                 INVERSIONES JHENNYRAN FUTURO 2000, C.A. 
+     2006-012508 VENEQUIM CORPORACION VENEQUIM           
+                 CORPORACION VENEQUIM, C.A.              
+     2006-009950 VENESHRIMP                              
+                 VENESHRIMP, C.A.                        
+     2006-011511 VENEZOLANOS ANTE TODO                   
+                 TARKANY, C.A.                           
+     2006-013664 VIDRIOS MONAGAS                         
+                 VIDRIOS MONAGAS, C.A.                   
+     2006-011509 VILLA BAHAREQUE                         
+                 COMERCIAL VILLA BAHAREQUE, C.A.         
+     2006-011109 VIP LATIN HOST.COM                      
+                 GOMEZ DA SILVA ANTONIO                  
+     2006-009717 VISION DON DIVINO INTENACIONAL          
+                 VISION DON DIVINO INTERNACIONAL (V.D.D.I
+     2006-014147 VSR DE VENEZUELA                        
+                 VEHICLE SECURITY RESOURCES DE VENEZUELA,
+     2006-009488 W & R WILD&ROUGH                        
+                 FABRICA DE CALZADOS DOMIT, C.A.         
+     2006-009860 WAG WORLDWIDE AUTO GROUP                
+                 WORLDWIDE AUTO GROUP C.A.               
+     2006-012276 WAI                                     
+                 AUTOPARTS COLUMBIA, C.A.                
+     2006-012483 WESTON                                  
+                 DISTRIBUIDORA YSTON, C.A.               
+     2006-010859 WESTON                                  
+                 DISTRIBUIDORA YSTON, C.A.               
+     2005-022061 WETSAND                                 
+                 INVERSIONES ONE-2008, C.A.              
+     2006-010264 X                                       
+                 FARMACIA CARABOBO C.A.                  
+     2006-013515 XTREMA                                  
+                 NORTH AMERICAN INTERNATIONAL, C.A.      
+     2006-010603 YSTON                                   
+                 DISTRIBUIDORA YSTON, C.A.               
+     2006-012477 YSTON                                   
+                 DISTRIBUIDORA YSTON, C.A.               
+     2006-010486 ZAPATERIA X                             
+                 ALMACENES X, C.A.                       
+     2006-014253 ZEKTOR 5.0                              
+                 DIVISARIA FABRICACION DE TABIQUES, C.A. 
+     2006-012324 ZEUS RESTAURANT                         
+                 OPERADORA EASTCREST DE VENEZUELA 2005, C
+     2006-010488 ZOE INDUSTRIAS                          
+                 ZOE INDUSTRIAS, C.A.                    
+     2006-013400 ZOY                                     
+                 INVERSIONES UTH, C.A.                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

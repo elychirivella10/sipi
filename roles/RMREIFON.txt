@@ -1,0 +1,71 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Carga de Solicitudes
+...| Modificar Solicitud|marcas/m_infosol.php?vopc=4
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+...| Examen de Forma
+....| Devoluciones (LPI 55)|marcas/m_devoluci56.php
+....| Reingresos|marcas/m_reingres.php?vopc=5
+....| Modificaci&oacute;n de Clase|marcas/m_modclnac.php?vopc=4
+....| Modificaci&oacute;n de Distingue|marcas/m_modprod.php?vopc=4
+...| Examen de Fondo
+....| Devoluciones|marcas/m_devfondo.php
+....| Examen de Fondo (LPI)|marcas/m_exfon55.php?conx=1&salir=1
+....| Negaciones (LPI 55)|marcas/m_negacion56.php
+...| Correcci&oacute;n de Error Material|marcas/m_evcomat.php
+..| Resoluciones
+...| Alertas|resoluciones/m_reslistarestabog.php?est=4
+...| Nueva Resoluci&oacute;n|resoluciones/m_resnueva.php
+...| Buscar Resoluci&oacute;n
+....| Por Num. de Solicitud|resoluciones/m_resbuscarabog.php
+....| Por Num. de Boletin|resoluciones/m_resbuscarbolabog.php
+....| En Proceso|resoluciones/m_reslistarestabog.php?est=1
+....| Resueltas por Aprobar|resoluciones/m_reslistarestabog.php?est=2
+....| Detenidas|resoluciones/m_reslistarestabog.php?est=3
+....| Rechazadas|resoluciones/m_reslistarestabog.php?est=4
+....| Aprobadas por Publicar |resoluciones/m_reslistarestabog.php?est=5
+....| En Proceso de Publicaci&oacute;n |resoluciones/m_reslistarestabog.php?est=6
+....| Publicadas en Boletin |resoluciones/m_reslistarestabog.php?est=7
+...| Ayuda |ayuda/ResolucionesMarcas.pdf
+..|---
+..| Bolet&iacute;n
+...| Coordinaci&oacute;n de Marcas
+....| Aplicaci&oacute;n Evento 30 a Marcas por Bolet&iacute;n|marcas/m_ev30bol.php
+....| Marcas sin Consignaci&oacute;n de Publicaci&oacute;n en Prensa a Perimir|marcas/m_peribol.php
+....| Desistir Observadas sin Contestar en Lote|marcas/m_actobscon.php
+....|---
+....| Generaci&oacute;n de Datos|marcas/m_bolgenar.php
+....| Generaci&oacute;n de Marcas Observadas por Boletin|marcas/m_genobsbol.php
+....| Edici&oacute;n de Datos Generados|marcas/m_bolediar.php
+....|---
+....| Estadisticas previo a la Actualizaci&oacute;n|marcas/m_pminbol.php
+....|---
+....| Generaci&oacute;n de Archivos y Listados
+.....| Listados|marcas/m_rptplisbol.php?conx=1&salir=1
+.....| Listado de Orden de Publicaci&oacute;n|marcas/m_rptpordepub.php?conx=1&salir=1
+.....| Orden de Publicaci&oacute;n x Bolet&iacute;n|marcas/m_rptpprensa.php?conx=1&salir=1
+.....| Observadas sin Contestaci&oacute;n|marcas/m_rptpobscon.php?conx=1&salir=1
+..|---
+..| Consultas y Reportes
+...| Oficios de Devoluci&oacute;n (LPI 55)|marcas/m_rptpoficio55.php?conx=1&salir=1
+...| Poderes|marcas/m_cpoderes.php?opc=12
+...| Expediente Electr&oacute;nico|expediente/m_rptpexp.php
+...| Administrativos
+....| Consulta Interna|consultamarcas/indexfull.php
+....| Consulta Abierta|marcas/m_rptpcona.php?conx=1&salir=1
+....| Cronolog&iacute;a|marcas/m_rptpcronol.php
+....| Oficios de Devoluci&oacute;n (LPI 55)|marcas/m_rptpoficio55.php?conx=1&salir=1
+....| Devueltas Publicadas con Contestaci&oacute;n|marcas/m_devconbol.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Transacciones x Sol.|marcas/m_rptpavztra1.php
+.....| Listados con Titulares|marcas/m_rptpavzda.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

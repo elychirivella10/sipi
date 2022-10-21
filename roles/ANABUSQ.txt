@@ -1,0 +1,30 @@
+.| Salir|aut_logout.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| B&uacute;squedas
+...| Fonetica y Grafica
+....| Fonetica
+.....| B&uacute;squedas Externas|marcas/m_panelfon.php
+.....| Examen de Fondo
+......| Generar Archivo TXT Solicitudes Fondo - al Servidor Fonetica|marcas/m_fondotxt.php
+......| Generar Archivo TXT Solicitudes Forma/Fondo - al Servidor Fonetica|marcas/m_fondotxt1.php
+......| Transformar Resultado TXT Busquedas de Fondo a Formato PDF|comun/z_leabusqf.php?vopc=1
+....| Figurativa o Gr&aacute;fica 
+.....| Env&iacute;o de Resultado B&uacute;squeda PDF por Correo|comun/m_mailbusqgext.php?vopc=1
+.....| Actualizaci&oacute;n de Estatus para Re-Env&iacute;o de Resultado B&uacute;squeda por Correo|marcas/m_actenvgra.php?vopc=4
+...| Reportes de Auditor&iacute;a
+....| Factura B&uacute;squeda Fonetica Cargadas|marcas/m_rptconfon.php
+....| Factura B&uacute;squeda Gr&aacute;ficas Cargadas|marcas/m_rptconlog.php
+....| B&uacute;squedas Cargadas por Procesar/Enviar|marcas/m_rptbuspen.php
+..| Consultas y Reportes
+...| Expediente Electr&oacute;nico|expediente/m_rptpexp.php
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+..| B&uacute;squedas Externas Webpi
+...| Transformar Resultados del Webpi a formato PDF|comun/z_leabusq.php?vopc=1
+...| Verificaci&oacute;n de Archivos TXT Busquedas a Convertir en PDF|comun/z_verificatxt.php?vopc=1
+...| Env&iacute;o de Resultados PDF Webpi por Correo|comun/z_enviobusq.php?vopc=1
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

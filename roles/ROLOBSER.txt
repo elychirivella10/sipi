@@ -1,0 +1,65 @@
+.| Salir|aut_logout.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Certificado Electr&oacute;nico
+...| Generacion de Certificado|marcas/m_gencertif.php?vopc=1
+...| Enviar Certificados para la firma|comun/z_enviarcert.php?vopc=1
+..|---
+..| Resoluciones
+...| Nueva Resoluci&oacute;n|resoluciones/m_resnueva.php
+...| Buscar Resoluci&oacute;n
+....| Por Num. de Solicitud|resoluciones/m_resbuscar.php
+....| Por Num. de Boletin|resoluciones/m_resbuscarbol.php
+....| En Proceso|resoluciones/m_reslistarest.php?est=1
+....| Resueltas por Aprobar|resoluciones/m_reslistarest.php?est=2
+....| Detenidas|resoluciones/m_reslistarest.php?est=3
+....| Rechazadas|resoluciones/m_reslistarest.php?est=4
+....| Aprobadas por Publicar |resoluciones/m_reslistarest.php?est=5
+....| En Proceso de Publicaci&oacute;n |resoluciones/m_reslistarest.php?est=6
+....| Publicadas en Boletin |resoluciones/m_reslistarest.php?est=7
+...| Edici&oacute;n de Datos
+....| En Proceso de Publicaci&oacute;n |resoluciones/m_reseditarbol.php
+...| Actualizaci&oacute;n de Boletin|resoluciones/m_bolactre.php
+...| Mantenimiento de Plantillas |resoluciones/m_resplantilla.php
+...| Ayuda |ayuda/ResolucionesMarcas.pdf
+..| Resoluciones Abogados
+...| Alertas|resoluciones/m_reslistarestabog.php?est=4
+...| Nueva Resoluci&oacute;n|resoluciones/m_resnueva.php
+...| Buscar Resoluci&oacute;n
+....| Por Num. de Solicitud|resoluciones/m_resbuscarabog.php
+....| Por Num. de Boletin|resoluciones/m_resbuscarbolabog.php
+....| En Proceso|resoluciones/m_reslistarestabog.php?est=1
+....| Resueltas por Aprobar|resoluciones/m_reslistarestabog.php?est=2
+....| Detenidas|resoluciones/m_reslistarestabog.php?est=3
+....| Rechazadas|resoluciones/m_reslistarestabog.php?est=4
+....| Aprobadas por Publicar |resoluciones/m_reslistarestabog.php?est=5
+....| En Proceso de Publicaci&oacute;n |resoluciones/m_reslistarestabog.php?est=6
+....| Publicadas en Boletin |resoluciones/m_reslistarestabog.php?est=7
+...| Ayuda |ayuda/ResolucionesMarcas.pdf
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+...| Administrativos|
+....| Usuarios|
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+...| Certificados|
+....| Generar|marcas/m_rptpcertm.php
+..|---
+..| Estadisticas||Estadistidicas de Marcas|
+...| Todas las Publicaciones de un Boletin|marcas/m_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|marcas/m_est_tpuxbol.php?vopc=0
+...| Relaci&oacute;n: (Concesi&oacute;n-Pago) por Boletines|marcas/m_est_rconpag.php?vopc=0
+...|---
+...| Presentadas por a&ntilde;o|marcas/m_est_prexmes.php?vopc=0
+...| Examinadas Fondo/Forma por A&ntilde;o (Eventos:51,52,53,54)|marcas/m_est_exaxmes.php?vopc=0
+...| Registradas por a&ntilde;o|marcas/m_est_regxmes.php?vopc=0
+...|---
+...| Por Estatus en tipos de Marcas|marcas/m_est_estatus.php?vopc=0
+...| Transacciones por Evento/Usuarios|marcas/m_est_usuxmes.php?vopc=0
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Certificado Electr&oacute;nico
+...| Generacion de Certificado|patentes/p_gencertif.php?vopc=1
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|configuration.png
+..| Cambio de Clave|comun/z_modpass.php

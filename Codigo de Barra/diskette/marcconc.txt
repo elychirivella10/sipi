@@ -1,0 +1,1122 @@
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2000-001546    4  PENHALIGON'S LP NO: 9                                        PENHALIGON¥S LIMITED.                                         VALLINA GRISANTI MANUEL
+2000-002547   25  KOOKAI                                                       KOOKAI                                                        GUZMAN SUAREZ BARBARITA M.
+2000-006683   16  BELL                                                         BELL IP HOLDING L.L.C.                                        VALLINA GRISANTI MANUEL
+2000-009643   16  DAHLI                                                        INDUSTRIAS KRO-MO, C.A.                                       UZCATEGUI URDANETA MARIANO
+2000-011382    5  GAMBRO                                                       GAMBRO LUNDIA AB                                              DANA BENTATA.
+2000-014278    5  QUE MEJOR JOYA QUE SU CUERPO                                 M.B.A. METABOLIC ACTIVITY BALANCE CLINICA DE ADELGAZAMIEN**   HILDA JOSEFINA NOVAL BASTARDO
+2000-016527   30  KINGY                                                        CHOCOLATES EL REY C.A.                                        UZCATEGUI URDANETA MARIANO
+2000-017996    8  TROMPETA                                                     FAHEMSA C.A.                                                  AIDA MACHORO
+2000-019047   16  PLASTILIM                                                    LA ESTIC DE VENEZUELA S.A.                                    ENRIQUE J. CHEANG VERA
+2000-020007    9  ANAPRES 2.000                                                INTERACTIVE MARKETING INFO I.M.I., C.A.                       AYALA CHERUBINI BEATRIZ CAROLINA
+2000-020008    9  TARGET 2.000                                                 INTERACTIVE MARKETING INFO I.M.I., C.A.                       AYALA CHERUBINI BEATRIZ CAROLINA
+2000-020009    9  RUTAS 2.000                                                  INTERACTIVE MARKETING INFO I.M.I., C.A.                       AYALA CHERUBINI BEATRIZ CAROLINA
+2001-008629    5  VILIPEN                                                      HEALTHCO LIMITED                                              GIOVANNI DI VENERE
+2001-011661    8  QUATTRO                                                      EVEREADY BATTERY COMPANY, INC.                                EZAGUI SPRITZER JAIME R.
+2001-014096    9  ANTIGEN                                                      SYBARI SOFTWARE, INC.                                         ENRIQUE J. CHEANG VERA
+2001-014743   10  LMB                                                          DEROYAL INDUSTRIES INC.                                       HERNANDEZ RICARDO ANTEQUERA
+2001-015385    5  PHLEBODIA                                                    LABORATORIES INNOTHERA                                        NEBREDA MARIA MILAGROS
+2001-015781   30  RECHELLE                                                     CIPA INDUSTRIA DE PRODUCTOS ALIMENTICIOS LTDA.                ORLANDO JOSE VIERA BLANCO
+2001-016501   32  V-MAX                                                        SERGIO VILLAR FISAS                                           SERGIO VILLAR FISAS
+2001-016514   16  ZAPATO 3 & MEDIO                                             TONY DI BENEDETTO CALO                                        ORTIZ MORALES  ENOES JOSEFINA
+2001-016575   16  FRADORI                                                      EUROVIVERES GRUPO IMPORTADOR C.A.                             JOSE OVIEDO SALGUEIRO ARAUJO
+2001-017808    5  S-26 AR                                                      WYETH                                                         DIEGO BUSTILLOS BEINER
+2001-018593    1  AQUAVITRO                                                    ESPECIALIDADES QUIMICAS QUIMIDAL C.A.                         MEZA MORENO ANA IRIS
+2001-018609   16  EXTRA RATTAN                                                 RATTAN, C.A.                                                  JONSON FISCHEL JOHN MICHAEL
+2001-018776    3  NANCY                                                        YUSUF ABRAHIM HUSAM                                           YUSUF ABRAHIM HUSAIM
+2001-019037   16  SUPER TANQUE                                                 INDUSTRIAS Q' PRODUCTOS, S.A.                                 ORTIZ MORALES  ENOES JOSEFINA
+2001-019459   16  412                                                          BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2001-020063   16  FIESTA CASINO TAMANACO                                       HOTEL TAMANACO, C.A.                                          MONSERRATT EDGAR JAVIER
+2001-020243    7  DOWNSTROKE (CARRERA DESCENDENTE)                             J R KING ENTERPRISES INCORPORATED                             BENTATA KAREL
+2001-020305    5  PRINCIPOL                                                    SEMILLAS FLOR DE ARAGUA C.A. SEFLOARCA                        PEDRO FRANCISCO MARIN DUARRY
+2001-020543    3  GLORIA                                                       L'OREAL                                                       DIEGO BUSTILLOS BEINER
+2001-021770    3  IMPACTIVE                                                    LANCOME PARFUMS ET BEAUTE & CIE                               DIEGO BUSTILLOS BEINER
+2002-001028    3  PODER CON AQUAFORCE                                          ALVARO RAFAEL MORALES GUARIGUATA                              ALVARO R. MORALES
+2002-001141   16  GOLD REGAL                                                   INDUSTRIAS REGAL, C.A.                                        ORTIZ MORALES  ENOES JOSEFINA
+2002-001154   29  YOKITA                                                       INDUSTRIA LACTEA VENEZOLANA C.A (INDULAC)                     MARQUEZ GARCIA RICARDO
+2002-001155   32  YOKITA                                                       INDUSTRIA LACTEA VENEZOLANA C.A. (INDULAC)                    MARQUEZ GARCIA RICARDO
+2002-001156    5  YOKITA                                                       INDUSTRIA LACTEA VENEZOLANA C.A. (INDULAC)                    MARQUEZ GARCIA RICARDO
+2002-001157   30  YOKITA                                                       INDUSTRIA LACTEA VENEZOLANA C.A. (INDULAC)                    MARQUEZ GARCIA RICARDO
+2002-001158   31  YOKITA                                                       INDUSTRIA LACTEA VENEZOLANA C.A (INDULAC)                     MARQUEZ GARCIA RICARDO
+2002-001159   32  SABANA                                                       INDUSTRIA LACTEA VENEZOLANA C.A (INDULAC)                     MARQUEZ GARCIA RICARDO
+2002-001160    5  SABANA                                                       INDUSTRIA LACTEA VENEZOLANA C.A. (INDULAC)                    MARQUEZ GARCIA RICARDO
+2002-001210   18  GENETIC                                                      AIRWALK INTERNATIONAL, LLC                                    MANUEL POLANCO FERNANDEZ
+2002-001226    3  NATRIXTRACTS                                                 NATURE'S SUNCHINE PRODUCTS, INC.                              HOET LINARES FRANKLIN
+2002-001229    3  NUTRINEW                                                     NATURE'S SUNCHINE PRODUCTS, INC.                              HOET LINARES FRANKLIN
+2002-001303   11  PINGUINO                                                     DE'LONGHI S.P.A.                                              LAURA K. RADA CHACON
+2002-001311    5  BRAMANT                                                      PFIZER PRODUCTS INC.                                          NEBREDA MARIA MILAGROS
+2002-001342    3  ALIN                                                         INDUSTRIA JABONERA LINA, S.A.                                 LIGIA MERCEDES SALAZAR PARRA
+2002-001343   16  ALIN                                                         INDUSTRIA JABONERA LINA, S.A.                                 LIGIA MERCEDES SALAZAR PARRA
+2002-001386   27  PRINCE                                                       VILORIA CASINELLI GARY CHESSMAR                               VILORIA CASINELLI GARY CHESSMAR
+2002-001402    1  UNICAK+                                                      NORSK HIDRO ASA                                               NEBREDA MARIA MILAGROS
+2002-001488    9  OPTIMA                                                       OPTIMA - MASCHINENFABRIK DR. BUHLER GMBH & CO. KG             OSCAR J. HUERTAS BIGOTT
+2002-001502    4  MAX-VI                                                       INDUSTRIAS CAGUA C.A.                                         DOUGLAS DAGER RODRIGUEZ
+2002-001518    9  IVB                                                          INTERVOICE LIMITED PARTNERSHIP.                               LOPEZ CEGARRA JESUS ALBERTO
+2002-001582   19  LAMICOR                                                      LAMINADOS INNOVADORES LAMINOVA, C.A.                          GABRIELA NU∂EZ MARQUEZ
+2002-001612    6  EMERSON PROCESS MANAGEMENT                                   EMERSON ELECTRIC CO.                                          ENRIQUE J. CHEANG VERA
+2002-001679    3  XT-1 TAPA AMARILLA                                           INVERSIONES COPACKING C.A.                                    JESUS RAMIREZ
+2002-001696   24  DISTRIBUIDORA E IMPORTADORA INTIMAS DE COLOMBIA              FERREIRA FUENTES BERNARDO                                     FERREIRA FUENTES BERNARDO
+2002-001699    3  VERTIGO                                                      MARTY GONZALEZ DE ZILIO                                       CALOSSO MARIO
+2002-001719   33  CARORE—A                                                     BODEGAS POMAR C.A.                                            MONTIEL MARIANA
+2002-002049   29  RODRISIL                                                     RODRIGUES ALVES, RICHARD                                      ALBERTO JOSE MELENA MEDINA
+2002-003168    1  CLEANZYME                                                    CLEANZYME DE VENEZUELA, C.A.                                  D' JESUS P. ANTONIO J.
+2002-003349    5  SIGMAIMMUN MICROEMULSION                                     TIGMA PHARMA LTDA.                                            ENRIQUE J. CHEANG VERA
+2002-003350    5  SIGMAIMMUN                                                   SIGMA PHARMA LTDA.                                            ENRIQUE J. CHEANG VERA
+2002-003589    5  CONDUCAT                                                     BAXTER INTERNATIONAL INC.                                     GIMENEZ NURIA JULIA DE
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2002-003791    1  CREATE                                                       BAYER AKTIENGESELLSCHAFT                                      NEBREDA MARIA MILAGROS
+2002-003945    9  NUCTECH                                                      TSINGHUA TONGFANG NUCTECH CO. LTD.                            VITKOU FISCHER RICARDO PATRICK
+2002-004488   32  ORANGINA                                                     SCHWEPPES INTERNATIONAL LIMITED.                              ARCILA SALGADO GUSTAVO
+2002-004601   16  COMPARTE-ME                                                  BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2002-004602   16  IDENTIFICA-ME                                                BANESCO BANCO UNIVERSAL, C.A                                  MONSERRATT EDGAR JAVIER
+2002-004605   16  CONTACTA-ME                                                  BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2002-004608   16  TRANSFIERE-ME                                                BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2002-004610   16  BLOQUEA-ME                                                   BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2002-004615   16  CONTACTA-ME FAX                                              BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2002-004619   16  ESCRIBE-ME TRIVIA                                            BANESCO BANCO UNIVERSAL, C.A                                  MONSERRATT EDGAR JAVIER
+2002-004625   16  OCULTA-ME                                                    BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2002-004712   16  CONTACTA-ME FAX                                              BANESCO BANCO UNIVERSAL, C.A                                  MONSERRATT EDGAR JAVIER
+2002-005023   16  DIGITEL EMPRESARIAL                                          BANESCO BANCO UNIVERSAL, C.A                                  MONSERRATT EDGAR JAVIER
+2002-005024   16  DIGITEL EMPRESARIAL                                          BANESCO BANCO UNIVERSAL, C.A                                  MONSERRATT EDGAR JAVIER
+2002-005849   33  BODEGA PRIVADA                                               C.A. RON SANTA TERESA                                         ZVONIMIR TOLJ
+2002-005905   19  COCINA FACIL                                                 MOBILIARIO Y DISE—O ACRILART C.A.                             ALONSO BUSTILLO RICARDO
+2002-006770   20  COCINA FACIL                                                 MOBILIARIO Y DISE∂O ACRILART C.A.                             ALONSO BUSTILLO RICARDO
+2002-007162    3  MICROESFERAS ACTIVAS                                         THE PROCTER & GAMBLE COMPANY                                  DIEGO BUSTILLOS BEINER
+2002-007173   25  JHOJAN SPORT                                                 ESPERANZA CAMARGO DE DAZA                                     ESPERANZA CAMARGO DE DAZA
+2002-007505   16  VALLAS                                                       PUBLICIDAD VALLAS, C.A.                                       MELENA MEDINA FERNANDO
+2002-007644   16  SCOP SPORT                                                   SCOP SPORT C.A.                                               FRANCISCO PABLO LOPEZ R.
+2002-007646   16  VILLA SPORT                                                  VILLA SPORT C.A.                                              FRANCISCO PABLO LOPEZ R.
+2002-007918   16  REVISTA REFLEJOS                                             FELIX ALBERTO AVENDA—O VILLALOBOS                             LUIS FARIAS ALTUVE
+2002-007920   16  REVISTA SOCIEDADES MEDICAS                                   FELIX ALBERTO AVENDA—O VILLALOBOS                             LUIS FARIAS ALTUVE
+2002-008734   16                                                               LA ESTIC DE VENEZUELA, S.A.                                   SILVIA BENAIM DE PENZINI
+2002-009013   16  NOTIEXPRESS                                                  JORGE SOLE ROMEO                                              ENRIQUE J. CHEANG VERA
+2002-010111   16  EL SEMANAL DEL TURISMO                                       LUCIANO JOSE DUQUE FASINDA                                    LUCIANO JOSE DUQUE FASINDA
+2002-010394   28  ANIMALITOS MILLONARIOS                                       ARTIGAS RAMIREZ RAUL ENRIQUE                                  ARTIGAS RAMIREZ RAUL
+2002-010396   28  ANIMALITOS EN LINEA                                          ARTIGAS RAMIREZ RAUL ENRIQUE                                  RAUL E. ARTIGAS
+2002-010684   30  OK FRUIT'S                                                   SALAS VARGAS RODOLFO                                          RODOLFO SALAS VARGAS
+2002-010685   29  OK FRUIT'S                                                   SALAS VARGAS RODOLFO                                          RODOLFO SALAS VARGAS
+2002-010686   31  OK FRUIT'S                                                   SALAS VARGAS RODOLFO                                          RODOLFO SALAS VARGAS
+2002-010687   32  OK FRUIT'S                                                   SALAS VARGAS RODOLFO                                          SALAS VARGAS RODOLFO
+2002-011031   30  OK COFFEE                                                    SALAS VARGAS RODOLFO                                          RODOLFO SALAS VARGAS
+2002-011933   17  UNI-GARD                                                     ILLINOIS TOOL WORKS INC.                                      DANA RUTH BENTATA
+2002-011997   16  EXPRESSO LA NOTICIA                                          C.A. ULTIMAS NOTICIAS                                         AYALA CHERUBINI BEATRIZ CAROLINA
+2002-012098    3  SOFTWASH                                                     JOHNSON & JOHNSON                                             DE SOLA LANDER IRENE
+2002-012163   28  TRIPLE CORONA                                                RAUL E. ARTIGAS RAMIREZ                                       RAUL E. ARTIGAS RAMIREZ
+2002-012194   25  PLANET FASHION                                               ANDRES CAMPOS MONIZ                                           ARCILA SALGADO GUSTAVO
+2002-012518   29  RAPI-CRIOLLAS                                                CONGELADOS AGRICOLAS, S.A. CONGELAGRO, S.A.                   ELIAS LUIS FRANCISCO
+2002-012521   30  RAPI-CRIOLLAS                                                CONGELADOS AGRICOLAS, S.A. CONGELAGRO, S.A.                   MARIO J. HERIZE
+2002-012545    5  TILANX                                                       PFIZER PRODUCTS INC.                                          BENTATA KAREL
+2002-012564   16  C.A. LIFORNIA SUR                                            JOSE RODRIGUES DUARTE                                         JOSE RODRIGUEZ DUARTE
+2002-012598   28  ESCRIBE-ME TRIVIA                                            BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2002-012599   28  ESCRIBE-ME TRIVIA                                            BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2002-012639    5  COUGH TEA                                                    PRODUCTOS NATURAL LIFE, C.A.                                  LIGIA MERCEDES SALAZAR PARRA
+2002-012640    5  DIGES TEA                                                    PRODUCTOS NATURAL LIFE, C.A.                                  LIGIA MERCEDES SALAZAR PARRA
+2002-012644    5  KOF TEA                                                      PRODUCTOS NATURAL LIFE, C.A.                                  LIGIA MERCEDES SALAZAR PARRA
+2002-012936   25  A & A                                                        PRONTA MODA, C.A.                                             ARCILA SALGADO GUSTAVO
+2002-013010   33  BOLLA                                                        F.LLI BOLLA INTERNATIONAL WINES INC.                          ALONSO BRICE∂O DELFINA
+2002-013060    5  ARM & HAMMER                                                 CHURCH & DWIGHT CO., INC.                                     VALLINA GRISANTI MANUEL
+2002-013158   12  GRANDIS                                                      MITSUBISHI JIDOSHA KOGYO KABUSHIKI KAISHA                     DANA RUTH BENTATA
+2002-013327    3  COLORWONDERFUL                                               THE PROCTER & GAMBLE COMPANY                                  ANEDONDO CAMPOS OSCAR
+2002-013377    5  GARIZET                                                      PFIZER PRODUCTS INC.                                          NEBREDA MARIA MILAGROS
+2002-013416   14  VALERIA FASHION                                              REPRESENTACIONES VALERIE FASHION F., C.A.                     FABIO GALLO
+2002-013565   16  MINNIE MOUSE                                                 DISNEY ENTERPRISES INC.                                       NEBREDA MARIA MILAGROS
+2002-013670    9  BEARINGPOINT                                                 DALLAS PROJECT HOLDINGS LIMITED                               DIEGO BUSTILLOS BEINER
+2002-013714   30  HALLARICA                                                    ALIMENTOS HABITUALES C.A.                                     OTTO CARRE—O
+2002-013787   30  LA MARCONA SCHOKO                                            MOLINA Y CIA C.A.                                             ARCILA SALGADO GUSTAVO
+2002-013795    9  SUNRX                                                        INSIGHT EQUITY A.P.X., LP.                                    MATA PONTE ILIANY ALEXANDRA
+2002-014345    6  COLONIA V                                                    BRICE—O DE LUGO, MARIA AUXILIADORA                            MARIA A. BRICE—O DE LUGO
+2002-014367    2  DELL                                                         DELL INC                                                      VALLINA GRISANTI MANUEL
+2002-014368    9  DELL                                                         DELL INC                                                      VALLINA GRISANTI MANUEL
+2002-014479    6  GRUPO TORFASTENER                                            GRUPO TORFASTENER, C.A.                                       MARQUEZ LOSADA, GABRIEL
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2002-014664   30  INSTAKAFE                                                    SUCESORES DE JOSE JESUS RESTREPO & CIA S.A.-CASA LUKER S.A.   NEBREDA MARIA MILAGROS
+2002-015027    5  VITERAL                                                      LABORATORIOS VIVAX PHARMACEUTICALS C.A.                       HERNANDEZ GONZALEZ RAFAEL ANGEL
+2002-015230    2  MONTANA KIDS                                                 TIENDAS MONTANA, C.A.                                         MARQUEZ GARCIA RICARDO
+2002-015366   29  FRESCABUENA                                                  THE QUAKER OATS COMPANY                                       BENTATA KAREL
+2002-015367   30  FRESCABUENA                                                  THE QUAKER OATS COMPANY                                       BENTATA KAREL
+2002-015395    1  MONTANA KIDS                                                 TIENDAS MONTANA, C.A.                                         RICARDO MARQUEZ GARCIA
+2002-016086    5  SORTAL HCT PLUS                                              T.M HOLDING, C.A.                                             SARA CAROLINA SANCHEZ PARRA
+2002-016143    3  NANOSORB                                                     BAYER CONSUMER CARE AG.                                       BENTATA KAREL
+2002-016868    5  LEPTO-BOV-6                                                  VALLEE S.A.                                                   ENRIQUE J. CHEANG VERA
+2002-017168    4  INDUCARBON                                                   DISTRIBUIDORA QUINDUCHEM, S.A.                                MELENA MEDINA FERNANDO
+2002-017172    5  OUT-TABAC                                                    SLEIMAN NAGIT, JOSE                                           SLEIMAN NAGIT, JOSE
+2002-017183    3  FARAWAY SENSUAL EMBRACE                                      AVON PRODUCTS INC.                                            GIMENEZ NURIA JULIA DE
+2002-017329    6  KOPPEL MTX                                                   KOPPEL STEEL CORPORATION                                      TERRERO PLANCHAT MARIA ELENA
+2002-017482   30  MOR-SWEET                                                    CORN PRODUCTS INTERNATIONAL INC.                              HOET LINARES FRANKLIN
+2002-017489   31  PRAIRIE GOLD                                                 CORN PRODUCTS INTERNATIONAL INC.                              HOET LINARES FRANKLIN
+2002-017919   25  CREACIONES Y CONFECCIONES EDITH                              CREACIONES Y CONFECCIONES EDITH                               JAIME GUERRERO
+2002-017923   20  TRUSTSEAL                                                    OVD KINEGRAM AG                                               ALONSO BRICE∂O DELFINA
+2002-017997    5  MYCAMINE                                                     FUJISAWA PHARMACEUTICAL CO., LTD.                             MATA PONTE ILIANY ALEXANDRA
+                                                                               ASTELLAS PHARMA, INC.
+2002-018038    5  VALEO                                                        SEMILLAS FLOR DE ARAGUA C.A. SEFLOARCA                        PEDRO FRANCISCO MARIN DUARRY
+2002-018239   30  SEDANTMAX                                                    LABORATORIOS ARTEMISA, C.A.                                   SARA CAROLINA SANCHEZ PARRA
+2002-018836    3  STYLE ON SKIN                                                SPORLOISIRS S.A.                                              EZAGUI SPRITZER JAIME R.
+2002-018837   25  STYLE ON SKIN                                                SPORLOISIRS S.A.                                              EZAGUI SPRITZER JAIME R.
+2002-019064    9  TRANSIII                                                     TRANSITIONS OPTICAL, INC                                      BENTATA KAREL
+2002-019314   30  SNACK FELIZ                                                  PEPSICO INC                                                   NEBREDA MARIA MILAGROS
+2003-000169    3  NUEVO ACTIVE                                                 DAVID HEINRICH AGAI                                           DAVID HEINRICH AGAI
+2003-000221    3  TOLSOM                                                       ALTICOR INC.                                                  MANUEL POLANCO FERNANDEZ
+2003-000306   30  SANITARIUM                                                   DAVID HEIRINCH AGAI                                           DAVID HEIRICH A.
+2003-000416   25  CREACIONES SNAIDER SPORT                                     FABRICA DE CALZADO SNAIDER SPORT                              JORGE ANDRES VILLEGAS CADAVID
+2003-000513    1  ASF                                                          BOLLAND Y CIA. S.A.                                           MONSERRATT EDGAR JAVIER
+2003-000561    7  ARBURG                                                       ARBURG GMBH & CO.                                             GABRIELA NU∂EZ MARQUEZ
+2003-000563    7  ALLROUNDER                                                   ARBURG GMBH + CO.                                             GABRIELA NU∂EZ MARQUEZ
+2003-000655    3  EASY BREEZY BEAUTIFUL                                        NOXEL CORPORATION                                             DIEGO BUSTILLOS BEINER
+2003-001315   16  PUNTA                                                        ARTIGAS RAMIREZ RAUL ENRIQUE                                  RAUL E. ARTIGAS
+2003-001317   16  CRUZADO                                                      ARTIGAS RAMIREZ RAUL ENRIQUE                                  RAUL E. ARTIGAS
+2003-001402   25  TE-VI STATUS                                                 LOPEZ JARAMILLO, LEON DARIO                                   LOPEZ J. LEON D.
+2003-001794   19  CALCAREOS CARIBE                                             CEMENTOS CARIBE, C.A. (ANTES CONSOLIDADA DE CEMENTOS***       ASUAJE CRESPO CARLOS
+2003-002115    7  MILENA                                                       THE SINGER COMPANY LIMITED                                    BENTATA KAREL
+2003-002355    4  FRAN OIL                                                     GRUPO FRAN-OIL, C.A.                                          TOMASELLO MONDY, FRANCISCO
+2003-002358    5  BIFIDOLAC                                                    LABORATORIOS CHALVER DE COLOMBIA LTD.                         BARRAGAN DE AGUILAR, MARIA THAMARA
+2003-002361    5  ERITINA                                                      LABORATORIOS CHALVER DE COLOMBIA LTDA.                        BARRAGAN DE AGUILAR, MARIA THAMARA
+2003-002363    5  SILDEREC                                                     LABORATORIOS CHALVER DE COLOMBIA LTDA.                        BARRAGAN DE AGUILAR, MARIA THAMARA
+2003-002685    5  NEW-FILL                                                     AVENTIS (IRELAND) LIMITED                                     NEBREDA MARIA MILAGROS
+2003-002800   28  EL RETO DISCOVERY                                            DISCOVERY COMMUNICATIONS, INC.                                CALOSSO MARIO
+2003-002975    4  REGINA                                                       REGINA INDUSTRIA E COMERCIO LTDA.                             ENRIQUE J. CHEANG VERA
+2003-002978   20  REGINA                                                       REGINA INDUSTRIA E COMERCIO LTDA.                             ENRIQUE J. CHEANG VERA
+2003-002980   28  REGINA                                                       REGINA INDUSTRIA E COMERCIO LTDA.                             MONTILLA RIOS MARIANELLA
+2003-002981    4  CHANDELLE                                                    REGINA INDUSTRIA E COMERCIO LTDA.                             MONTILLA RIOS MARIANELLA
+2003-002982   30  CHANDELLE                                                    REGINA INDUSTRIA E COMERCIO LTDA.                             ENRIQUE J. CHEANG VERA
+2003-003324    3  PIL-FOOD                                                     LABORATORIOS SERRA PAMIES, S.A.                               GABRIELA NU∂EZ MARQUEZ
+2003-003433    9  VERICHIP                                                     APPLIED DIGITAL SOLUTIONS INC.                                MATA PONTE ILIANY ALEXANDRA
+2003-003620   30  DULCE PECADO                                                 INGRID BEATRIZ CAMINO DE SENAN                                INGRID BEATRIZ CAMINO DE SENAN
+2003-003649    5  REIRAL                                                       SEMILLAS FLOR DE ARAGUA, C.A. SEFLOARCA                       CARRASCOSA JOSE MANUEL
+2003-004096   16  DISPAFAX                                                     DISTRIBUIDORA DE PAPELES S.A. DISPAPELES                      MONSERRATT EDGAR JAVIER
+2003-004162   16  EXPEDIENTE EL UNIVERSAL                                      DIARIO EL UNIVERSAL C.A                                       DORADO FERNANDEZ, CARLOS RAFAEL
+2003-004174    5  ALBUPORE                                                     BSN MEDICAL GMBH & CO. KG                                     ARCILA SALGADO GUSTAVO
+2003-004225   32  SKOL BEATS                                                   CERVEJARIAS REUNIDAS SKOL CARACU S/A.                         HERNANDEZ RICARDO ANTEQUERA
+2003-004388    5  ARLETTO                                                      BAYER AKTIENGESELLSCHAFT                                      NEBREDA MARIA MILAGROS
+2003-004389    5  MYOVASC                                                      SCHERING AKTIENGESELLSCHAFT                                   ALONSO BRICE∂O DELFINA
+2003-004393    5  TONTOLAN                                                     BAYER AKTIENSELLSCHAFT                                        NEBREDA MARIA MILAGROS
+2003-004394    5  MOGUL                                                        BAYER AKTIENGESELLSCHAFT                                      NEBREDA MARIA MILAGROS
+2003-004460   28  TRIBOMBO EN LINEA                                            ARTIGAS RAMIREZ RAUL ENRIQUE                                  ARIGAS RAMIREZ RAUL E.
+2003-004609    5  1RA. ETAPA                                                   GERBER PRODUCTS COMPANY                                       EZAGUI SPRITZER JAIME R.
+2003-004639   32  COCADAS SUN BEACH                                            SUARES FERREBUS, JORGE ENRIQUE                                ARCENIO DUQUE OCHOA
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2003-004825   28  HARRY POTTER AND THE ORDER OF THE PHOENIX                    WARNER BROS.ENTERTAINMENT INC.                                MATA PONTE ILIANY ALEXANDRA
+2003-005203   21  ROXY                                                         FRANCO FRANCESCHINI PALLARO                                   ENRIQUE J. CHEANG VERA
+2003-005248   25  BOCETTO                                                      CONFECCIONES PRONTO-MODA                                      DORIZ MARILY FLOREZ OSORIO
+2003-005282   30  DALVITO                                                      PRODUCTOS DALVI C.A.                                          ANGELA CREMALES DE OLORIZ
+2003-005722    9  UNIVERSAL MEDIA DISC                                         KABUSHIKI KAISHA SONY COMPUTER ENTERTAINMENT                  ENRIQUE J. CHEANG VERA
+2003-005727   28  PSPORTABLE                                                   KABUSHIKI KAISHA SONY COMPUTER ENTERTAINMENT                  ENRIQUE J. CHEANG VERA
+2003-005729   25  ARTIC                                                        AGOSTINELLI MARIO ANTONIO                                     AGOSTINELLI MARIO ANTONIO
+2003-005762    5  PLUSAIR                                                      TRAMITACIONES MARPA 2005, C.A.                                ALBERTO JOSE MELENA MEDINA
+2003-005766    1  EXXTRAL                                                      EXXON MOBIL CORPORATION                                       NEBREDA MARIA MILAGROS
+2003-005800    9  UBIQUITOUSMEDIADISC                                          KABUSHIKI KAISHA SONY COMPUTER ENTERTAINMENT                  ENRIQUE J. CHEANG VERA
+2003-005801   28  UBIQUITOUSMEDIADISC                                          KABUSHIKI KAISHA SONY COMPUTER ENTERTAINMENT                  ENRIQUE J. CHEANG VERA
+2003-005819    6  DAN LOC                                                      DL INDUSTRIES, LP                                             BENTATA KAREL
+2003-005820   30  DATE UN BREAK, DATE UN KITKAT                                SOCIETE DES PRODUITS NESTLE S.A.                              BENTATA KAREL
+2003-005828   11  DIHR                                                         DIHR INTERNATIONAL S.R.L.                                     CARRASCOSA JOSE MANUEL
+2003-006059   16  CELLSOCKET                                                   CENTRO PROFESIONAL DE CAPACITACION A.B.C.                     BONALDE VERA ELISCAR AZILDE
+2003-006060    9  CELLSOCKET                                                   CENTRO PROFESIONAL DE CAPACITACION A.B.C.                     BONALDE VERA ELISCAR AZILDE
+2003-006731    6  EMERSON CLIMATE TECHNOLOGIES                                 EMERSON ELECTRIC CO.                                          ENRIQUE J. CHEANG VERA
+2003-006732    7  EMERSON CLIMATE TECHNOLOGIES                                 EMERSON ELECTRIC CO.                                          ENRIQUE J. CHEANG VERA
+2003-006733    8  EMERSON CLIMATE TECHNOLOGIES                                 EMERSON ELECTRIC CO.                                          ENRIQUE J. CHEANG VERA
+2003-006734    9  EMERSON CLIMATE TECHNOLOGIES                                 EMERSON ELECTRIC CO.                                          ENRIQUE J. CHEANG VERA
+2003-006735   11  EMERSON CLIMATE TECHNOLOGIES                                 EMERSON ELECTRIC CO.                                          ENRIQUE J. CHEANG VERA
+2003-006782    5  DEFENVITE                                                    HEALTHCO LIMITED                                              GIOVANNI DI VENERE
+2003-006785    5  PRILAM                                                       HEALTHCO LIMITED                                              GIOVANNI DI VENERE
+2003-006908    5  FLUENZ                                                       MEDLMMUNE VACCINES, INC.                                      BLANCO HERNANDEZ LUIS
+2003-006913    5  TRACKER STRAYKER                                             TRACKER AGRO INDUSTRIAL C.A.                                  DOMINGUEZ MENDEZ RAQUEL
+2003-006918   30  GOLFEADOLANDIA                                               NEGOCIOS J. BOLIVAR, C.A.                                     JOSE A. BOLIVAR V.
+2003-006992    3  YANBAL HYDRASILK                                             JAFER LIMITED                                                 QUINTERO PEREZ MARIA DEL ROSARIO
+2003-007002    3  MULTI AIR PROCESS                                            SAINT-GOBAIN ABRASIFS                                         HOET MACHADO PATRICIA A
+2003-007006    1  METAL ONE                                                    METAL ONE CORPORATION                                         HOET MACHADO PATRICIA A
+2003-007007    6  METAL ONE                                                    METAL ONE CORPORATION                                         HOET MACHADO PATRICIA A
+2003-007008   14  METAL ONE                                                    METAL ONE CORPORATION                                         HOET MACHADO PATRICIA A
+2003-007016   10  NATURAL EXPRESSION                                           MEDELA HOLDING AG                                             NEBREDA MARIA MILAGROS
+2003-007032   16  EXPEDIENTE TV                                                DIARIO EL UNIVERSAL, C.A.                                     DORADO FERNANDEZ, CARLOS RAFAEL
+2003-009205    7  BAKER HUGHES                                                 BAKER HUGHES INCORPORATED                                     NEBREDA MARIA MILAGROS
+2003-012743   12  MATRIX                                                       MMC AUTOMOTRIZ S.A.                                           MARCO SALAZAR
+2003-012824   10  RPF                                                          DEPUY, INC                                                    DE SOLA LANDER IRENE
+2003-012828    9  MOVILVACUNAS                                                 GLAXOSMITHKLINE BIOLOGICALS MANUFACTURING S.A.                DIEGO BUSTILLOS BEINER
+2003-013301    3  SAVONNERIE DE BORMES                                         DISTRIFRANCE CA                                               PATRICK ANDRE FRANCOIS WOERTER
+2003-013674   11  PEMICA FUNDADA EN 1987                                       INVERSIONES PEMICA, C.A.                                      JOSE OVIEDO SALGUEIRO ARAUJO
+2003-013808   16  PROCLICK                                                     GENERAL BINDING CORPORATION                                   MANUEL POLANCO FERNANDEZ
+2003-013877   19  VEOLIA                                                       VEOLIA ENVIRONNEMENT                                          MANUEL POLANCO FERNANDEZ
+2003-013880    9  VEOLIA                                                       VEOLIA ENVIRONNEMENT                                          MANUEL POLANCO FERNANDEZ
+2003-013881    6  VEOLIA                                                       VEOLIA ENVIRONNEMENT                                          MANUEL POLANCO FERNANDEZ
+2003-013882    1  VEOLIA                                                       VEOLIA ENVIRONNEMENT                                          MANUEL POLANCO FERNANDEZ
+2003-014088   30  UNAGRO                                                       CORPORACION NEVERI, C.A.                                      SORANGEL DIAZ PINO
+2003-014089    5  FIBERCLEAR                                                   PHARMAVITE LLC.                                               MANUEL POLANCO FERNANDEZ
+2003-014177   29  RAPI CRUNCH                                                  AGROPECUARIA LOS VALLES, C.A.                                 ALIRIO EMIRO MENDEZ
+2003-014728    3  AQUAMARINE                                                   REVLON (SUISSE), S.A.                                         ALONSO BRICE∂O DELFINA
+2003-014756   20  INNERCOLOR SYSTEM                                            MOBILIARIO Y DISEÒO ACRILART C.A.                             ALONSO BUSTILLO RICARDO
+2003-014936    7  GASES UNIDOS DE VENEZUELA GUV                                GASES UNIDOS DE VENEZUELA GUV, S.A.                           MARCO A. COLMENARES A.
+2003-015260   16  SUAVE                                                        PAPELES VENEZOLANOS, C.A.                                     GIMENEZ NURIA JULIA DE
+2003-015698    1  MULTICALCIO                                                  SEMILLAS FLOR DE ARAGUA, C.A.SEFLOARCA                        CARRASCOSA JOSE MANUEL
+2003-015701    1  MULTIZINC                                                    SEMILLAS FLOR DE ARAGUA, C.A. SEFLOARCA                       CARRASCOSA JOSE MANUEL
+2003-015703    1  MULTICRECIMIENTO                                             SEMILLAS FLOR DE ARAGUA, C.A. SEFLOARCA                       CARRASCOSA JOSE MANUEL
+2003-015873   30  MANCHAS                                                      PRODUCTOS S.A.S., C.V.                                        NEBREDA MARIA MILAGROS
+2003-015874   30  MINITINIS MANCHAS                                            PRODUCTOS S.A.S., C.V.                                        NEBREDA MARIA MILAGROS
+2003-015875   30  MINITINIS                                                    PRODUCTOS S.A.S., C.V.                                        NEBREDA MARIA MILAGROS
+2003-015923    9  MC WIRELESS                                                  CORPORACION TEKCELL C.A.                                      CABELLO REQUENA RAMONA
+2003-015956    3  POWERBALL                                                    RECKITT BENCKISER, N.V.                                       MANUEL POLANCO FERNANDEZ
+2003-016047    5  GYNO CLOTRIMAZOL                                             GALENO QUIMICA C.A.                                           HORACIO SINNING PATERMINA
+2003-016048    5  CANEZOL                                                      GALENO QUIMICA C.A.                                           HORACIO SINNING PATERMINA
+2003-016104    5  MERZ SPECIAL                                                 MERZ PHARMA GMBH & CO. KGAA                                   LAURA K. RADA CHACON
+2003-016108    3  MERZ SPECIAL                                                 MERZ PHARMA GMBH & CO. KGAA                                   LAURA K. RADA CHACON
+2003-016289    8  SOMAR                                                        SOMAR, S.A.                                                   MANUEL POLANCO FERNANDEZ
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2003-016441   18  JIMMY CHOO                                                   J CHOO (JERSEY) LIMITED                                       LAURA K. RADA CHACON
+2003-016625    3  SECRET MORNING RUN                                           THE PROCTER & GAMBLE COMPANY                                  DIEGO BUSTILLOS BEINER
+2003-016747   29  XOCAO                                                        BARRY CALLEBAUT AG                                            NEBREDA MARIA MILAGROS
+2003-016748   30  XOCAO                                                        BARRY CALLEBAUT AG                                            NEBREDA MARIA MILAGROS
+2003-016749    1  ENABLE                                                       EXXON MOBIL CORPORATION                                       HOET MACHADO PATRICIA A
+2003-016752   12  PIAROA                                                       AUTOS RUSTICOS, C.A.                                          ADA JOSEFINA RAMIREZ BARRIOS
+2003-016941   16  EL BANCO QUE LE DA PODER A LOS POBRES                        BANCO DEL PUEBLO SOBERANO, C.A.                               JULIO C. BARILLAS ARAUJO
+2003-016967   25  RUSIA LINGERIE SHAPEWEAR                                     FAKIH ABDALLAH MOHAMAD                                        HOUSSEIN FARIH
+2003-017123    3  PLANETA H20                                                  JOSE MANUEL FERNANDEZ RODRIGUEZ                               MEZA MORENO ANA IRIS
+2003-017163   16  NANOPTFE                                                     PRODUCTOS QUIMICOS LMV C.A.                                   FRANCISCO J. ACEVEDO S.
+2003-017264   25  FASHION'S WILLMARY GIRLS                                     ALVIAREZ ALVIAREZ, WILLIAM AGUSTIN                            WILLIAM AGUSTIN ALVIAREZ
+2003-017651   12  GMB WATER PUMPS                                              VAZQUEZ GONZALEZ, JOSE LUIS                                   JOSE L. VAZQUEZ G.
+2003-017652   12  MIDLAND ROSS                                                 VAZQUEZ GONZALEZ, JOSE LUIS                                   JOSE L. VAZQUEZ G.
+2003-017853   33  LA JOYA                                                      VI—AS BISQUERTT LIMITADA                                      HOET MACHADO PATRICIA A
+2003-017927   29  FRIGOMEDIO                                                   FRIGORIFICO DEL MAGDALENA MEDIO S.A.                          MANUEL POLANCO FERNANDEZ
+2003-018046   24  LEMAVI                                                       MANUEL TEIJIDO GESTAL                                         YUBIRIS CORONADO GARCIA
+2003-018128    3  CG CONTINUOS COLOR 3 EN 1                                    NOXELL CORPORATION                                            DIEGO BUSTILLOS BEINER
+2003-018314    3  PAULA C                                                      COMERCIAL SAN REMO, S.A.                                      GUIDO ALFONSO PUCHE FARIA
+2003-018757   16  BRATZ                                                        MGA ENTERTAINMENT                                             NEBREDA MARIA MILAGROS
+2003-018758   18  BRATZ                                                        MGA ENTERTAINMENT                                             NEBREDA MARIA MILAGROS
+2003-018759   25  BRATZ                                                        MGA ENTERTAINMENT                                             NEBREDA MARIA MILAGROS
+2003-018763   18  BRATZ                                                        MGA ENTERTAINMENT                                             NEBREDA MARIA MILAGROS
+2003-019077   16  FARMAGAZINE                                                  CARDOZO SERRANO CARLOS                                        ESPINOZA LUNA YANETH
+2003-019088    6  HAMER                                                        LITANI IMPORT & EXPORT, C.A.                                  CARRASCOSA JOSE MANUEL
+2003-019131   25  SPLIT                                                        GIUSEPPE ROTUNNO NOVELLINO                                    DOMINGUEZ MENDEZ RAQUEL
+                                                                               MANUEL TEODORO OCA—A PEREZ
+2003-019168   32  ZED                                                          EMBOTELLADORA AGUA CLARA, C.A.                                JOHN MALLCOTT BLANCO
+2004-000185   32  CONFRUTI                                                     ASOCIACION COOPERATIVA AGROINDUSTRIAL CILARR                  MONAGAS DOMINGUEZ NEREIDA ANTONIA
+2004-000187   20  DINI                                                         INVERSIONES SULMETAL, 2020, C.A.                              DAVID JACK ABADI SAFRA
+2004-000193   25  DISTAR. CO                                                   GRIMALDO ALIDES                                               GRIMALDO ALIDES
+2004-000196   16  EN BOGA                                                      INVERSIONES CELEBREAQUI, C.A.                                 ALEJANDRO RODRIGUEZ RODRIGUEZ
+2004-000197   33  LICOR DE BRANDY PURA CEPA DESTILERIA CARUPANO                DESTILERIA CARUPANO, C.A.                                     ELIAS LUIS FRANCISCO
+2004-000199   10  AKREOS                                                       BAUSCH & LOMB INCORPORATED                                    DIEGO BUSTILLOS BEINER
+2004-000249   25  YUKIKO CHILDREN                                              CUARTAS ACEVEDO DE DEPABLOS MARIA DOLY                        MARIA DOLY CUARTAS
+2004-000256    5  CUBICIN                                                      CUBIST PHARMACEUTICALS INC                                    REYES URBINA LUISA NATACHA
+2004-000466   25  DOUBT? CHILDREN'S                                            AGOB ABOUJIAN DANIALIAN                                       K. VERUSKA VENEGAS G.
+2004-000674   16  FOTOMOTOR                                                    ANUNTIS, S.L.                                                 MONSERRATT EDGAR JAVIER
+2004-000676   16  FOTOCARRO                                                    ANUNTIS, S.L.                                                 MONSERRATT EDGAR JAVIER
+2004-001051    5  KIDIRIX                                                      GLAXOSMITHKLINE BIOLOGICALS, S.A.                             DIEGO BUSTILLOS BEINER
+2004-001090   28  KENO 24                                                      CIRSA INTERACTIVE VENEZUELA, C.A.                             MARVIN DELGADO Y JOSE RIVAS
+2004-001608   32  ACQUA TERRA                                                  EMBOTELLADORA NACIONAL ACQUA PET C.A.                         JOSE RAFAEL GROSSO ESPOSITO
+2004-001934   25  NERA                                                         VECOINTEX, C.A.                                               SANTE FRANCO TRIBUIANI D'AMBROSIO
+2004-002437   33  RTD                                                          COMPLEJO INDUSTRIAL LICORERO DEL CENTRO, C.A.                 HERNANDEZ DORTA SANDRA I.
+2004-002453    1  ROYAL-T                                                      CORN PRODUCTS INTERNACIONAL,INC.                              NEBREDA MARIA MILAGROS
+2004-002498   33  CHIVAS REGAL GOLD SIGNATURE                                  CHIVAS BROTHERS (AMERICAS) LIMITED                            ARCILA SALGADO GUSTAVO
+2004-002853    5  AXXERO                                                       SCHWARZ PHARMA AG                                             MANUEL POLANCO FERNANDEZ
+2004-002871   10  UNILOCK                                                      STRATEC MEDICAL AG                                            MANUEL POLANCO FERNANDEZ
+                                                                               SYNTHES GMBH
+2004-002937   25  LEDUIS                                                       CONFECCIONES DAISIBEL, C.A.                                   JOSE LUIS CORREA GIL
+2004-003111   25  JOSEE JEANS                                                  RODRIGUEZ CLARO, JOSE LUIS                                    WILDHER SALOMON ORTIZ
+2004-003159   16  ATEMPO                                                       ATEMPO SOCIEDAD CIVIL SIN FINES DE LUCRO                      SALGUEIRO A. JOSE OVIDIO
+2004-003410   25  INDIRA LINGERIE                                              ZAMORA LUISA INDIRA                                           LUISA ZAMORA
+2004-003737   25  HUNBOLDT                                                     CARRILLO CHINCHILLA ELIADES                                   ELIADES CARRILLO
+2004-004100    6  KITTEL                                                       KOCH-GLITSCH, LP                                              TERRERO PLANCHAT MARIA ELENA
+2004-004294   18  STO                                                          STREET ONE GMBH                                               LAURA K. RADA CHACON
+2004-004646   12  BFGOODRICH                                                   MICHELIN RECHERCHE ET TECHNIQUE S.A.                          ALONSO BRICE∂O DELFINA
+2004-004704   18  BERKANA                                                      SIBLESZ GRETEL                                                GRETEL SIBLESZ
+2004-005401    3  A1 YAMBAL                                                    JAFER LIMITED                                                 DE SOLA LANDER IRENE
+2004-005540    3  BESS Q                                                       UNITED CHEMICAL PACKAGINC, C.A.                               DIAZ HILARIO ENRIQUE
+2004-005768   25  LEVEE STRONE                                                 LEONOR CRUZ GALVIZ                                            LEONOR CRUZ GALVIZ
+2004-005859   31  WARREN                                                       INSTITUT DE SELECTION ANIMALE- ISA                            NEBREDA MARIA MILAGROS
+2004-005945   16  REPERTORIO FORENSE                                           REPERTORIO FORENSE, S.A.                                      JOSE. DE MIGUEL MORA
+2004-006009   16                                                               INVERSIONES SELVA, C.A.                                       LEOPOLDO MARQUEZ LEFELD
+2004-006010   21                                                               INVERSIONES SELVA, C.A.                                       LEOPOLDO MARQUEZ LEFELD
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2004-006034    9  INFACT                                                       GEOSERVICES                                                   BENTATA KAREL
+2004-006180    1  TRACKER FIPRONIL                                             TRACKER AGRO INDUSTRIAL C.A.                                  DOMINGUEZ MENDEZ RAQUEL
+2004-006257    1  EL ECOLOGICO                                                 LOMBRIVEN, C.A.                                               LUIS FELIPE HERNANDEZ
+2004-006653   16  PERLA                                                        PAPELES VENEZOLANOS, C.A.                                     GIMENEZ NURIA JULIA DE
+2004-007204   25  MOVE                                                         GUDI—O SIGNORIO, KEINY CAROLINA                               KEINY GUDI—O
+2004-007262    5  TALISMAN                                                     FMC CORPORATION                                               ROJAS GAONA RICARDO JAVIER
+2004-007739    5  PACO CRIOLLO                                                 SYNGENTA LIMITED                                              EZAGUI SPRITZER JAIME R.
+2004-007877    5  OMEGANORM                                                    MEDIFARM INVERSIONES Y REPRESENTACIONES, C.A.                 OSCAR J. HUERTAS BIGOTT
+2004-008168   16  ENRIQUE EL FOTOGRAFO DE LOS NI—OS DE CARACAS                 ENRIQUE RODRIGUEZ                                             ENRIQUE RODRIGUEZ
+2004-008277    5  FOLICAPS                                                     INVERSIONES TRIPLE ACHE, C.A.                                 VALENTINER JEROVI
+2004-008661    5  LOPINOX                                                      LOSSIMPORT, C.A.                                              HUGO ISIDRO LOSSADA S.
+2004-008662   11  OLIMPIA                                                      FRAGAR, C.A.                                                  TEODORO DORANTES
+2004-008924    1  CAPISTIMULINE III                                            JAFER LIMITED                                                 DE SOLA LANDER IRENE
+2004-008939    3  MARLON                                                       CORPORACION COSMIL, C.A.                                      ARCILA SALGADO GUSTAVO
+2004-009475   18  LA PRAIRIE                                                   LABORATOIRES LA PRAIRIE, S.A.                                 ARCILA SALGADO GUSTAVO
+2004-009708   34  D DUNHILL                                                    DUNHILL TOBACCO OF LONDON LIMITED                             ANTEQUERA H. RICARDO E.
+2004-009887    4  FULL PITS                                                    FULL PITS CORPORATION, C.A.                                   ANTONIO GONZALEZ GUTIERREZ
+2004-010523   14  CUERVO Y SOBRINOS                                            CUERVO Y SOBRINO                                              MANUEL POLANCO FERNANDEZ
+2004-010528    1  LAFTI                                                        DSM IP ASSETS B.V.                                            ALONSO BRICE∂O DELFINA
+2004-010581   25  TROTAN'S                                                     CALZADOS OKLAHOMA C.A.                                        CABELLO REQUENA RAMONA
+2004-010709    9  HARRY POTTER AND THE HALF BLOOD PRINCE                       WARNER BROS ENTERTAINMENT INC                                 MATA PONTE ILIANY ALEXANDRA
+2004-010784    9  E-SCUDO                                                      ORTA MARTINEZ RAYMOND                                         RAYMOND ORTA MARTINEZ
+2004-010828   16  LA FIJA                                                      C.A. EDITORA EL NACIONAL                                      CARLOS R. VALEDON HURTADO
+2004-011020    3  MOMENTS ONE LOVE                                             AVON PRODUCTS INC.                                            GIMENEZ NURIA JULIA DE
+2004-011413    5  NEWFEN                                                       TRAMITACIONES MARPA 2005, C.A.                                ALBERTO MELENA MEDINA
+2004-011649   30  CHOCOLAC                                                     SUPLEMENTOS LACTEOS DEL CARIBE, C.A.                          GERARDO JOSE LOPEZ
+2004-011763   10  PROSTASOUND                                                  ONCURA INC.                                                   MANUEL POLANCO FERNANDEZ
+2004-011783    3  THINGS ARE LOOKING UP                                        BEAUTY BANK INC.                                              ALONSO BRICE∂O DELFINA
+2004-011786    5  COXAN OFTENO                                                 LABORATORIOS SOPHIA, S.A. DE C                                NEBREDA MARIA MILAGROS
+2004-011931   25  OCEAN DRIVE                                                  DANIEL FERNANDEZ GONZALEZ                                     MARQUEZ GARCIA RICARDO
+2004-012040   16  ARADIX                                                       BRANDEX EUROPE, C.V.                                          RAMOS R., PEDRO V.
+2004-012457    3  UNSTOPPABLE                                                  L¥OREAL                                                       DIEGO BUSTILLOS BEINER
+2004-012607    5  CORONOVO                                                     BRANDEX EUROPE C.V.                                           PEDRO V. RAMOS
+2004-012608    5  BIONEURAL                                                    BRANDEX EUROPE C.V.                                           PEDRO V. RAMOS
+2004-012690    1  POTOMAG                                                      HYDRO AGRI VENEZUELA, C.A.                                    NEBREDA MARIA MILAGROS
+2004-012711    2  MADEFEX                                                      MULTILAC, C.A.                                                DANIEL E. LORZA JIMENEZ
+2004-012828   32  COAL LLA                                                     DIAGEO VENEZUELA, C.A.                                        MARQUEZ GARCIA RICARDO
+2004-013323    5  PRODA                                                        PROTECCION DENTAL AVANZADA PRODA C.A.                         BADELL MADRID RAFAEL
+2004-013620   16  S FUNDASENO                                                  FUNDACION FUNDASENO, MI GRUPO DE APOYO                        VALLE SEIJAS MARIA ANGELICA
+2004-013623   25  S FUNDASENO                                                  FUNDACION FUNDASENO, MI GRUPO DE APOYO                        VALLE SEIJAS MARIA ANGELICA
+2004-014209   10  DURA STAR                                                    CORDIS CORPORATION                                            QUINTERO PEREZ MARIA DEL ROSARIO
+2004-014254    5  VITAGESTAL                                                   LABORATORIOS KIMICEG C.A.                                     ALEJANDRO VASQUEZ
+2004-014299    4  SUPEROIL 2021                                                CABRERA MONASTERIOS DIOGENES                                  DIOGENES CABRERA
+2004-014351   14  RANIA                                                        CZELMA PATRICIA GUERRA                                        CARRASCOSA JOSE MANUEL
+2004-014415    3  SEDAL FORCE PROTEINS                                         UNILEVER  N.V.                                                EZAGUI SPRITZER JAIME R.
+2004-014463    3  RAVIVETT                                                     DHAS & DHAS, C.A.                                             CARRASCOSA JOSE MANUEL
+2004-014472    5  OVER                                                         CHEMICALS-PRO, C.A.                                           CARRASCOSA JOSE MANUEL
+2004-014626   16  BUFALINDA                                                    HATO EL OSO C.A.                                              ARCILA SALGADO GUSTAVO
+2004-014979   32  FRUTI OKEY                                                   SOCIEDAD CIVIL PRODUCTOS DE LA CEIBA TRUJILLANA (PROCEIBA)    MONAGAS DOMINGUEZ NEREIDA ANTONIA
+2004-014981   16  BRANGER                                                      INDUSTRIAS ALIMENTICIAS BRANGER, C.A.                         MONAGAS DOMINGUEZ NEREIDA ANTONIA
+2004-014982   29  BRANGER                                                      INDUSTRIAS ALIMENTICIAS BRANGER, C.A.                         MONAGAS DOMINGUEZ NEREIDA ANTONIA
+2004-014983   30  BRANGER                                                      INDUSTRIAS ALIMENTICIAS BRANGER, C.A.                         MONAGAS DOMINGUEZ NEREIDA ANTONIA
+2004-014984   32  BRANGER                                                      INDUSTRIAS ALIMENTICIAS BRANGER, C.A.                         MONAGAS DOMINGUEZ NEREIDA ANTONIA
+2004-014990    5  PARMITENS                                                    ZODIAC INTERNATIONAL                                          MOLINA M JOSE LUIS
+2004-015032    9  CAIXA INTERNACIONAL                                          CAIXA GERAL DE DEPOSITOS, S.A.                                BENTATA KAREL
+2004-015033   16  CAIXA INTERNACIONAL                                          CAIXA GERAL DE DEPOSITOS, S.A.                                BENTATA KAREL
+2004-015277   25  AM:PM                                                        FABIAN OCHOA FRANCO                                           ENRIQUE J. CHEANG VERA
+2004-015456    3  CLISE                                                        GALENO QUIMICA C.A.                                           MAITE URRECHEAGA ESCALANTE
+2004-015534    9  ANARCHY                                                      QUANTUM OPTICS, INC                                           BENTATA KAREL
+2004-015567    9  IWRITE                                                       APPLE COMPUTER, INC.                                          DE SOLA LANDER IRENE
+2004-015791   29  MINILUCH DE LA COMADRE                                       MOLINOS NACIONALES C.A. (MONACA)                              GIMENEZ NURIA JULIA DE
+2004-015793   30  MINILUNCH DE LA COMADRE                                      MOLINOS NACIONALES C.A. (MONACA)                              GIMENEZ NURIA JULIA DE
+2004-015890   30  VILLAGE                                                      PANIFICADORA CEPAM LTDA.                                      ALONSO BRICE∂O DELFINA
+2004-015965    1  SANOFI-AVENTIS                                               SANOFI-AVENTIS                                                EZAGUI SPRITZER JAIME R.
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2004-015966    3  SANOFI-AVENTIS                                               SANOFI-AVENTIS                                                EZAGUI SPRITZER JAIME R.
+2004-015967    5  SANOFI-AVENTIS                                               SANOFI-AVENTIS                                                EZAGUI SPRITZER JAIME R.
+2004-015968   10  SANOFI-AVENTIS                                               SANOFI-AVENTIS                                                EZAGUI SPRITZER JAIME R.
+2004-016212    9  HI HI PUFFY AMIYUMI                                          THE CARTOON NETWORK LP, LLLP                                  BENTATA KAREL
+2004-016216   24  HI HI PUFFY AMIYUMI                                          THE CARTOON NETWORK LP, LLLP                                  BENTATA KAREL
+2004-016224   16  MEGAS XLR                                                    THE CARTOON NETWORK LP, LLLP                                  BENTATA KAREL
+2004-016241    2  ARROWSTAR                                                    FLINT INK CORPORATION                                         ENRIQUE J. CHEANG VERA
+2004-016248    3  TERGO                                                        LABORATORIOS COFARMA S.A.                                     MARIANELLA MONTILLA
+2004-016329   24  MUDI                                                         SANMUKA INTERNACIONAL S.A.                                    ENRIQUE J. CHEANG VERA
+2004-016333    3  FAMIX                                                        PRODUCTOS CORQUIVEN C.A.                                      RICARDO DO NASCIMIENTO RODRIGUEZ
+2004-016336   10  TIZIANO                                                      NEW STETIC, S.A.                                              ADRIANA M.GARCIA BRUZUAL
+2004-016399   11  ANIONE                                                       DISTRIBUIDORA KOYCA-KADIMA, C.A.                              GONZALEZ ZAMBRANO ARNALDO A.
+2004-016441   25  BUENHOGAR CURITYSOFT                                         MANUFACTURAS BUENHOGAR C.A.                                   BOHORQUEZ, ISKRA
+2004-019000   25  ORBITA                                                       CORPORACION GL 19, C.A.                                       GUSTAVO BECERRA
+2004-019174   16  LEITZ                                                        ESSELTE 1PR AB                                                MANUEL POLANCO FERNANDEZ
+2004-019228   31  AYUDANDO A EXTENDER LOS MEJORES A—OS EN UN 15%               ROBERTO CASIANO MARIANO                                       HOET MACHADO PATRICIA A
+2004-019603   14  L LILIA LOPEZ                                                LILIA LOPEZ                                                   DANA RUTH BENTATA
+2004-019647   34  EL SARARE                                                    JURADO HERNANDEZ LUIS AURELIO                                 JURADO HERNANDEZ LUIS
+2004-019655   11  INTERCLIMA                                                   R.M.B. IMPORT EXPORT C.A.                                     MACROBIO ALESSANDRO R.
+2004-019682   28  WWW.TUTICKET.COM.VE                                          INVERSIONES TUTICKET.COM.VE, C.A.                             RAFAEL S. URBINA
+2004-019683   25  TUTICKET.COM.VE                                              INVERSIONES TUTICKET.COM.VE, C.A.                             RAFAEL SIMON URBINA
+2004-019863   16  SUPER DIENTE                                                 LUIS GUEVARA, LG-TECHNOLOGY C.A.                              MEZA MORENO ANA IRIS
+2004-019965   32  UDL                                                          DIAGEO AUSTRALIA LIMITED.                                     MARQUEZ GARCIA RICARDO
+2004-019966   33  UDL                                                          DIAGEO AUSTRALIA LIMITED.                                     MARQUEZ GARCIA RICARDO
+2004-020180    5  PROLENIV                                                     ASTRAZENECA AB                                                HOET MACHADO PATRICIA A
+2004-020320   19  MODERNFOLD                                                   MODERNFOL, INC                                                MATA PONTE ILIANY ALEXANDRA
+2004-020338   32  RAPSODA                                                      VELASQUEZ HENAO GERMAN  ALBERTO                               GERMAN ALBERTO VELASQUEZ HENAO
+2004-020378    4  PEBO IMPORT                                                  PEIRET SANCHEZ ROBERTO ADONIS                                 BENITEZ ESTRA∂O, TULIA
+2004-020379   16  PEBO IMPORT                                                  PEIRET SANCHEZ ROBERTO ADONIS                                 BENITEZ ESTRA∂O, TULIA
+2004-020395   27  IMECA                                                        MICHELE COCCHIOLA PUGLIESE                                    BENITEZ ESTRA∂O, TULIA
+2004-020614   30  NUNATURALS                                                   DISTRIBUIDORA PALO VERDE II, C.A.                             JESUS JIMENEZ GALVIS
+2004-020801   34  CAFE CREME                                                   HENRI WINTERMANS CIGARS B.V.                                  HERNANDEZ RICARDO ANTEQUERA
+2004-021164   16  GUIA VENEZOLANA DE AGROPLASTICOS Y NUEVAS TECNOLOGIAS AGRICO CASTELLON PETROVICH, HELLO FAUSTINO                           HELLO CASTELLON PETROVICH
+2004-021326    5                                                               T.M. HOLDIG, C.A.                                             SARA CAROLINA SANCHEZ PARRA
+2004-021353   12  MOUNTAIN                                                     CHEN, YUH                                                     YUH LONG CHEN WANG
+2004-021415   31  CENTRALYS                                                    CENTRALYS S.A.                                                SABO DE FISCHER NOHEMI
+2004-021485    5  XUNIRO                                                       AVENTIS PHARMA S.A.                                           DANA RUTH BENTATA
+2004-021587    7  MULTISERVICIOS MIKORTE 98 C.A.                               MULTISERVICIOS MIKORTE 98, C.A.                               FRANCY DE PEREZ
+2004-021664    5  ATRAZIN                                                      INDUSTRIA QUIMICA DE PORTUGUESA S.A. (INQUIPORT S.A.)         ANDRES PERILLO.
+2004-021697   12  LOCKHEED MARTIN                                              LOCKHEED MARTIN CORPORATION                                   GUZMAN SUAREZ BARBARITA M.
+2004-021823    5  ACETAMINOFEN LA SANTE                                        GALENO QUIMICA, C.A.                                          MAITE URRECHEAGA ESCALANTE
+2004-022070   17  QUICKSTX                                                     HENKEL CORPORATION                                            TERRERO PLANCHAT MARIA ELENA
+2004-022071    9  PESPATROL                                                    COMPUTER ASSOCIATES THINK, INC.                               TERRERO PLANCHAT MARIA ELENA
+2004-022122    5  RITOBA                                                       SOLVAY PHARMACEUTICALS B.V.                                   NEBREDA MARIA MILAGROS
+2004-022150    9  CARDUMEN MILLONARIO                                          INVERSIONES FLORESTAN S.A.                                    MILAGROS SALAZAR
+2004-022175   25  THEVIST & SHEVIST                                            CONTRERAS HERNANDEZ, DIOS ELI                                 DIOS ELI CONTRERAS
+2004-022435    5  PINE-SOL BICARBONATO                                         THE CLOROX COMPANY                                            RAFAEL DE LEMOS
+2004-022453    9                                                               FIGUEROA BERNAL, ROBERTO JOSE                                 ROBERTO FIGUEROA
+2004-022454    1  EL TIGRITO                                                   MOLINA QUINTERO, AVELINO ANTONIO                              ESPINOZA M. LIGIA M
+2004-022455    2  EL TIGRITO                                                   MOLINA QUINTERO, AVELINO ANTONIO                              ESPINOZA M. LIGIA M
+2004-022456    3  EL TIGRITO                                                   MOLINA QUINTERO, AVELINO ANTONIO                              ESPINOZA M. LIGIA M
+2004-022457    4  EL TIGRITO                                                   MOLINA QUINTERO, AVELINO ANTONIO                              ESPINOZA M. LIGIA M
+2004-022460   33  EL TIGRITO                                                   MOLINA QUINTERO, AVELINO ANTONIO                              ESPINOZA M. LIGIA M
+2004-022536    5  CALOX                                                        MARKATRADE, INC.                                              MARIELA AGUILERA
+2004-022538    5  CALOX                                                        MARKATRADE, INC.                                              MARKATRADE. INC.
+2004-022552   12  FIAT                                                         FIAT S.P.A.                                                   ALONSO BRICE∂O DELFINA
+2005-000262   30  P.A.N.                                                       DEUTSCHE TRANSNATIONAL TRUSTEE CORPORATION INC.               MOREAU AYMARD JACQUELINE J.
+2005-000263   30  P.A.N.                                                       DEUSTSCHE TRANSNATIONAL TRUSTEE CORPORATION INC.              MOREAU AYMARD JACQUELINE J.
+2005-000264   29  P.A.N.                                                       DEUTSCHE TRANSNATIONAL TRUSTEE CORPORATION INC.               MOREAU AYMARD JACQUELINE J.
+2005-000265   30  P.A.N.                                                       DEUTSCHE TRANSNATIONAL TRUSTEE CORPORATION INC.               MOREAU AYMARD JACQUELINE J.
+2005-001209    3  AGUA VERDE                                                   CONFINLUXE                                                    MANUEL POLANCO FERNANDEZ
+2005-001280   25  TABATHA                                                      GIANNI SCHILLACI                                              GIANNI SCHILLACI
+2005-001769   10  MEDIPOR                                                      JUAN GABRIEL BURGOS GALVIS                                    ARCILA SALGADO GUSTAVO
+2005-002763    9  DORA LA EXPLORADORA                                          VIACOM INTERNATIONAL INC.                                     HOET LINARES FRANKLIN
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2005-002764   16  DORA LA EXPLORADORA                                          VIACOM INTERNATIONAL INC.                                     HOET LINARES FRANKLIN
+2005-002766   28  DORA LA EXPLORADORA                                          VIACOM INTERNATIONAL INC.                                     HOET LINARES FRANKLIN
+2005-003350   11  VK GROUP                                                     PROMOTORA VK 2008, C.A.                                       MONTIEL MARIANA
+2005-004202   29  PALMITA DE FLOR DE ARAGUA                                    PRODUCTOS LACTEOS FLOR DE ARAGUA C.A.                         PAOLO GRASSANO
+2005-004378   32  FIRST                                                        EMBOTELLADORA DE AGUAS GASEOSAS HUANCAYO S.R.L.               ENRIQUE J. CHEANG VERA
+2005-005444   25  COOPERATIVA AGREDO                                           COOPERATIVA AGREDO, R.L.                                      ISABEL AGREDO
+2005-006233   23  NANO-FIL                                                     PLIANA HOLDINGS, S.A. DE C.V.                                 MATA PONTE ILIANY ALEXANDRA
+2005-006235    9  HABLA CON TODOS 15600                                        BANESCO BANCO UNIVERSAL, C.A                                  OSCAR J. HUERTAS BIGOTT
+2005-006345   16  L & S                                                        REPRESENTACIONES SIMOZA C.A.                                  ENRIQUE J. CHEANG VERA
+2005-006357   29  PLUMROSE EXPRESS                                             THE EAST ASIATIC CO. LTD. A/S (A/S DET OSTASIATISKE KOMPA**   DANA RUTH BENTATA
+2005-006358   29  PLUMROSE EXPRES                                              THE EAST ASIATIC CO. LTD. A/S (A/S DET OSTASIATISKE KOMPA**   DANA RUTH BENTATA
+2005-006365   20  EZGO STUDIO                                                  EZGO STUDIO, S.A.                                             HERNANDEZ RICARDO ANTEQUERA
+2005-006366   25  DESIGUAL                                                     ASESORES BIVENTAL'S, C.A                                      PATI—O R.,RAMON
+2005-007864   12  SMOOTHER                                                     ISUZU JIDOSHA KABUSHIKI KAISHA                                ALONSO BRICE∂O DELFINA
+2005-007877   31  CB CRISTIANI BURKARD                                         PRODUCTORA LATINOAMERICANA DE SEMILLAS, S.A.                  AYALA CHERUBINI BEATRIZ CAROLINA
+2005-007878    1  CB                                                           PRODUCTORA LATINOAMERICANA DE SEMILLAS, S.A.                  AYALA CHERUBINI BEATRIZ CAROLINA
+2005-007879    1  CRISTIANI BURKARD                                            PRODUCTORA LATINOAMERICANA DE SEMILLAS, S.A.                  AYALA CHERUBINI BEATRIZ CAROLINA
+2005-007881   28  SAFARI                                                       PIERO MATARREDONA MARIA ESMERALDA                             PIERO MATARREDONA MARIA ESMERALDA
+2005-007902    6                                                               TECHINTRADE CORP.                                             HERNANDEZ RICARDO ANTEQUERA
+2005-007903   16                                                               TECHINTRADE CORP.                                             HERNANDEZ RICARDO ANTEQUERA
+2005-007923   12  BUSQUEDA 4X4                                                 ARTURO HERRERO BETTAREL                                       ARTURO HERRERO BETTAREL
+2005-007930   16  MARACAY ROSADO                                               MANUFACTURAS DE PAPEL C.A. (MANPA) S.A.C.A.                   DE SOLA LANDER IRENE
+2005-007932   16  MARACAY ROSADO                                               MANUFACTURAS DE PAPEL C.A. (MANPA) S.A.C.A.                   DE SOLA LANDER IRENE
+2005-007934   16  PRIMAVERA PLUS                                               MANUFACTURAS DE PAPEL C.A. (MANPA) S.A.C.A.                   DE SOLA LANDER IRENE
+2005-007936   16  MARACAY PLUS                                                 MANUFACTURAS DE PAPEL C.A. (MANPA) S.A.C.A.                   DE SOLA LANDER IRENE
+2005-007938   16  MARACAY PLUS                                                 MANUFACTURAS DE PAPEL C.A. (MANPA) S.A.C.A.                   DE SOLA LANDER IRENE
+2005-007940   16  PRODUCTOS MANPA DIVISION HIGIENICOS                          MANUFACTURAS DE PAPEL C.A. (MANPA) S.A.C.A.                   DE SOLA LANDER IRENE
+2005-007945   25  GLADYS FASHION                                               YONATHAN DE JESUS MOLINA                                      YONATHAN DE JESUS MOLINA
+2005-007979   16  SERVICIOS ASCAR                                              SERVICIOS ASCAR, C.A.                                         GARCIA DELGADO ROBERT C.
+2005-007980   17  SOUDAL                                                       SOUDAL                                                        DANA RUTH BENTATA
+2005-007981    1  SOUDAL                                                       SOUDAL                                                        DANA RUTH BENTATA
+2005-007982    3  CLARISSE BY MON REVE                                         MERCANTIL INTERNACIONAL C.A.                                  ALBERTO JOSE MELENA MEDINA
+2005-007987   30  SUN SNACKS                                                   PEPSCO, INC.                                                  HOET MACHADO PATRICIA A
+2005-008010    3  ARIEL                                                        THE PROCTER & GAMBLE COMPANY                                  DIEGO BUSTILLOS BEINER
+2005-008032    9  APRENDIZ DE MAGO                                             RA LOEB SOLORZANO VI—A                                        RA LOEB SOLORZANO VI—A
+2005-008035   16  3ER STRIKE                                                   GUILLEN CARLOS                                                GUILLEN CARLOS
+2005-008043   25  CREACIONES REMIS                                             REY TABOADA RAMO                                              REY TABOADA RAMON
+2005-008046   30  CAFE DE COLOMBIA                                             FEDERACION NACIONAL DE CAFETEROS DE COLOMBIA                  ENRIQUE J. CHEANG VERA
+2005-008054    3  SPEED STICK VOLCANO DE MENNEN                                COLGATE  PALMOLIVE COMPANY                                    MIRALLES CAMACHO LEONARDO
+2005-008059   16  SET SPORTS ENTERTAINMENT                                     ESTRATEGIA Y LOGISTICA DE COMUNICACION DIALOGISTICA, C.A.     JOSE OVIEDO SALGUEIRO ARAUJO
+2005-008085    2  ARAMCOLOR                                                    INVERSIONES ARAMBURU, C.A.                                    ARAMBURU CASTILLO ROBERTO OSCAR
+2005-008090   30  MA QUE DICHE                                                 ROCCO VICENTE CLEMENTE HURTADO                                CARRASCOSA JOSE MANUEL
+2005-008091   16  MA QUE DICHE                                                 ROCCO VICENTE CLEMENTE HURTADO                                CARRASCOSA JOSE MANUEL
+2005-008095    3  NIVEA VISAGE ACTIVE AGE                                      BEIERSDORF AG                                                 DANA RUTH BENTATA
+2005-008096    7  IGX                                                          HONDA MOTOR CO, LTD                                           DANA RUTH BENTATA
+2005-008097    7  STR                                                          HONDA MOTOR CO., LTD                                          DANA RUTH BENTATA
+2005-008099    5  PARCHE LEON                                                  BEIERSDORF AG.                                                DANA RUTH BENTATA
+2005-008103   34  PALL MALL                                                    BRITISH AMERICAN TOBACCO (BRANDS) INC.                        HERNANDEZ RICARDO ANTEQUERA
+2005-008104   34  PALL MALL                                                    BRITISH AMERICAN TOBACCO (BRANDS) INC.                        HERNANDEZ RICARDO ANTEQUERA
+2005-008105   34  PALL MALL                                                    BRITISH AMERICAN TOBACCO (BRANDS) INC.                        HERNANDEZ RICARDO ANTEQUERA
+2005-008107   16  AIRCA AGUILAR IRAN                                           AGUILAR IRAN, C.A. AIRCA                                      ALEJANDRO LIBORIUS
+2005-008118   25  KALLA COUTURE                                                CYMBIDIUM, C.A.                                               JELAMBI GARCIA GITSEL
+2005-008122   25  EMILIA                                                       LUIS DARIO SOTELO                                             LUIS DARIO SOTELO
+2005-008123   29  LA VEGUERA                                                   JUAN FERNANDO CA—IZALEZ                                       JUAN FERNANDO CA—IZALEZ
+2005-008124   29  OVIFRIT¥S                                                    PROCESADORA AGRO-VENEZOLANA DE SNACK¥S, PROAVENCA, C.A.       OVIDIO J. RAMIREZ L.
+2005-008132    5  DMG                                                          ERNST MUHLBAUER & CO. KG.                                     ARCILA SALGADO GUSTAVO
+2005-008133    3  KOBRIZA                                                      LABORATORIOS BUSSIE S.A.                                      ARCILA SALGADO GUSTAVO
+2005-008134    5  KOBRIZA                                                      LABORATORIOS BUSSIE S.A.                                      ARCILA SALGADO GUSTAVO
+2005-008147    3  FAHRENHEIT DIOR                                              PARFUMS CHRISTIAN DIOR, S.A.                                  DIEGO BUSTILLOS BEINER
+2005-008148   32  YUKY-PAK MIX                                                 GERBER VENEZUELAN HOLDING COMPANY, INC.                       DIEGO BUSTILLOS BEINER
+                                                                               PEPSI-COLA VENEZUELA, C.A.
+2005-008161    3  DTA                                                          DTA FRANCHISING LTDA.                                         ENRIQUE J. CHEANG VERA
+2005-008162    9  DTA                                                          DTA FRANCHISING LTDA.                                         ENRIQUE J. CHEANG VERA
+2005-008163   14  DTA                                                          DTA FRANCHISING LTDA.                                         ENRIQUE J. CHEANG VERA
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2005-008164   18  DTA                                                          DTA FRANCHISING LTDA.                                         ENRIQUE J. CHEANG VERA
+2005-008165   24  DTA                                                          DTA FRANCHISING LTDA.                                         ENRIQUE J. CHEANG VERA
+2005-008166   25  DTA                                                          DTA FRANCHISING LTDA.                                         ENRIQUE J. CHEANG VERA
+2005-008224    5  PARCHE TERMICO LEON                                          BEIERSDORF AG                                                 DANA RUTH BENTATA
+2005-008234   25  CLASSIC STREET VISION                                        CORPORACION JHONASAN C.A.                                     CARRASCOSA JOSE MANUEL
+2005-008291    7  LAVRALE                                                      AGRITECH LAVRALE LTDA.                                        MANUEL POLANCO FERNANDEZ
+2005-008303   25  MINT TEAM                                                    AQUIBA BENZAQUEN LEVY                                         ARCILA SALGADO GUSTAVO
+2005-008326   25  KENIX                                                        RAFEH SLAIMAN SANA JAME                                       RAFEH SLAIMAN SANA JAME
+2005-008330   16  KENIX                                                        RAFEH SLAIMAN SANA JAME                                       RAFEH SLAIMAN SANA JAME
+2005-008375   16  PUBLIEXPRESS                                                 ZHEN QIC                                                      ZHEN QICI
+2005-008384   25  BEATAMINA                                                    RAMIREZ LUGO JORGE LUIS                                       RAMIREZ LUGO JORGE LUIS
+                                                                               PE—A LEON BORIS
+                                                                               UMANES TAFFIN CARLOS ENRIQUE PAUL
+2005-008385   16  BEATAMINA                                                    RAMIREZ LUGO JORGE LUIS                                       RAMIREZ LUGO JORGE LUIS
+                                                                               PE—A LEON BORIS
+                                                                               UMANES TAFFIN CARLOS ENRIQUE PAUL
+2005-008404    9  BLACKBERRY                                                   RESEARCH IN MOTION LIMITED                                    MATA PONTE ILIANY ALEXANDRA
+2005-008419    3  BEL CHIC                                                     LABORATORIOS CERO, S.A.                                       NELSON ANTONIO MORA QUINTANA
+2005-008431   25  GAROTAS DO BRASIL                                            CALCADOS MARTE LTD                                            DANA RUTH BENTATA
+2005-008497    6  C                                                            MCC HOLDINGS, INC                                             NEBREDA MARIA MILAGROS
+2005-008503    2                                                               CARMAGNOLA M. JOSE ENRIQUE                                    CARMAGNOLA M. JOSE ENRIQUE
+2005-008504    2  PRINTER TAPE                                                 GALARRAGA OLABERRI GONZALO                                    GALARRAGA OLABERRI GONZALO
+2005-008505    2                                                               CARMAGNOLA M. JOSE ENRIQUE                                    CARMAGNOLA M. JOSE ENRIQUE
+2005-008513   25  JBG AUTHENTIC ORIGINAL FOR MEN                               CHACON CAMACHO JOSE DEL CARMEN                                CHACON CAMACHO JOSE DEL CARMEN
+2005-008557   16  CHANCE                                                       ARTIGAS RAMIREZ RAUL ENRIQUE                                  ARTIGAS RAMIREZ RAUL ENRIQUE
+2005-008558   16  CHANCE EN LINEA                                              ARTIGAS RAMIREZ RAUL ENRIQUE                                  ARTIGAS RAMIREZ RAUL ENRIQUE
+2005-008570   25  VERANO DE FORMAS INTIMAS                                     FORMAS INTIMAS, S.A.                                          MERCEDES QUIROZ JUDITH
+2005-008621   16  LA HOJILLA IMPRESA                                           SILVA GARCIA MARIO                                            SILVA GARCIA, MARIO
+2005-008626    9  CITY VISION                                                  WANG ZH                                                       OSCAR J. HUERTAS BIGOTT
+2005-008627   11  ALFA 10 DOBLE ACCION                                         BRACHO MARTINEZ ALFONSO DE JESUS                              BRACHO MARTINEZ ALFONSO DE JESUS
+2005-008628    7  ALFA 10 DOBLE ACCION                                         BRACHO MARTINEZ ALFONSO DE JESUS                              BRACHO MARTINEZ ALFONSO DE JESUS
+2005-008645    5                                                               SAN FAUSTO S.A.                                               ENRIQUE J. CHEANG VERA
+2005-008656   29                                                               PEPSICO, INC.                                                 HOET MACHADO PATRICIA A
+2005-008861   32  CONCENTRADOS COLACA                                          CONCENTRADOS COLACA, C.A.                                     RIVERO TEJADAS ANDRES NICOLAS
+2005-009080   28  SKATE STAR                                                   SSS C.A.                                                      EDUARDO SOLANA
+2005-009082   28  SURF STAR                                                    SSS C.A.                                                      EDUARDO SOLANA
+2005-009083   25  SURF STAR                                                    SSS C.A.                                                      EDAUARDO SOLANA
+2005-009261    5  ENTEREX PROTEINEX                                            VICTUS, INC.                                                  CASTELAO MORENO LEONARDO
+2005-009370   29  SALTIMBOCCA                                                  SALTIMBOCCA C.A.                                              ESTHER MARIA FERRINI DE LUCA
+2005-009973    3  CARMIN                                                       GARCIA VIRGINIA                                               VIRGINIA GARCIA
+2005-009974   30                                                               UNILEVER N.V.                                                 EZAGUI SPRITZER JAIME R.
+2005-009975   29                                                               UNILEVER N.V.                                                 EZAGUI SPRITZER JAIME R.
+2005-009978   32                                                               UNILEVER N.V.                                                 EZAGUI SPRITZER JAIME R.
+2005-009979   33  EL CRIOLLO CARIBEÒO                                          MERCA FLOR S.R.L.                                             DIEGO BUSTILLOS BEINER
+2005-009980   33                                                               DIAGEO NORTH AMERICA, INC.                                    DIEGO BUSTILLOS BEINER
+2005-009982    3  MISS DIOR CHERIE                                             PARFUMS CHRISTIAN DIOR, S.A.                                  DIEGO BUSTILLOS BEINER
+2005-009988   25  ANLIMITHED                                                   ANIBAL VILLALBA GARAVIZ                                       ANIBAL VILLALBA GARAVIZ
+2005-009994   16  VIDA DE CON PERROS                                           SOTELO AMALIA                                                 MONSERRATT EDGAR JAVIER
+2005-010013   30  OTOYAN                                                       OTOYAN, S.A.                                                  ASUAJE CRESPO CARLOS
+2005-010024   25  NO2                                                          INVERSIONES HUNCKRESP.C.A.                                    YILIAN CRESPO
+2005-010027   26  SABLE                                                        CONFECCIONES YARNABETH, C.A.                                  FRANCO YAMMINE N.
+2005-010029   26  CEBRA                                                        CONFECCIONES YARNABETH, C.A.                                  FRANCO YAMMINE N.
+2005-010030   26  YARNABETH                                                    CONFECCIONES YARNABETH, C.A.                                  FRANCO YAMMINE N.
+2005-010209   16                                                               CARGILL INCORPORATED                                          MANUEL ANTONIO RODRIGUEZ
+2005-010211   25                                                               INDUSTRIA DE DISE—O TEXTIL S.A.                               MATA PONTE ILIANY ALEXANDRA
+2005-010227   25  MERLYN FASHION                                               INVERSIONES MERLYN FASHION, C.A.                              MERLYN HERNANDEZ
+2005-010232   19  PEGASO                                                       INVERSIONES MINERAS INTEGRADAS, C.A. (IMICA)                  JUAN PAOLO SIMONETTI AGUIRRE
+2005-010234   25  ASTERISCO                                                    MELQUISEDEC ACOSTA URQUIJO                                    MELQUISEDEC ACOSTA URQUIJO
+2005-010240   16  MOTOR CENTRAL                                                C.A. CENTRAL BANCO UNIVERSAL                                  GABRIEL SARA S
+2005-010250   33  RAPSODA                                                      VELASQUEZ HENAO GERMAN ALBERTO                                VELASQUEZ HENAO GERMAN ALBERTO
+2005-010251   28  D ELECTRONICS LJM                                            FERNANDO STEINER                                              FERNANDO STEINER
+2005-010265   10  VENT SPIKE                                                   VICTUS, INC                                                   LEONARDO CASTELAO MORENO
+2005-010266   10  BURESET                                                      VICTUS, INC.                                                  LEONARDO CASTELAO MORENO
+2005-010268   25  CG CAROLINA GONZALEZ                                         NEIVA CAROLINA GUARENA RAMOS                                  NEIVA CAROLINA GUARENA RAMOS
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2005-010269   16  CG CAROLINA GONZALEZ                                         NEIVA CAROLINA GUARENA RAMOS                                  NEIVA CAROLINA GUARENA RAMOS
+2005-010271   25  BOOZ KAROLINE                                                NEIVA CAROLINA GUARENA RAMOS                                  NEIVA CAROLINA GUARENA RAMOS
+2005-010272   16  BOOZ KAROLINE                                                NEIVA CAROLINA GUARENA RAMOS                                  NEIVA CAROLINA GUARENA RAMOS
+2005-010274    9  BIGLIDUE                                                     INVERSIONES STUDIO MODA, C.A.                                 HERNANDEZ DORTA SANDRA I.
+2005-010275    9  B 2                                                          INVERSIONES STUDIO MODA, C.A.                                 HERNANDEZ DORTA SANDRA I.
+2005-010279   31  NUTRI GOLD                                                   NUTRICION TECNICA NUTRITEC C.A.                               DANIEL QUINTERO
+2005-010280   31  DOG STAR                                                     NUTRICION TECNICA NUTRITEC C.A.                               DANIEL QUINTERO
+2005-010281   31  DOG PLUS                                                     NUTRICION TECNICA NUTRITEC C.A.                               DANIEL QUINTERO
+2005-010288   16  CLINISALUD                                                   CLINISALUD, SERVICIOS DE ADMINISTRACION DE SALUD C.A.         LAURA ELENA QUINTERO GUERERE
+2005-010295   16  HELADOS CALI                                                 HELADOS PAISA C.A.                                            BONALDE VERA ELISCAR AZILDE
+2005-010296   30  HELADOS CALI                                                 HELADOS PAISA C.A.                                            BONALDE VERA ELISCAR AZILDE
+2005-010301   16  CYBERTECH PROJECTS                                           CYBERTECH PROJECTS, C.A.                                      BONALDE VERA ELISCAR AZILDE
+2005-010305    9  MAXMAX                                                       GIGASTORAGE CORPORATION                                       LAURA K. RADA CHACON
+2005-010323   32  YUKY-PAK MIX YUKERY                                          GERBER VENEZUELAN HOLDING COMPANY, INC.                       DIEGO BUSTILLOS BEINER
+                                                                               PEPSI-COLA VENEZUELA, C.A.
+2005-010326   32  YUKY-PAK MIX YUKERY                                          GERBER VENEZUELAN HOLDING COMPANY, INC.                       DIEGO BUSTILLOS BEINER
+                                                                               PEPSI-COLA VENEZUELA, C.A.
+2005-010327   32  YUKY-PAK MIX YUKERY                                          GERBER VENEZUELAN HOLDING COMPANY, INC.                       DIEGO BUSTILLOS BEINER
+                                                                               PEPSI-COLA VENEZUELA, C.A.
+2005-010336   16  VELADA MAGAZINE                                              EDITORIAL PIPIRIPAO C.A.                                      COHEN YISSACGHAR, MERY
+2005-011237    3  ALWAY IDEAL                                                  REVLON (SUISSE) S.A.                                          HOET MACHADO PATRICIA A
+2005-011326   16  EPAX                                                         LABORATORIOS VIVAX PHARMACEUTICALS C.A.                       HERNANDEZ GONZALEZ RAFAEL ANGEL
+2005-011804   16  POWER GREASE CHASIS                                          INVERSIONES Y REPRESENTACIONES PLUS ULTRA, C.A.               ALEJANDRO LIBORIUS
+2005-011809    4  POWER MARINO                                                 INVERSIONES Y REPRESENTACIONES PLUS ULTRA, C.A.               ALEJANDRO LIBORIUS
+2005-012289   16  DIABETEMAS                                                   F. HOFFMANN-LA ROCHE AG                                       DANA RUTH BENTATA
+2005-012295    5  KINA LAUDA                                                   CONFECCIONES AURIENSE 2010, C.A.                              CARRASCOSA JOSE MANUEL
+2005-012304   16  PC PLUSS                                                     SANTIAGO ALBERTO RODRIGUEZ                                    CARRASCOSA JOSE MANUEL
+2005-012311   30  M SU CONSUMO                                                 GARCIA RAMONIS, PEDRO MANUEL                                  PEDRO M, GARCIA
+2005-012316   25  RUSTIJ D.J.E.M.                                              TOGLLA, JOSE                                                  JOSE TOGLLA
+2005-012317   25  ROSMARY SPORT                                                SALAZAR QUISHPI, LUIS ALFONSO                                 SALAZAR QUISHPI LUIS A.
+2005-012319   16  PRIMERA HORA                                                 C.A. EDITORA EL NACIONAL                                      CARLOS VALEDON
+2005-012341   16  GIA                                                          ZEITONE PIERRE                                                ZEITONE PIERRE
+2005-012342    7  GIA                                                          ZEITONE PIERRE                                                ZEITONE PIERRE
+2005-012344    9  GIA                                                          ZEITONE PIERRE                                                ZEITONE PIERRE
+2005-012346   11  GIA                                                          ZEITONE PIERRE                                                ZEITONE PIERRE
+2005-012351   16  NENO¥S!                                                      SUELAS CARABOBO, SUELACA C.A.                                 CID CONDE JULIO
+2005-012478   16  TRASPLANTE UNA ESPERANZA DE VIDA                             FUNDACION AMIGOS DEL ENFERMO HEPATICO                         ROSA I. SALAZAR DE LAURENS
+2005-012708   12  TIPE R                                                       ASIA GLOBAL C.A.                                              RICARDO BARRIOS G.
+2005-012710   12  NTN                                                          ASIA GLOBAL C.A.                                              RICARDO BARRIOS G.
+2005-013649   29  CHOKOGOZZO                                                   ALPINA PRODUCTOS ALIMENTICIOS S.A.                            ENRIQUE J. CHEANG VERA
+2005-013670   25  KND KIDS NEXT DOOR                                           THE CARTOON NETWORK LP, LLLP                                  DANA RUTH BENTATA
+2005-013671   28  KND KIDS NEXT DOOR                                           THE CARTOON NETWORK LP, LLLP                                  DANA RUTH BENTATA
+2005-013672   34  MARLBORO AT NIGHT                                            PHILIP MORRIS PRODUCTS S.A.                                   DANA RUTH BENTATA
+2005-013684   25  R                                                            WASSIM OMAR MOUHAFFEL KASSIS                                  CARRASCOSA JOSE MANUEL
+2005-013685   25                                                               WASSIM OMAR MOUHAFFEL KASSIS                                  CARRASCOSA JOSE MANUEL
+2005-013688   32  PULPIFRUTA                                                   QUALA, INC.                                                   REYES URBINA LUISA NATACHA
+2005-013694   16  LAMPARAS PIERROT                                             LAMPARAS PIERROT, C.A.                                        GARCIA DELGADO ROBERT C.
+2005-013695   11  LAMPARAS PIERROT                                             LAMPARAS PIERROT, C.A.                                        GARCIA DELGADO ROBERT C.
+2005-013699   18  GLOPRO GLOBAL PROTECTION                                     OSWALDO GONZALEZ P.                                           OSWALDO GONZALEZ P.
+2005-013717   20  GALO                                                         COLCHONES GALO, C.A.                                          UZCATEGUI URDANETA MARIANO
+2005-013722   10                                                               JOHNSON & JOHNSON                                             DE SOLA LANDER IRENE
+2005-013731   24  HOME TEXTILE HOMTEX                                          REPRESENTACIONES R.R.- 94, C.A.                               GILDA ROQUE ORTIZ
+2005-013735   25                                                               SKATEBOARD WORLD INDUSTRIES, INC.                             MANUEL POLANCO FERNANDEZ
+2005-013736   18                                                               SKATEBOARD WORLD INDUSTRIES, INC.                             MANUEL POLANCO FERNANDEZ
+2005-013742   28                                                               SKATEBOARD WORLD INDUSTRIES, INC.                             MANUEL POLANCO FERNANDEZ
+2005-013743   18                                                               SKATEBOARD WORLD INDUSTRIES, INC.                             MANUEL POLANCO FERNANDEZ
+2005-013744   25                                                               SKATEBOARD WORLD INDUSTRIES, INC.                             MANUEL POLANCO FERNANDEZ
+2005-013745   28                                                               SKATEBOARD WORLD INDUSTRIES, INC.                             MANUEL POLANCO FERNANDEZ
+2005-013793    2  MERCK                                                        MERCK KGAA                                                    MANUEL POLANCO FERNANDEZ
+2005-013860   32                                                               C.A. CERVECERIA REGIONAL                                      GUIDO A. PUCHE FARIA
+2005-013861   32                                                               C.A. CERVECERIA REGIONAL                                      GUIDO A. PUCHE FARIA
+2005-013862   32                                                               C.A. CERVECERIA REGIONAL                                      GUIDO ALFONSO PUCHE F.
+2005-013863   32                                                               C.A. CERVECERIA REGIONAL                                      GUIDO ALFONSO PUCHE FARIA
+2005-013864   32                                                               C.A. CERVECERIA REGIONAL                                      GUIDO ALFONSO PUCHE F.
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2005-013865   32                                                               C.A. CERVECERIA NACIONAL                                      GUIDO A. PUCHE F.
+2005-013866   32                                                               C.A. CERVECERIA REGIONAL                                      GUIDO A. PUCHE F.
+2005-013867   32                                                               C.A. CERVECERIA REGIONAL                                      GUIDO A. PUCHE F.
+2005-013869   25  SKYDIVE                                                      YONATHAN COHEN COHEN                                          YONATHAN COHEN COHEN
+2005-013870   16                                                               YONATHAN COHEN COHEN                                          YONATHAN COHEN C.
+2005-013877    9                                                               SONY KABUSHIKI KAISHA                                         ALONSO BRICE∂O DELFINA
+2005-013878    3  S&C                                                          SUCHEL CAMACHO, S.A.                                          ALONSO BRICE∂O DELFINA
+2005-013883   16  F&F CHEMICAL GROUP                                           F & F CHEMICAL GROUP C.A.                                     CALLIZO PEREZ P.
+2005-013884    3  F&F CHEMICAL GROUP                                           CALLIZO PEREZ, PABLO                                          CALLIZO PEREZ PABLO
+2005-013900    3  MARANT                                                       INVERSIONES ALFA AM, C.A.                                     JOSE ANTONIO ALAN LANDER
+2005-013914   30  FLOR DE AMERICA                                              TORREFACTORA DE CAFE FAMA LATINA.                             JOSE ANTONIO TORRES
+2005-013921    3  COSMETICOS ROLDA STYLING GEL                                 LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-013922    3  ROLDA                                                        LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-013923    3  ROLDA                                                        LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-013955    3  EA 7                                                         GA MODEFINE S.A.                                              DANA RUTH BENTATA
+2005-013956   18  EA 7                                                         GA MODEFINE S.A.                                              DANA RUTH BENTATA
+2005-013957   25  EA 7                                                         GA MODEFINE S.A.                                              DANA RUTH BENTATA
+2005-013958   32  STELLA ARTOIS                                                INBEV S.A.                                                    DANA RUTH BENTATA
+2005-013969   32  TUBIX                                                        QUALA, INC.                                                   REYES URBINA LUISA NATACHA
+2005-014012   29  RANCHO GRILL HOUSE                                           MAYOR DE CARNES Y CHARCUTERIA AUGUSTO, C.A.                   AUGUSTO ZANOTTI MOSSUTO
+2005-014014   16  RANCHO GRILL HOUSE                                           MAYOR DE CARNES Y CHARCUTERIA AUGUSTO, C.A.                   AUGUSTO ZANOTTI MOSSUTO
+2005-014016    9  BONO DE CONSUMO ARLYCA                                       BONO DE CONSUMO ANLYCA, C.A                                   ARTURO SEGUNDO VELASQUEZ G.
+2005-014027   30                                                               R & A BAILEY & CO.                                            DIEGO BUSTILLOS BEINER
+2005-014028   33                                                               R & A BAILEY & CO.                                            DIEGO BUSTILLOS BEINER
+2005-014029   32                                                               R & A BAILEY & CO.                                            DIEGO BUSTILLOS BEINER
+2005-014030   25  ALFAYAD                                                      AMEZQUITA LIZARAZO, ALFREDO                                   AKFREDO AMEZQUITA
+2005-014042   12  EXPO CANIDRA                                                 CAMARA NACIONAL DE IMPORTADORES Y DISTRIBUIDORES DE RE***     GIUSEPPE CINNIRELLA
+2005-014068   16  TEEN-WAY                                                     FRANCO PINTAUDI                                               BENITEZ ESTRA∂O, TULIA
+2005-014069   25  TEEN-WAY                                                     FRANCO PINTAUDI                                               BENITEZ ESTRA∂O, TULIA
+2005-014082    8  SHINY                                                        FABRICA BRILUX, C.A.                                          SARA CAROLINA SANCHEZ PARRA
+2005-014083   21  SHINY                                                        FABRICA BRILUX, C.A.                                          SARA CAROLINA SANCHEZ PARRA
+2005-014085   16  CAFE ZAMBAL                                                  CAFE SAMBAL, C.A.                                             ENRIQUE J. CHEANG VERA
+2005-014089   25  LOCOCAT                                                      GRENDENE S.A.                                                 ENRIQUE J. CHEANG VERA
+2005-014090   25  ILHA BELA                                                    GRENDENE S.A.                                                 ENRIQUE J. CHEANG VERA
+2005-014094    5                                                               MERCK & CO INC.                                               EZAGUI SPRITZER JAIME R.
+2005-014190    3  MISS≈                                                        GALENO QUIMICA, C.A.                                          MAITE URRECHEAGA ESCALANTE
+2005-014191    5  MISS≈                                                        GALENO QUIMICA, C.A.                                          MAITE URRECHEAGA ESCALANTE
+2005-014209   30  GAMESA                                                       CORPORATIVO INTERNACIONAL MEXICANO, S DE R.L. DE C.V          HOET MACHADO PATRICIA A
+2005-014240   30  ALI—O DEL CAMPO                                              CONDIMENTOS DEL CAMPO, C.A.                                   CARRASCOSA JOSE MANUEL
+2005-014242   30  SDOBO COMPLETO DEL CAMPO                                     CONDIMENTOS DEL CAMPO, C.A.                                   CARRASCOSA JOSE MANUEL
+2005-014263   16  CORAMECA AMARILLAS ESPECIALIZADAS                            CORAMECA, CORPORACION AMARILLAS ESPECIALIZADAS, C.A.          JOSE ANTONIO LOPEZ PERNALETE
+2005-014270   30  DE MI TIERRA                                                 LESSEUR GIRON SERVILIA VALENTINA                              LESSEUR GIRON SERVILIA VALENTINA
+2005-014284   31  MR. COOK                                                     PROCESADORA NACIONAL DE ALIMENTOS, C.A. PRONACA               HERNANDEZ RICARDO ANTEQUERA
+2005-014293    3  ROLDA SPORT LOOK                                             LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014294    3  ROLDA SWEET SKIN ALMIZCLE                                    LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014295    3  ROLDA SWEET SKIN                                             LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014297    3  ROLDA SWEET SKIN                                             LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014299    3  ROLD SEMI DI LINO                                            LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014300    3  ROLDA PLACENTA DE OVEJO                                      LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014301    3  ROLDA LISAPELL                                               LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014302    3  OLDA OXIGENADA                                               LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014303    3  ROLDA AGUA OXIGENADA                                         LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014304    3  ROLDA AGUA OXIGENADA                                         LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014305    3  ROLDA RINSE                                                  LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014306    3  ROLDA PLACENTA DE OVEJO                                      LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014307    3  ROLDA PLACENTA DE OVEJO                                      LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014308    3  ROLDA PLACENTA DE OVEJO                                      LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014309    3  ROLDA SWEET SKIN                                             LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014327    3  MASGLO                                                       CERESCOS LTDA.                                                ARCILA SALGADO GUSTAVO
+2005-014331   25  SAMOA                                                        AURKI BRAVO IZA                                               DANIEL A. SALAS ARANA
+2005-014332   30  SAMOA                                                        AURKI BRAVO IZA                                               DANIEL A. SALAS ARANA
+2005-014336   30  CHOCOTEJAS                                                   BEATRIZ CASTRO DE ALCANTARA                                   ANDRES F. GONZALEZ U.
+                                                                               ELIZABETH WILLSON GONZALEZ
+2005-014337   29  SAMOA                                                        AURKI BRAVO IZA                                               DANIEL A. SALAS ARANA
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2005-014347    9  VCP ELECTRIC                                                 LAUMAYER COLOMBIANA COMERCIALIZADORA S.A.                     ENRIQUE J. CHEANG VERA
+2005-014348    9  VCP CONNECT                                                  LAUMAYER COLOMBIANA COMERCIALIZADORA S.A.                     ENRIQUE J. CHEANG VERA
+2005-014349   10  DR. MARCH                                                    BELLEZA EXPRESS S.A.                                          ENRIQUE J. CHEANG VERA
+2005-014352   17                                                               COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN - MICHELI **   OSCAR J. HUERTAS BIGOTT
+2005-014353   16                                                               COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN - MICHELI **   OSCAR J. HUERTAS BIGOTT
+2005-014354   12                                                               COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN - MICHELIN**   OSCAR J. HUERTAS BIGOTT
+2005-014355    9                                                               COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN - MICHELIN**   OSCAR J. HUERTAS BIGOTT
+2005-014356    8                                                               COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN - MICHELI **   OSCAR J. HUERTAS BIGOTT
+2005-014358    6                                                               COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN - MICHELI **   OSCAR J. HUERTAS BIGOTT
+2005-014388    3  NATURA VITAPLANT                                             NATURA COSMETICOS S/A                                         AYALA CHERUBINI BEATRIZ CAROLINA
+2005-014461    3  SEMI DI LINO                                                 LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014462    3  FIXACOLOR                                                    LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014464    3  LISSETH                                                      LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014465    3  ROLDA COLAGENO                                               LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014484   25  E                                                            ESCADA AG.                                                    DIEGO BUSTILLOS BEINER
+2005-014485    3  HYPNOTIC POISON                                              PARFUMS CHRISTIAN DIOR, S.A.                                  DIEGO BUSTILLOS BEINER
+2005-014487    3  POISON                                                       PARFUMS CHRISTIAN DIOR, S.A.                                  DIEGO BUSTILLOS BEINER
+2005-014491   16  MOTORKOTE                                                    MOTORKOTE DE VENEZUELA (MOTORKOTECA), C.A.                    CARRASCOSA JOSE MANUEL
+2005-014503    9                                                               MASTER ELECTRIC, C.A.                                         SARA CAROLINA SANCHEZ PARRA
+2005-014508   25  MACUTO                                                       CENTRO COMERCIAL MACUTO I C.A.                                ADRIANA MARIA DOMINGUEZ MEDINA
+2005-014517   30  TURBO JET                                                    COMPA—IA NACIONAL DE CHOCOLATES S.A                           LAURA K. RADA CHACON
+2005-014518   25  CAROL GINTER                                                 CAROL GINTER                                                  JELAMBI GARCIA GITSEL
+2005-014532   25  FEDY'S WEAR                                                  ALI SALAH                                                     FEDY ALI ROMERO
+2005-014547    3  ANTONIO BANDERAS                                             ANTONIO BANDERAS LIMITED                                      GONZALEZ ZAMBRANO ARNALDO A.
+2005-014551    3  NIVEA SUN                                                    BEIERSDORF AG                                                 BENTATA KAREL
+2005-014577   25  COMPLEJO LICORERO PONCHE CREMA                               COMPA—IA ANONIMA PONCHE CREMA SUCESORA DE ELIODORO ***        HERNANDEZ DORTA SANDRA I.
+2005-014579   25                                                               COMPA—IA ANONIMA PONCHE CREMA SUCESORA DE ELIODORO ***        HERNANDEZ DORTA SANDRA I.
+2005-014580   16                                                               COMPA—IA ANONIMA PONCHE CREMA SUCESORA DE ELIODORO ***        HERNANDEZ DORTA SANDRA I.
+2005-014583   25  COMPLEJO LICORERO PONCHE CREMA                               COMPA—IA ANONIMA PONCHE CREMA SUCESORA DE ELIODORO ***        HERNANDEZ DORTA SANDRA I.
+2005-014644   30  ELAH                                                         ELAH DUFOR S.P.A.                                             MANUEL POLANCO FERNANDEZ
+2005-014647   24  MADISSON                                                     INDUSTRIAS OREGON S.A.                                        COHEN YISSACGHAR, MERY
+2005-014649   24  WESTON                                                       INDUSTRIAS OREGON S.A.                                        COHEN YISSACGHAR, MERY
+2005-014658   32  HIT                                                          ADVANTAGE INVESTMENTS, INC.                                   HERNANDEZ RICARDO ANTEQUERA
+2005-014669   33  ABSOLUT APEACH COUNTRY OF SWEDEN                             V & S VIN & SPRIT AKTIEBOLAG                                  BENTATA KAREL
+2005-014672    1                                                               CASTROL LIMITED                                               ALONSO BRICE∂O DELFINA
+2005-014673    4                                                               CASTROL LIMITED                                               ALONSO BRICE∂O DELFINA
+2005-014676   30  SONRIC'S                                                     PEPSICO, INC.                                                 HOET MACHADO PATRICIA A
+2005-014677   30  BOMBIUX FIZZ                                                 PEPSICO, INC.                                                 HOET MACHADO PATRICIA A
+2005-014691    2  EVA FOAM                                                     INVERSIONES UNILUX C.A.                                       ENRIQUE J. CHEANG VERA
+2005-014720   25  ASOMAMA                                                      VALERO SCHNEEMANN JOHANNES E.                                 VALERO SCHNEEMANN JOHANNES E.
+2005-014724   14  MARIA CONSTANZA DISE—OS                                      GRUPO KANAAS, C.A.                                            MARIA CONSTANZA CARDENAS P.
+2005-014770   30  NATURITAS                                                    MARIA ELBA BARREAT BASTIDAS.                                  PEDRO ROJAS NUÒEZ
+2005-014781    5  FARMACIAS PAEZ                                               FARMACIAS PAEZ, C.A.                                          CARRASCOSA JOSE MANUEL
+2005-014785    9  AM PRO                                                       HIDROCA, C.A.                                                 LUDERT I RICARDO
+2005-014786    8  AM PRO                                                       HIDROCA, C.A.                                                 LUDERT I RICARDO
+2005-014792   16  DA DINO                                                      MGM 88, C.A.                                                  GONZALEZ ZAMBRANO ARNALDO A.
+2005-014793   25  DA DINO                                                      MGM 88, C.A.                                                  GONZALEZ ZAMBRANO ARNALDO A.
+2005-014797   12  SHINERAY                                                     CHONGQING SHINERAY MOTORCYCLE MANUFACTURING CO., LTD.         INGRID REBECA NI—O RODRIGUEZ
+2005-014802   32  TRINK                                                        PARATI S.A.                                                   BENTATA KAREL
+2005-014806   16  LA VENEZOLANA DE SEGUROS Y VIDA                              LA VENEZOLANA DE SEGUROS Y VIDA, C.A.                         AYALA CHERUBINI BEATRIZ CAROLINA
+2005-014807   16  VENEZOLANA DE SEGUROS                                        LA VENEZOLANA DE SEGUROS Y VIDA, C.A.                         AYALA CHERUBINI BEATRIZ CAROLINA
+2005-014809   29  CORRALITO                                                    INDUSTRIAS ALIMENTICIAS CORRALITO S.A.                        AYALA CHERUBINI BEATRIZ CAROLINA
+2005-014810   30  CORRALITO                                                    INDUSTRIAS ALIMENTICIAS CORRALITO, S.A.                       AYALA CHERUBINI BEATRIZ CAROLINA
+2005-014811   16  CORRALITO                                                    INDUSTRIAS ALIMENTICIAS CORRALITO, S.A.                       AYALA CHERUBINI BEATRIZ CAROLINA
+2005-014815   25  QUICK SHARE                                                  ABOU LETAIF OUMAR ASSAD                                       ABOU LETAIF OUMAR
+2005-014817   25  VINGT SIX                                                    ABOU LETAIF OUMAR ASSAD                                       OUMAR ASSAD ABOULEFAIF
+2005-014827    9  HH                                                           HON HAI PRECISION INDUSTRY CO. LTD.                           MANUEL ANTONIO RODRIGUEZ
+2005-014847    9  DETROIT PISTONS                                              NBA PROPERTIES, INC.                                          ARCILA SALGADO GUSTAVO
+2005-014848   16  DETROIT PISTONS                                              NBA PROPERTIES INC.                                           ARCILA SALGADO GUSTAVO
+2005-014849   18  DETROIT PISTONS                                              NBA PROPERTIES, INC.                                          ARCILA SALGADO GUSTAVO
+2005-014850   25  DETROIT PISTONS                                              NBA PROPERTIES, INC.                                          ARCILA SALGADO GUSTAVO
+2005-014851   28  DETROIT PISTONS                                              NBA PROPERTIES, INC.                                          ARCILA SALGADO GUSTAVO
+2005-014858   12                                                               RTS, S.A.                                                     ALONSO BRICE∂O DELFINA
+2005-014861   32                                                               STOKELY-VAN CAMP, INC.                                        ALONSO BRICE∂O DELFINA
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2005-014874   25  BR                                                           BANANA REPUBLIC (ITM) INC.                                    DE SOLA LANDER IRENE
+2005-014875   18  BR                                                           BANANA REPUBLIC (ITM) INC.                                    DE SOLA LANDER IRENE
+2005-014878    9                                                               JOHNSON & JOHNSON                                             QUINTERO PEREZ MARIA DEL ROSARIO
+2005-014879    5                                                               JOHNSON & JOHNSON                                             QUINTERO PEREZ MARIA DEL ROSARIO
+2005-014894    3  ARIEL                                                        THE PROCTER & GAMBLE COMPANY                                  DIEGO BUSTILLOS BEINER
+2005-014923    9  XPRESS TERMINAL                                              IAMC CORP                                                     ADRIANA M.GARCIA BRUZUAL
+2005-014940   33  GUARAPITA DR. CALAVERA                                       TROPICAL DISTILLERS BEVERAGE, C.A.                            CARMEN GRACIELA ASUAJE
+2005-014947   16  MOLDUVENCA                                                   DANIEL DOS SANTOS SIMOES                                      DANIEL DOS SANTOS SIMOES
+2005-014961    9  MEMOVA                                                       CRITICAL PATH, INC.                                           MANUEL POLANCO FERNANDEZ
+2005-014962   16                                                               3M COMPANY                                                    MANUEL POLANCO FERNANDEZ
+2005-014963    9                                                               3M COMPANY                                                    MANUEL POLANCO FERNANDEZ
+2005-014966   25  ROGER VIVIER                                                 GOUSSON-CONSULTADORIA E MARKETING LDA.                        MATA PONTE ILIANY ALEXANDRA
+2005-014996   29  LA BARAGœE∑A                                                 VICTOR ISIDRO ALDANA SANCHEZ                                  RIVERO TEJADAS ANDRES NICOLAS
+2005-015005   25                                                               FRUIT OF THE LOOM, INC.                                       ALONSO BRICE∂O DELFINA
+2005-015019   25  PIMKIE                                                       OKHDJIAN HOMSADLI SIMON                                       CABELLO REQUENA RAMONA
+2005-015026   30  SPRIGO                                                       C.I. SUPER DE ALIMENTOS S.A.                                  HERNANDEZ RICARDO ANTEQUERA
+2005-015039    7  COARCA                                                       COMERCIAL ARDILA C.A.                                         MORALES FINOL, ANDRES
+2005-015040   12  COARCA                                                       COMERCIAL ARDILA, C.A.                                        MORALES FINOL, ANDRES
+2005-015052   25  ANGELIN 7                                                    SAA VILLOTA ANGELA PIEDA                                      SAA VILLOTA ANGELA PIEDAD
+2005-015053   25  SUPER BOY SPORT                                              MOCHA GUAMAN, PEDRO                                           MOCHA GUAMAN PEDRO
+2005-015055   25  YDEMAR 2010                                                  RAMIREZ MARQUEZ, EDGAR ANTONIO                                EDGAR RAMIREZ
+2005-015077   14  MEC MARIA ELISA CARMONA                                      MARIA ELISA CARMONA                                           MARIA ELISA CARMONA
+2005-015100    5  LABORATORIO SILVESTRI                                        LABORATORIO SILVESTRI, C.A.                                   ARCILA SALGADO GUSTAVO
+2005-015102   16  LABORATORIO SILVESTRI                                        LABORATORIO SILVESTRI, C.A.                                   ARCILA SALGADO GUSTAVO
+2005-015104   29  PURATOS                                                      PURATOS NV.                                                   BLANCO HERNANDEZ LUIS
+2005-015105   30  PURATOS                                                      PURATOS NV.                                                   BLANCO HERNANDEZ LUIS
+2005-015159    3  DISTRIBUIDORA BELHER                                         DISTRIBUIDORA BELHER C.A.                                     MARITZA DE LA SOLEDAD HERNANDEZ MEDINA
+2005-015185    1  CELLUX                                                       CELLUX COLOMBIANA S.A.                                        GARCIA DELGADO ROBERT C.
+2005-015186   17  CELLUX                                                       CELLUX COLOMBIANA S.A.                                        GARCIA DELGADO ROBERT C.
+2005-015204    5  NUTRAPIN AQ                                                  GENENTECH, INC.                                               MARMOL PEREZ VERONICA
+2005-015264   12  CAR & ART                                                    FU YU WEN THA                                                 FU YU 0WEN THA
+2005-015283    9  THE VISION CARE INSTITUTE                                    JOHNSON & JOHNSON                                             DE SOLA LANDER IRENE
+2005-015284    5  THE VISION CARE INSTITUTE                                    JOHNSON & JOHNSON                                             DE SOLA LANDER IRENE
+2005-015314   29  DELICAMAR                                                    LA CASA DE LA LANGOSTA, C.A                                   WALTER CASTRO SALERNO
+2005-015328   29  DO∑A LECHE                                                   COMUNITEL, C.A.                                               CARRASCOSA JOSE MANUEL
+2005-015331   16                                                               NORTEL NETWORKS LIMITED                                       MANUEL POLANCO FERNANDEZ
+2005-015339   16  TODO SOBRE BEBES Y NI—OS                                     AREA VISUAL C.A.                                              MATA PONTE ILIANY ALEXANDRA
+2005-015392    3  ADMISS                                                       CERESCOS LTDA.                                                ARCILA SALGADO GUSTAVO
+2005-015397   30  CHISGARABIZ                                                  BENITEZ NIETO, ROSALBA                                        BENITEZ NIETO ROSALBA
+2005-015398   16  MASSTER FRUIT                                                BENITEZ NIETO, ROSALBA                                        BENITEZ NIETO ROSALBA
+2005-015399   30  CHIQUIRIGUI                                                  BENITEZ NIETO, ROSALBA                                        BENITEZ NIETO ROSALBA
+2005-015401   16  CHISGARABIZ                                                  BENITEZ NIETO, ROSALBA                                        BENITEZ NIETO ROSALBA
+2005-015402   16  CHIQUIRIGUI                                                  BENITEZ NIETO, ROSALBA                                        BENITEZ NIETO ROSALBA
+2005-015403   30  MASSTER FRUIT                                                BENITEZ NIETO, ROSALBA                                        BENITEZ NIETO ROSALBA
+2005-015404   16  SWEETCO                                                      BENITEZ NIETO, ROSALBA                                        BENITEZ NIETO ROSALBA
+2005-015405   16  RASKINBOLT                                                   BENITEZ NIETO, ROSALBA                                        BENITEZ NIETO ROSALBA
+2005-015406   30  RASKINBOLT                                                   BENITEZ NIETO, ROSALBA                                        BENITEZ NIETO ROSALBA
+2005-015407   30  SWEETCO                                                      BENITEZ NIETO, ROSALBA                                        BENITEZ NIETO ROSALBA
+2005-015457   25  RLR FASHION                                                  RUIZ DE GONZALEZ ROSALINDA                                    RUIZ DE G. ROSALINDA
+2005-015467   34  EXCITE                                                       JOH WILH. VON EICKEN GMBH                                     ADRIANA M.GARCIA BRUZUAL
+2005-015470   34  VON EICKEN TRADITION                                         JOH WILH. VON EICKEN GMBH                                     ADRIANA M.GARCIA BRUZUAL
+2005-015471   34  ASHFORD                                                      JOH WILH. VON EICKEN GMBH                                     ADRIANA M.GARCIA BRUZUAL
+2005-015473   32  RASPARIN                                                     INVERSIONES RUFF, S.A.                                        GUSTAVO LIMONTA
+2005-015484   16                                                               PONCE & BENZO SUCR., C.A.                                     ANA MARIA PONCE S.
+2005-015488   30  K-CHITO                                                      ADRIAN ARTIGAS ESCUDERO                                       ADRIAN ARTIGAS ESCUDERO
+2005-015492   25  V&V 914                                                      LUZ MARINA LUCENA DE GUERRERO                                 DORADO FERNANDEZ, CARLOS RAFAEL
+2005-015518   25  ACUARIO                                                      BARUTA GOMA C.A.                                              MOGOLLON ROJAS IVOR DALVANO
+2005-015528   16                                                               MONTE AVILA EDITORES LATINOAMERICANA, C.A.                    CARLOS E. NOGUERA S.
+2005-015533   16  ATAVIO DESIGN                                                INVERSIONES EURO KID¥S IMPORT, C.A.                           MARJORIE DORAY ANAYA SEPULVEDA
+2005-015540   25  RG 512                                                       GABRIEL ABERGEL                                               MANUEL POLANCO FERNANDEZ
+2005-015546   24  SICKO NINETEEN 19                                            INDUSTRIA DE DISE—O TEXTIL, S.A. (INDITEX, S.A.).             MATA PONTE ILIANY ALEXANDRA
+2005-015567    7  G & A                                                        G & A INVERSIONES DEL CENTRO, C.A.                            BENITEZ ESTRA∂O, TULIA
+2005-015570   16  BITU CENTER                                                  BITUCENTER, C.A.                                              BENITEZ ESTRA∂O, TULIA
+2005-015577   31  HECHT                                                        GUSTAVO ALFONSO HECHT MENDEZ                                  BARRAGAN DE AGUILAR, MARIA THAMARA
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2005-015600   29  NAIGUATA                                                     INDUSTRIA ENLATADORA Y PROCESADORA LOS ROQUES C.A.            GAVIOLA ALEGRIA GINO
+2005-015601   29  NAIGUATA                                                     INDUSTRIA ENLATADORA Y PROCESADORA LOS ROQUES C.A.            GAVIOLA ALEGRIA GINO
+2005-015602   29  NAIGUATA                                                     INDUSTRIA ENLATADORA Y PROCESADORA LOS ROQUES C.A.            GAVIOLA ALEGRIA GINO
+2005-015610   28  BELL                                                         MOTOMOTRIZ TRAXX, C.A.                                        JOSE ANTONIO MONTUENGA
+2005-015616   18  INDE                                                         SONNETI INTERNACIONAL, S.A.                                   DORADO FERNANDEZ, CARLOS RAFAEL
+2005-015638   20  VITA CUCINE                                                  VITA CUCINE, C.A.                                             ALEJANDRO HERNANDEZ ALVAREZ
+2005-015660    5  DRUGTECH                                                     BRANDEX EUROPE C.V.                                           RAMOS R., PEDRO V.
+2005-015661   16  DRUGTECH                                                     BRANDEX EUROPE C.V.                                           RAMOS R., PEDRO V.
+2005-015664   16  EL VOCERO DEL CAMBIO                                         SALLOUM FADI                                                  FADI SALLOUM
+2005-015669    3  OPIN                                                         PRODUCTOS OPIN, C.A.                                          MATA PONTE ILIANY ALEXANDRA
+2005-015683    9  AMD TURION 64                                                ADVANCED MICRO DEVICES, INC.                                  NEBREDA MARIA MILAGROS
+2005-015701   25  KIRKLAND SIGNATURE                                           COSTCO WHOLESALE CORPORATION                                  DE SOLA LANDER IRENE
+2005-015708    9  QUIMEDICAL                                                   INVERSIONES QUIMEDICAL, C.A.                                  BARRAGAN DE AGUILAR, MARIA THAMARA
+2005-015709   10  QUI MEDICAL                                                  INVERSIONES QUIMEDICAL, C.A.                                  BARRAGAN DE AGUILAR, MARIA THAMARA
+2005-015712   10  QUIPROMED                                                    INVERSIONES QUIMEDICAL, C.A.                                  BARRAGAN DE AGUILAR, MARIA THAMARA
+2005-015713    9  QUIPROMED                                                    INVERSIONES QUIMEDICAL, C.A.                                  BARRAGAN DE AGUILAR, MARIA THAMARA
+2005-015805    9  CLOSE-UP REP¥S                                               INTERACTIVE MARKETING INFO, I.M.I. C.A                        AYALA CHERUBINI BEATRIZ CAROLINA
+2005-015806   16  CLOSE-UP REP'S                                               INTERACTIVE MARKETING INFO I.M.I., C.A.                       AYALA CHERUBINI BEATRIZ CAROLINA
+2005-015807   16  CLOSE-UP TARGETING                                           INTERACTIVE MARKETING INFO, I.M.I. C.A                        AYALA CHERUBINI BEATRIZ CAROLINA
+2005-015808    9  CLOSE-UP TARGETING                                           INTERACTIVE MARKETING INFO, I.M.I. C.A                        AYALA CHERUBINI BEATRIZ CAROLINA
+2005-015809   16  PHARMA MIX                                                   INTERACTIVE MARKETING INFO I.M.I., C.A.                       AYALA CHERUBINI BEATRIZ CAROLINA
+2005-015810    9  PHARMA MIX FOCUS                                             INTERACTIVE MARKETING INFO I.M.I., C.A.                       AYALA CHERUBINI BEATRIZ CAROLINA
+2005-015811    9  CLOSE-UP                                                     INTERACTIVE MARKETING INFO, I.M.I. C.A                        AYALA CHERUBINI BEATRIZ CAROLINA
+2005-015812   16  CLOSE-UP                                                     INTERACTIVE MARKETING INFO I.M.I., C.A.                       AYALA CHERUBINI BEATRIZ CAROLINA
+2005-015813   30  CIPRIANI                                                     ALTUNIS-TRADING GESTAO E SERVICOS LDA                         MANUEL POLANCO FERNANDEZ
+2005-015851   25  MARFROY'S JEANS                                              FROILAN ALVIAREZ RAMIREZ                                      FROILAN ALVIAREZ R.
+2005-015871    9  MASTER ELECTRIC                                              MASTER ELECTRIC, C.A.                                         SARA CAROLINA SANCHEZ PARRA
+2005-015872   11  MASTER ELECTRIC                                              MASTER ELECTRIC, C.A.                                         SARA CAROLINA SANCHEZ PARRA
+2005-015880   16  CIAP MES                                                     CENTRO INTEGRADO DE ADIESTRAMIENTO PROFESIONAL                BAUCE GERARDO JOSE
+2005-015881   34  LA PODEROSA ISIS                                             CORZO REY ISIDRO                                              CORZO REY ISIDRO
+2005-015901   25  COLOR SITO                                                   CARDOZO SANCHEZ ENDER DE JESUS                                CARDOZO SANCHEZ ENDER DE JESUS
+2005-015948    5                                                               ROTHSCHILD MESQUIDA PERRY WALTER                              DOMINGUEZ MENDEZ RAQUEL
+2005-015956    5  KAL C MIEL                                                   ARNULFO LEAL SEGURA                                           ARNULFO LEAL SEGURA
+2005-016022   16  DOGS                                                         CARVAJAL, S.A.                                                UZCATEGUI URDANETA MARIANO
+2005-016023   16  SANTA INES                                                   SEIJAS CARRERA JOSE LEONARDO                                  SEIJAS CARRERA JOSE LEONARDO
+2005-016047    9  1-DAY ACUVUE MOIST                                           JOHNSON & JOHNSON                                             DE SOLA LANDER IRENE
+2005-016056   18  RESPIRA                                                      SAMANTA INACIA RIVERA GUERRERO                                SAMANTA INACIA RIVERA GUERRERO
+2005-016058   18  CREPLAS                                                      ILAN SCHACHTEL                                                ILAN SCHACHTEL
+2005-016060   27  CREPLAS                                                      ILAN SCHACHTEL                                                ILAN SCHACHTEL
+2005-016065   25                                                               CHUECOS URDANETA, ALCIBIALES ANTONIO                          CHUECOS URDANETA ALCIBIALES ANTONIO
+2005-016069   32  REFRESCATE LEYENDO                                           THE COCA- COLA COMPANY                                        HERNANDEZ RICARDO ANTEQUERA
+2005-016070   24  SICKO 19 NINETEEN                                            INDUSTRIA DE DISE—O TEXTIL, S.A. (INDITEX, S.A.).             MATA PONTE ILIANY ALEXANDRA
+2005-016074    9  SPL                                                          BEAUFORT ENTERPRISES N.V.                                     ARCILA SALGADO GUSTAVO
+2005-016120   18  GLLAMOUR                                                     RAMOS ORTIZ AMALIA CECILIA                                    RAMOS ORTIZ AMALIA CECILIA
+2005-016121    9  POLUX                                                        REPRESENTACIONES DASARA, C.A.                                 YONEIDA SPLUGA DE SILVA
+2005-016149    6  ALFAMA                                                       ROMA, C.A.                                                    SARA CAROLINA SANCHEZ PARRA
+2005-016150   16  ALFAMA                                                       ROMA, C.A.                                                    SARA CAROLINA SANCHEZ PARRA
+2005-016315   16  HOGAR SALUD                                                  CALDERA LEJET AMADOR ANTONIO                                  RIVERO TEJADAS ANDRES NICOLAS
+2005-016322   29  FRIO CARNES                                                  EMBUTIDOS FRIO CARNES, C.A.                                   GISSELA MARGARITA SOLANO DE URRIETA
+2005-016323   30  FRIO CARNES                                                  EMBUTIDOS FRIO CARNES, C.A.                                   GISSELA MARGARITA SOLANO DE URRIETA
+2005-016325   32  FRIO CARNES                                                  EMBUTIDOS FRIO CARNES, C.A.                                   GISSELA MARGARITA SOLANO DE URRIETA
+2005-016326   29  PRESTIGE                                                     EMBUTIDOS FRIO CARNES, C.A.                                   GISSELA MARGARITA SOLANO DE URRIETA
+2005-016328   31  PRESTIGE                                                     EMBUTIDOS FRIO CARNES, C.A.                                   GISSELA MARGARITA SOLANO DE URRIETA
+2005-016329   32  PRESTIGE                                                     EMBUTIDOS FRIO CARNES, C.A.                                   GISSELA MARGARITA SOLANO DE URRIETA
+2005-016334   25  STAFF S                                                      SI, S.A.                                                      MARQUEZ GARCIA RICARDO
+2005-016380    5  SIAM NATURALS                                                SIAM FARMACEUTICA, C.A.                                       BARRAGAN DE AGUILAR, MARIA THAMARA
+2005-016382   16  EDITORIAL ROMOR                                              EDITORIAL ROMOR, C.A.                                         BARRAGAN DE AGUILAR, MARIA THAMARA
+2005-016406   16  EXIM 2121                                                    CORPORACION EXPORT-IMPORT 2121, C.A.                          JOSE RODRIGUEZ
+2005-016408   32                                                               C.A. CERVECERIA REGIONAL                                      RAFAEL E. ORTIZ PEROZO
+2005-016409   32                                                               C.A CERVECERIA REGIONAL                                       GUIDO A. PUCHE FARIA
+2005-016410   32                                                               C.A. CERVECERIA REGIONAL                                      RAFAEL E. ORTIZ PEROZO
+2005-016411   32                                                               C.A. CERVECERIA REGIONAL                                      RAFAEL E. ORTIZ P.
+2005-016412   32                                                               C.A. CERVECERIA REGIONAL                                      RAFAEL E. ORTIZ P.
+2005-016422   28  TECNO SPORTS                                                 TECNOSPORTS DE VENEZUELA, C.A.                                GONZALEZ ZAMBRANO ARNALDO A.
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2005-016426   18  MICHELLE BELAU                                               MICHELLE BELAU S.A.C.                                         GONZALEZ ZAMBRANO ARNALDO A.
+2005-016470   32                                                               KRAFT FOODS HOLDINGS, INC.                                    ALONSO BRICE∂O DELFINA
+2005-016471   20  EFECTO                                                       THOUSAND ACRES CORP.                                          ALONSO BRICE∂O DELFINA
+2005-016478    1  PTFE NANO                                                    PRODUCTOS QUIMICOS LMV. C.A.                                  FRANCISCO J. ACEVEDO S.
+2005-016479    3  PTFE NANO                                                    PRODUCTOS QUIMICOS LMV. C.A.                                  FRANCISCO J. ACEVEDO S.
+2005-016480    1  NANO PTFE                                                    PRODUCTOS QUIMICOS LMV. C.A.                                  FRANCISCO J. ACEVEDO S.
+2005-016481    3  NANO PTFE                                                    PRODUCTOS QUIMICOS LMV. C.A.                                  FRANCISCO J. ACEVEDO S.
+2005-018757   29  X-TREME FRUIT                                                BROOKSIDE FOODS LTD.                                          LAURA K. RADA CHACON
+2005-020100   10  SHARP SENTINEL                                               BEMIS MANUFACTURING COMPANY                                   DIEGO BUSTILLOS BEINER
+2005-022875   30  LA MARACA                                                    UNION COOPERATIVA AGROINDUSTRIAL DEL CACAO, CACAO DE R.L.     JUANA RUIZ BASANTE
+2005-025268   30  DON CHUCHO                                                   CONTRERAS PE—UELA CARLOS ENRIQUE                              CONTRERAS P. CARLOS
+2005-028202   16  TRIPLE DORADO PEGA'O                                         CELL PHONE SYSTEMS 2005, C.A.                                 TRUJILLO CISNEROS MARITZA
+2005-028203   16  TRIPLE PLAYERO PEGA'O                                        CELL PHONE SYSTEMS 2005, C.A.                                 TRUJILLO CISNEROS MARITZA
+2005-029132    5  BICHO                                                        LABORATORIOS DEPAL, C.A.                                      ALEJANDRO DIAZ
+2006-000006   25  JEMENI`S                                                     LAGUNA URDANETA LENNIN ERNESTO                                LENNIN E LAGUNA U
+2006-000007   16  JEMENI`S                                                     LAGUNA URDANETA LENNIN ERNESTO                                LENNIN E LAGUNA U
+2006-000012   25  BELEZA                                                       INDUSTRIA LA MARAVILLA S.A.                                   ARCILA SALGADO GUSTAVO
+2006-000014   25  SABRINA                                                      INDUSTRIA LA MARAVILLA S.A.                                   ARCILA SALGADO GUSTAVO
+2006-000021    5  VIALIBRAN                                                    BIOFARMA                                                      EZAGUI SPRITZER JAIME R.
+2006-000041   33  SENDERO                                                      VI—A CONCHA Y TORO S.A.                                       BLANCO HERNANDEZ LUIS
+2006-000055    3  VANISH CRISTAL BLANCO                                        RECKITT BENCKISER N.V.                                        MANUEL POLANCO FERNANDEZ
+2006-000065    9  VIDIGREET                                                    JEFFREY B. GORMAN                                             ARCILA SALGADO GUSTAVO
+2006-000068   16  CREDIMANIA MERCANTIL                                         BANCO MERCANTIL C.A. (BANCO UNIVERSAL)                        UZCATEGUI URDANETA MARIANO
+2006-000080    3  OLEOZON                                                      CENTRO NACIONAL DE INVESTIGACIONES CIENTIFICAS (CNIC)         ENRIQUE J. CHEANG VERA
+2006-000082   10  OZOMED                                                       CENTRO NACIONAL DE INVESTIGACIONES CIENTIFICAS (CNIC)         ENRIQUE J. CHEANG VERA
+2006-000085   29  DATE, DURISIMO, CON TODO                                     MACHADO SALCEDO FRANKLIN                                      FRANKLIN MACHADO SALCEDO
+2006-000089    5  BASUDIN                                                      SYNGENTA PARTICIPATIONS AG                                    EZAGUI SPRITZER JAIME R.
+2006-000090    1  BASUDIN                                                      SYNGENTA PARTICIPATIONS AG                                    EZAGUI SPRITZER JAIME R.
+2006-000091   11  SKYTECH                                                      SAAB NAIM YOUSSEF                                             NAIM YOUSSEF SAAB
+2006-000100    5  IRNOCAM                                                      DR. REDDY'S LABORATORIES. LTD.                                PRASHANT KRANDELWAL
+2006-000101    5  BUTAHALE                                                     DR. REDDY'S LABORATORIES. LTD.                                PRASHANT KRANDELWAL
+2006-000119   10  PONIENTO LA SALUD REPRODUCTIVA A TU ALCANCE                  IMPORTADORA ACI PROSALUD C.A.                                 ESCALA MENDEZ JOSE GABRIEL
+2006-000120    5  PONIENDO LA SALUD REPRODUCTIVA A TU ALCANCE                  IMPORTADORA ACI PROSALUD C.A.                                 ESCALA MENDEZ JOSE GABRIEL
+2006-000121   16  PONIENDO LA SALUD REPRODUCTIVA A TU ALCANCE                  IMPORTADORA ACI PROSALUD C.A.                                 ESCALA MENDEZ JOSE GABRIEL
+2006-000122   25  PONIENDO LA SALUD REPRODUCTIVA A TU ALCANCE                  IMPORTADORA ACI PROSALUD C.A.                                 ESCALA MENDEZ JOSE GABRIEL
+2006-000128   11  MEGAVOX                                                      SAAB NAIM YOUSSEF                                             NAIM YOUSSEF SAAB
+2006-000162    5  QWIK-DRY                                                     JOHNSON & JOHNSON                                             QUINTERO PEREZ MARIA DEL ROSARIO
+2006-000164   32  OMNILIFE KOLINA                                              GRUPO OMNILIFE, S.A. DE C.V.                                  ARCILA SALGADO GUSTAVO
+2006-000165    5  OMNILIFE KOLINA                                              GRUPO OMNILIFE, S.A. DE C.V.                                  ARCILA SALGADO GUSTAVO
+2006-000207   16  APRENDER ES CRECER                                           MC 2005 MAXIMA CREACION PUBLICITARIA, C.A.                    DE FREITAS CORREIA CAROLINA
+2006-000208   16  VIVA MEJOR PARA SER DISTINTO                                 ALVARADO MARTICORENA, GUILLERMO FERNANDO                      GUILLERMO ALVARADO
+2006-000269    9  A 70                                                         SIEMENS AKTIENGESELLSCHAFT                                    DANA RUTH BENTATA
+2006-000273   25  FREE SOUL                                                    ELDO SRL                                                      ALONSO BRICE∂O DELFINA
+2006-000287   33  PONTE DA BOGA                                                ADEGA PONTE DA BOGA S.L.                                      MARIANELLA MONTILLA R / ENRIQUE CHEANG
+2006-000289   25  FUNFLOPPS                                                    GLOBAL BRAND MARKETING INC.                                   EMILIO GARCIA
+2006-000290   34  BANDERA ROJA                                                 ULLOA MONSALVE CIA LTDA.                                      EMILIO GARCIA
+2006-000296   16  RODRI DONUT                                                  ESTEBAN GERBASI PAGAZANI                                      AYALA CHERUBINI BEATRIZ CAROLINA
+2006-000306    9  SIDERMES                                                     LUIS MANUEL FREITAS ANDRADE                                   ARCILA SALGADO GUSTAVO
+2006-000307   16  SIDERMES                                                     LUIS MANUEL FREITAS ANDRADE                                   ARCILA SALGADO GUSTAVO
+2006-000310    1  SERA                                                         DYSTAR AUXILIARIES GMBH                                       DANA RUTH BENTATA
+2006-000467   25  PINJOY¥S                                                     PINEDA ACOSTA HECTOR EDUARDO                                  PINEDA ACOSTA HECTOR EDUARDO
+2006-000516   28  QUINIELA INSTANTANEA                                         ARTIGAS RAMIREZ RAUL ENRIQUE                                  RAUL E ARTIGAS R
+2006-000519   16  QUINIELA EN LINEA                                            ARTIGAS RAMIREZ RAUL ENRIQUE                                  RAUL E ARTIGAS R
+2006-000520   28  QUINIELA EN LINEA                                            ARTIGAS RAMIREZ RAUL ENRIQUE                                  RAUL E ARTIGAS R
+2006-000521   16  QUINIELA ON LINE                                             ARTIGAS RAMIREZ RAUL ENRIQUE                                  RAUL E ARTIGAS R
+2006-000522   28  QUINIELA ON LINE                                             ARTIGAS RAMIREZ RAUL ENRIQUE                                  RAUL E ARTIGAS R
+2006-000539   10  STELLARIS                                                    BAUSCH & LOMB INCORPORATED                                    DIEGO BUSTILLOS BEINER
+2006-000540   10  ENVISTA                                                      BAUSCH & LOMB INCORPORATED                                    DIEGO BUSTILLOS BEINER
+2006-000545   25  KEVINGSTON                                                   DIEGO PABLO STERMAN STREET                                    MOLINA M JOSE LUIS
+2006-000558    9  SKYTECH                                                      SAAB NAIM YOUSSEF                                             NAIM YOUSSEF SAAB
+2006-000587   25  EMTEHOS                                                      ENTEHOS C.A.                                                  RONNY ECHETO
+2006-000588   25  ROHACH                                                       ECHETO FERNANDEZ, RONNY ALEXANDER                             RONNY ECHETO
+2006-000596   10  ECELIS                                                       JOHNSON & JOHNSON                                             QUINTERO PEREZ MARIA DEL ROSARIO
+2006-000628   11  MEMOIRS                                                      KOHLER CO.                                                    ALONSO BRICE∂O DELFINA
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2006-000638   11  CASA LIGHT                                                   CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-000639   21  PERFECT HOME                                                 CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-000640   21  HOME & HOUSE                                                 CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-000641   21  CASA PLUS                                                    CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-000642   21  CASA MODERNA                                                 CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-000643   24  CASA MODERNA                                                 CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-000644   14  CASA MODERNA KIDS                                            CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-000645   24  PLAYA & SOL                                                  CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-000646   24  SUN AND BEACH                                                CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-000647   24  MILANO LUXURY                                                CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-000651    9  VENEZUELADEMO                                                RAUL ABZUETA                                                  ENRIQUE J. CHEANG VERA
+                                                                               ALEJANDRO CALZADILLA
+2006-000657   33  PANGEA                                                       VI—A VENTISQUERO LIMITADA                                     ENRIQUE J. CHEANG VERA
+2006-000661    9  MEGAVOX                                                      SAAB NAIM YOUSSEF                                             NAIM YOUSSEF SAAB
+2006-000708   30  HOUSE MILL                                                   LASO S.A.                                                     MARIANELLA MONTILLA R
+2006-000718    5  ROLITEN                                                      RANBAXY LABORATORIES LIMITED                                  HILDANIA PANIZ
+2006-000719    5  VELDOM                                                       RANBAXY LABORATORIES LIMITED                                  HILDANIA PANIZ
+2006-000720   13  MILA                                                         YARA INTERNATIONAL ASA                                        BLANCO HERNANDEZ LUIS
+2006-000751   16  PROYECTO A                                                   CARIACO DIAZ JOSE G                                           HERNANDEZ DORTA SANDRA I.
+                                                                               GARCIA ALVAREZ JUAN C
+                                                                               OCHOA PEREZ JESUS A
+2006-000752    9  PROYECTO A                                                   CARIACO DIAZ JOSE G                                           HERNANDEZ DORTA SANDRA I.
+                                                                               GARCIA ALVAREZ JUAN C
+                                                                               OCHOA PEREZ JESUS A
+2006-000767   25  JOLUIS,S                                                     COFECCIONES JM C.A.                                           JAIMES GARCIA ALIDA MONGUI
+2006-000768   25  KENRA                                                        KENRA CONFECCIONES C.A.                                       HERNANDO BOADA GUTIERREZ
+2006-000776   33  MORATINA                                                     IMPORTADORA ITALVINI, C.A.                                    SARA CAROLINA SANCHEZ PARRA
+2006-000818   16  DEFIENDETE                                                   ARNOLDO E. BENITEZ C.                                         BOHORQUEZ, ISKRA
+                                                                               JOSE L. LEON S.
+                                                                               OSCAR E. BOHORQUEZ H.
+2006-000819   25  JOHN VARVATOS                                                JOHN VARVATOS APPAREL CORP                                    MANUEL POLANCO FERNANDEZ
+2006-000820    3  JOHN VARVATOS                                                JOHN VARVATOS APPAREL CORP                                    MANUEL POLANCO FERNANDEZ
+2006-000840    7  SUNNY                                                        ELIE KARIM EL ASMAR                                           ENRIQUE J. CHEANG VERA
+                                                                               JOSEPH GERGES EL CHABAB
+2006-000841    8  SUNNY                                                        ELIE KARIM EL ASMAR                                           ENRIQUE J. CHEANG VERA
+                                                                               JOSEPH GERGES EL CHABAB
+2006-000843   11  SUNNY                                                        ELIE KARIM EL ASMAR                                           ENRIQUE J. CHEANG VERA
+2006-000847   31  PRIMAVERA AZUL                                               COOPERATIVA PRIMAVERA AZUL R.L.                               DOROTHY MAURQUER B.
+2006-000848   30  PRIMAVERA AZUL                                               COOPERATIVA PRIMAVERA AZUL R.L.                               DOROTHY MAUQUER B.
+2006-000861    9  MOVIL TV IES                                                 ADMINISTRADORA DE MARCAS RD, S DE R.L DE C.V.                 LEOPOLDO MARQUEZ LEFELD
+2006-000865    9  RECARGAS IES                                                 ADMINISTRADORA DE MARCAS RD, S DE R.L DE C.V.                 LEOPOLDO MARQUEZ LEFELD
+2006-000868    9  IDEAS TELEVISION                                             ADMINISTRADORA DE MARCAS RD, S DE R.L. DE C.V.                LEOPOLDO MARQUEZ LEFELD
+2006-000877   14  RECTRUKE                                                     RETRUKE DESIGN, S.A.                                          OLEA ARIAS MAURICIO
+2006-000881    5  ACLAME                                                       MARYNES GARELLI                                               MARYNES GARELLI
+2006-000888    9  BIOFINITY                                                    COOPERVISION INTERNATIONAL HOLDING COMPANY LP                 MANUEL POLANCO FERNANDEZ
+2006-000900   24  FITCAR FERIA INTERNACIONAL DE TURISMO DE CARACAS             VENEZOLANA DE TURISMO VENETUR, S.A.                           FRANCISCO J. ACEVEDO S.
+2006-000901   25  FITCAR FERIA INTERNACIONAL DE TURISMO DE CARACAS             VENEZOLANA DE TURISMO VENETUR, S.A.                           FRANCISCO J. ACEVEDO S.
+2006-000936    5  SUTRA                                                        DR. REDDY¥S LABORATORIES LTD.                                 PRASHANT KHANDELWAL
+2006-000939    5  CANTAR                                                       DR. REDDY'S LABORATORIES. LTD.                                PRASHANT KHANDELWAL
+2006-000940    5  GLIMY                                                        DR. REDDY'S LABORATORIES. LTD.                                PRASHANT KHANDELWAL
+2006-000942    5  SUTRILNEO                                                    FERRER INTERNACIONAL, S.A.                                    BARRAGAN DE AGUILAR, MARIA THAMARA
+2006-000949   30  CLARIBEL                                                     GERMAN TORO AREVALO                                           LOPEZ CEGARRA JESUS ALBERTO
+2006-000956    5  EL ODOSE                                                     JOHNSON & JOHNSON                                             DE SOLA LANDER IRENE
+2006-000958    9  ACUVUE 2 MOIST                                               JOHNSON & JOHNSON                                             DE SOLA LANDER IRENE
+2006-001038    5  RESTINIL                                                     DR. LAZAR Y CIA S.A. QUIMICA E INDUSTRIAL                     ENRIQUE J. CHEANG VERA
+2006-001039    5  DIARIS                                                       THE LATIN AMERICA TRADEMARK CORPORATION                       ENRIQUE J. CHEANG VERA
+2006-001041   16  TRAZOS                                                       CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-001042   16  COLOR WORKS                                                  CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-001043   25  STI-9                                                        CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-001045   25  MOTO BOY                                                     CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-001048   25  MODERN LORD`S                                                CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-001049   25  OUTSTATIONS                                                  CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-001051   25  EXCLUSIVE                                                    CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-001052   25  MCGUIRE                                                      CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2006-001053   25  EXPOSE                                                       CASA MODERNA C.A.                                             ENRIQUE J. CHEANG VERA
+2006-001090    9  AERO                                                         MICROSOFT CORPORATION                                         DANA RUTH BENTATA
+2006-001093   29  COSTA DEL SOL                                                TANONI HERMANOS S.A.                                          GONZALEZ ZAMBRANO ARNALDO A.
+2006-001094   29  INDIGO                                                       TANONI HERMANOS S.A.                                          GONZALEZ ZAMBRANO ARNALDO A.
+2006-001098   25  CALZADOS RITY                                                CALZA NET, C.A.                                               DORADO FERNANDEZ, CARLOS RAFAEL
+2006-001102   33  SANGRIA EL ANGELUS                                           BARRIOS GENARO RAFAEL                                         GENARO R BARRIOS
+2006-001105   33  SANGRIA ANGELICAL                                            BARRIOS GENARO RAFAEL                                         GENARO R BARRIOS
+2006-001112   30  FANTOCHE                                                     PRODUCTOS LACTEOS LA ARGENTINA, C.A.                          GUSTAVO A ESPINOZA M
+2006-001113   29  FANTOCHE                                                     PRODUCTOS LACTEOS LA ARGENTINA, C.A.                          GUSTAVO A ESPINOZA M
+2006-001118   30  ANISETTES LA MARCONA                                         MOLINA Y CIA, C.A.                                            ARCILA SALGADO GUSTAVO
+2006-001123    3  DEFINITION                                                   JAFER LIMITED                                                 QUINTERO PEREZ MARIA DEL ROSARIO
+2006-001125    5  SEDEPRON                                                     PRODUCTOS FARMACEUTICOS, S.A. DE C.V.                         BARRAGAN DE AGUILAR, MARIA THAMARA
+2006-001126    5  MIKETOS                                                      PRODUCTOS FARMACEUTICOS, S.A. DE C.V.                         BARRAGAN DE AGUILAR, MARIA THAMARA
+2006-001130    5  NUFLOR GOLD                                                  SCHERING CORPORATION                                          ALONSO BRICE∂O DELFINA
+2006-001145    9  PRODUCTION HOPPER                                            BP P.L.C.                                                     ALONSO BRICE∂O DELFINA
+2006-001148    5  OBVINAR                                                      SCHERING AKTIENGESELLSCHAFT                                   ALONSO BRICE∂O DELFINA
+2006-001149    5  VERISMO                                                      BASF AKTIENGESELLSCHAFT                                       NEBREDA MARIA MILAGROS
+2006-001154    3  KERALIGHT                                                    L`OREAL                                                       DIEGO BUSTILLOS BEINER
+2006-001160    7  VCR                                                          SWAGELOK COMPANY                                              FRANCISCO PAZ PARRA
+2006-001161    8  VCR                                                          SWAGELOK COMPANY                                              FRANCISCO PAZ PARRA
+2006-001185   30  BIG TASTY                                                    MCDONALD¥S INTERNATIONAL PROPERTY COMPANY, LTDA.              VALLINA GRISANTI MANUEL
+2006-001191   25  ONE PASS                                                     ELIAS MARKAR CHAWA                                            ELIAS MARKAR CHAWA
+2006-001195    3  FHASINACIONES ELINER                                         CONFECCIONES Y DISE—OS ROCAPENIEL, C.A.                       ROJAS RODRIGUEZ ELISSELS SONSIRRE
+2006-001196    3  KONKER                                                       ENVASES CARACAS, C.A.                                         JUDITH CASTILLO URIBE
+2006-001218   29  DONA DA CASA                                                 M. DIAS BRANCO INDUSTRIA E COMERCIO DE ALIMENTOS LTDA -DI***  TERRERO PLANCHAT MARIA ELENA
+2006-001235   16  CON TU CUERPO                                                SERGIO VILLAR FISAS                                           ASUAJE CRESPO CARLOS
+2006-001242   10  PEDESTAL                                                     ABBOTT LABORATORIES                                           EZAGUI SPRITZER JAIME R.
+2006-001243    3  VALEBRON                                                     VALEBRON & CIA C.A.                                           MEDINA BAPTISTA ANTONIO JOSE
+2006-001244    5  VALEBRON                                                     VALEBRON & CIA C.A.                                           MEDINA BAPTISTA ANTONIO JOSE
+1991-020079   48  SOPROLE                                                      SOC. PRODUCTORES DE LECHE S.A.                                MARIA ANA MONTIEL  SALAS.
+1991-020080   46  SOPROLE                                                      SOC. PRODUCTORES DE LECHE S.A.                                MARIA ANA MONTIEL SALAS
+1991-020081   45  SOPROLE                                                      SOC. PRODUCTORES DE LECHE S.A.                                MARIA ANA MONTIEL SALAS.
+1993-019248   31  FLORIDA SUNSHINE BEVERAGES                                   DAVID DARIO MANTELLINI PERERA                                 DAVID DARIO MANTELLINI PERERA
+1993-021995   17  PERFLEX                                                      PERFLEX C.A.                                                  GIOVANNI MARINUZZI
+1994-002671   16  CLUB DE JUBILADOS Y PENSIONADOS MASTERCARD                   PEDRO ELIAS GIL PINO                                          PEDRO ELIAS GIL PINO
+1994-010462   30  FESTIVAL VAINILLA                                            INDUSTRIAS ALIMENTICIAS NOEL S.A.                             DA ENCARNACAO MARGARIDA
+1994-010493   25  ARNEL                                                        DISE∂OS ARNEL, C.A.                                           FIGALLO BARVUZANO HECTOR LUIS
+1995-002003    5  TEXMED                                                       TEXMED, C.A.                                                  BENIS ORLANDO VETTESE
+1995-002819    8  CLABER                                                       SERPA AGRICOLA C.A.                                           JOSE MANUEL CARRASCOSA URQUIJO
+1995-012248   12  AZIMUT                                                       AZIMUT BENETTI S.P.A.                                         BENTATA GABRIEL
+1995-012827   31  SHEBA                                                        MARS INCORPORATED.                                            ALONSO BRICE∂O DELFINA
+1995-013879   30  MIEL PROPOLEO                                                ALIMENTOS LA INTEGRAL C.A.                                    COHEN YISSACGHAR, MERY
+1995-015080    3  QUIMI-BRAS                                                   JUAN DOMINGO DIAZ SANCHEZ                                     OMAIRA TRUJILLO MORA
+1995-016346   25  FRESH LINE                                                   FRESH LINE                                                    RAUL JOSE PAZ FERNANDEZ
+1997-006625   32  MARATHON                                                     FRATELLI VITA BEBIDAS LTD                                     BENTATA GABRIEL
+1997-011548   16  UBS                                                          SCHWEIZERISCHE BANKGESELLSCHAFT                               DANA RUTH BENTATA
+1997-011549   14  UBS                                                          SCHWEIZERISCHE BANKGESELLSCHAFT                               DANA RUTH BENTATA
+1997-011550    9  UBS                                                          SCHWEIZERISCHE BANKGESELLSCHAFT                               DANA RUTH BENTATA
+1997-021220   16  AMETEK                                                       AMETEK, INC.                                                  LINARES ROA LISSETTE Y.
+1997-025933   29  CAMPOFRIO                                                    CAMPOFRIO ALIMENTACION, S.A.                                  NEBREDA MARIA MILAGROS
+1998-000938   16  F.V.I. FONDO DE VALORES INMOBILIARIOS                        FVI FONDO DE VALORES INMOBILIARIOS C.A.                       NEBREDA MARIA MILAGROS
+1998-008576    3  OPTIM'AGE                                                    LANCOME PARFUMS ET BEAUTE & CIE                               CORIAT ALAIN
+1998-009170    5  PROMIRA                                                      BAYER AKTIENGESELLSCHAFT                                      VITKOU FISCHER RICARDO PATRICK
+1999-002605   30  "SALSA DE AJI DULCE"                                         ALIMENTOS BERRIOS C.A. (ALBECA)                               ALIMENTOS BERRIOS C.A.
+1999-002832   30  CHOCOMELHER                                                  MELHER, SOCIEDAD ANONIMA DE CAPITAL VARIABLE                  HOET LINARES FRANKLIN
+1999-002834   30  CHOCONUTS                                                    MELHER, SOCIEDAD ANONIMA DE CAPITAL VARIABLE                  HOET LINARES FRANKLIN
+1999-006577    1  NUTRI- K                                                     AGRO-ISLE—A, C.A., SUCESORA DE ENRIQUE FRAGA AFONSO           RAFAEL GUANCHE
+1999-007025    5  COLESTATIN                                                   HEALTHCO LIMITED                                              GIOVANNI DI VENERE
+1999-007071   16  EL TUNEL DEL TIEMPO                                          RAFAEL SYLVA MORENO                                           ENRIQUE J. CHEANG VERA
+1999-010464   30  POP BOX                                                      THE PROCTER & GAMBLE COMPANY                                  DIEGO BUSTILLOS BEINER
+1999-016938   21  SUPER FLEX                                                   SURAMERICANA DE REVESTIMIENTO SURECA SUCESORA, C.A.           JOSE MANUEL CARRASCOSA
+1999-017247   16  PARALELOS                                                    PRODUCCIONES ANIMECE C.A.                                     HAZEL REJON CABRERA
+1999-018308    3                                                               BEATUTE PRESTIGE INTERNATIONAL S.A.                           DANA RUTH BENTATA
+                                                         Total de Solicitudes : 1066

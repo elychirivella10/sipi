@@ -1,0 +1,18 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Consulta Interna|consultamarcas/indexfull.php
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Consultas y Reportes
+...| Cronolog&iacute;a|patentes/p_rptpcronol.php
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+..| Crear Nuevo Bolet&iacute;n Ord/Ext|boletin/b_ingreso.php?vopc=3&conx=2&salir=1
+..| Crear Nuevo Bolet&iacute;n|boletin/b_newbol.php?vopc=3&conx=2&salir=1
+..| Modificar  Bolet&iacute;n Ord/Ext|boletin/b_ingreso.php?vopc=5&conx=2&salir=1
+..| Modificar  Bolet&iacute;n|boletin/b_newbol.php?vopc=5&conx=2&salir=1
+..| Generar Bolet&iacute;n Nacional|boletin/b_genbol.php?vopc=5
+..| Generar Bolet&iacute;n Extranjero|boletin/b_genbole.php?vopc=5
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

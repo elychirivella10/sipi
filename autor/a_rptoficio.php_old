@@ -1,0 +1,172 @@
+<?php
+//Para trabajar con Operaciones de Bases de Datos
+include ("../setting.inc.php");
+
+//Llamada al PDF
+define('FPDF_FONTPATH',$root_path.'/font/');
+//require ("$include_path/fpdf.php");
+
+ob_start();
+include ("../z_includes.php");
+
+require ("$include_lib/PDF_tablesep.php");
+
+if (($_SERVER['HTTP_REFERER'] == "")) {
+  echo "Acceso Indebido";
+  exit(); }
+
+//Variables de sesion
+$login = $_SESSION['usuario_login'];
+$role = $_SESSION['usuario_rol'];
+$sql  = new mod_db();
+$fecha   = fechahoy();
+
+//Encabezados de Pantallas
+$smarty->assign('titulo','Sistema de Derecho de Autor');
+$smarty->assign('subtitulo','Oficios de Observacion');
+$smarty->assign('login',$login);
+$smarty->assign('fechahoy',$fecha);
+$smarty->display('encabezado1.tpl');
+
+//Conexion
+$sql->connection($login);
+
+//Validacion de Entrada
+$vsol1=$_POST["vsol1"];
+$vsol2=$_POST["vsol2"];
+$nconex = $_POST['nconex'];
+
+// Verificacion de que los campos requeridos esten llenos...
+  $req_fields = array("vsol1","vsol2");
+  $valores = array($vsol1,$vsol2);
+  $vacios = check_empty_fields();
+  if (!$vacios) { 
+     mensajenew("Hay Informacion asociada que esta Vacia ...!!!","javascript:history.back();","N");
+     $smarty->display('pie_pag.tpl'); exit(); }
+
+if ($vsol1 > $vsol2) { 
+    mensajenew('Rango de solicitudes erroneo ...!!!','javascript:history.back();','N');
+    $smarty->display('pie_pag.tpl'); $sql->disconnect(); exit(); }
+
+ //Query para buscar las opciones deseadas para oficio de forma
+ if(!empty($vsol1) and !empty($vsol2) and ($vsol1!='000000') and ($vsol2!='000000')) { 
+   $resultado=pg_exec("SELECT stdobras.nro_derecho, stdobras.solicitud, stdobras.titulo_obra, stdobras.tipo_obra 
+   			FROM stdobras
+   			WHERE ((stdobras.solicitud >='$vsol1') and (stdobras.solicitud <='$vsol2'))
+   			AND stdobras.estatus in (3,7)
+   			ORDER BY stdobras.solicitud");
+ }
+
+//verificando los resultados
+if (!$resultado)  { 
+    mensajenew('ERROR AL PROCESAR LA BUSQUEDAD ...!!!','javascript:history.back();','N');   
+    $smarty->display('pie_pag.tpl'); $sql->disconnect(); exit(); }
+
+$filas_found=pg_numrows($resultado); 
+if ($filas_found==0)  {
+    mensajenew('NO EXISTEN DATOS ASOCIADOS ...!!!','javascript:history.back();','N');   
+    $smarty->display('pie_pag.tpl'); $sql->disconnect(); exit();  } 
+
+//Incio de la Clase de PDF 
+$smarty->assign('n_conex',$nconex); 
+
+//Inicio del Pdf
+$pdf=new PDF_Table('P','mm','Letter');
+$pdf->Open();
+$pdf->AddPage();
+$pdf->AliasNbPages();
+$pdf->SetFont('Arial','B',9);
+
+for($cont=0;$cont<$filas_found;$cont++)   { 
+   $reg = pg_fetch_array($resultado);
+   $varsol=$reg['solicitud'];
+   $nderec=$reg['nro_derecho'];
+
+   $pdf->MultiCell(0,4,'REPUBLICA BOLIVARIANA DE VENEZUELA',0,1,'L');
+   $pdf->MultiCell(0,4,'MINISTERIO DEL PODER POPULAR PARA EL COMERCIO',0,1,'L');
+   $pdf->MultiCell(0,4,'SERVICIO AUTONOMO DE LA PROPIEDAD INTELECTUAL',0,1,'L');
+   $pdf->MultiCell(0,4,'DIRECCION NACIONAL DEL DERECHO DE AUTOR',0,1,'L');
+   $pdf->MultiCell(0,4,'REGISTRO DE LA PRODUCCION INTELECTUAL',0,1,'L');
+
+// Encabezado del pdf
+    $pdf->ln(4);
+    $pdf->SetFont('Arial','B',9);
+    $pdf->MultiCell(198,4,utf8_decode('OFICIO DE DEVOLUCIÓN SOLICITUD No.:  ').$reg['solicitud'],0,'R',0);
+    $pdf->SetFont('');
+// Busqueda del Solicitante
+    $resul_sol=pg_exec("SELECT stzsolic.nombre FROM stzsolic,stdobsol WHERE  stdobsol.nro_derecho = '$nderec' and stzsolic.titular = stdobsol.titular ");
+    $regis = pg_fetch_array($resul_sol);
+    $pdf->ln(2);
+    $pdf->Cell(115,4,'CIUDADANO(A): '.utf8_decode($regis['nombre']),0,1);
+    $pdf->MultiCell(198,4,'TITULO DE LA OBRA:  '.utf8_decode($reg['titulo_obra']),0,'L',0);
+    $pdf->SetFont('Arial','',9);
+    $pdf->ln(4);
+
+    
+//Cuerpo del pdf  
+//    $pdf->MultiCell(198,5,utf8_decode('     Esta autoridad administrativa fundamentada en el artículo 1 de la Ley Orgánica de Procedimientos Administrativos (L.O.P.A.), una vez practicado el examen correspondiente a la solicitud en referencia, decide de conformidad con lo establecido en el articulo 5 y 64 (eiusdem), y con los artículos 39, al 52, y 55 al 57 del Reglamento de la Ley sobre el Derecho de Autor, devolver dicha solicitud, a los fines de que el interesado se sirva subsanar las omisiones señaladas con una X en el presente oficio.'),0,'J',0);
+    $pdf->MultiCell(198,5,utf8_decode('     Esta autoridad administrativa fundamentada en el artículo 1 de la Ley Orgánica de Procedimientos Administrativos (L.O.P.A.), una vez practicado el examen correspondiente a la solicitud en referencia, decide de conformidad con lo establecido en el articulo 5 y 64 (eiusdem), y con los artículos 39, al 52, y 55 al 57 del Reglamento de la Ley sobre el Derecho de Autor, devolver dicha solicitud, a los fines de que el interesado se sirva subsanar las omisiones señaladas en el presente oficio.'),0,'J',0);
+    $pdf->SetFont('Arial','B',9);
+
+    $pdf->ln(1);
+    $res_des=pg_exec("SELECT  a.nro_derecho,b.*
+ 			  FROM stdobras a,  stdcaded b
+ 			  WHERE b.nro_derecho = '$nderec' 
+			  AND b.nro_derecho= a.nro_derecho  
+ 			  ORDER BY b.cod_causa");
+
+    $filas_found1= pg_numrows($res_des); 
+    $regdes = pg_fetch_array($res_des);
+
+    $res_coded=pg_exec("SELECT * FROM stdcoded order by cod_causa");
+    $filas_coded= pg_numrows($res_coded);
+    $reg_coded = pg_fetch_array($res_coded);
+
+    $pdf->ln(5);
+    
+    for ($j=0; $j<$filas_coded; $j++) {
+         if ($reg_coded['cod_causa'] == $regdes['cod_causa']) {
+		//$pdf->MultiCell(198,6,$reg_coded['cod_causa'].') '.utf8_decode($reg_coded['desc_causa'].' (X)'),0,'J',0);
+          $pdf->MultiCell(198,6,'- '.utf8_decode($reg_coded['desc_causa']),0,'J',0);
+	        $regdes = pg_fetch_array($res_des);
+ 	 }
+	 //else {
+	 //	$pdf->MultiCell(198,6,$reg_coded['cod_causa'].') '.utf8_decode($reg_coded['desc_causa'].' ( )'),0,'J',0); }
+
+        $reg_coded = pg_fetch_array($res_coded);
+     }
+
+    $res_otros=pg_exec("SELECT * FROM stdotrde WHERE nro_derecho = '$nderec'");
+    $filas_otros= pg_numrows($res_otros);
+
+    // Busqueda de Causa de Devolucion (otros) 
+    if ($filas_otros==0) {
+                           //$pdf->MultiCell(198,6,utf8_decode(($filas_coded+1).') Otros: '),0,'J',0);
+    }
+    else { 
+        $regotr = pg_fetch_array($res_otros);
+	//$pdf->MultiCell(198,6,utf8_decode(($filas_coded+1).') Otros: '.$regotr['otros']),0,'J',0); }
+     $pdf->MultiCell(198,6,utf8_decode('- '.$regotr['otros']),0,'J',0); }
+
+//Nota al pie
+    $pdf->ln(3);
+    $pdf->SetFont('Arial','',9);
+    $pdf->MultiCell(198,5,utf8_decode('Se le notifica que de no cumplir con los requisitos exigidos en el presente oficio,dentro del plazo de dos (2) meses, contados a partir de la notificacion al interesado, operara la perención del procedimiento, de conformidad con lo establecido en el articulo 64 de la Ley Orgánica de Procedimientos Administrativos.'),0,'J',0);
+   $pdf->SetFont('');
+   $pdf->SetFont('Arial','',10);
+    $pdf->ln(20);
+   $pdf->MultiCell(115,4,'Recibido Por: ',0,'R',0);
+   $pdf->MultiCell(115,4,'C.I.No.: ',0,'R',0);
+   $pdf->MultiCell(115,4,'Fecha: ',0,'R',0);
+   $pdf->SetFont('Arial','B',10);
+   $pdf->MultiCell(95,4,'     El Coordinador',0,'L',0);
+ 
+   if  ($cont+1!=$filas_found) {$pdf->AddPage();}
+ }
+
+//Desconexion a la base de datos
+$sql->disconnect();
+ob_end_clean(); 
+$pdf->Output();
+
+?>

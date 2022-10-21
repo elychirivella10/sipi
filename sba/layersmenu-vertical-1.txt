@@ -1,0 +1,17 @@
+.|Inicio|index.php|Ir a la Pagina Principal||| 
+.|B&uacute;squedas||Tipos de B&uacute;squedas|Tipos de B&uacute;squedas Existentes|||
+..|Por Titulo|index.php|Por texto simple|||
+..|Por Solicitud|index.php|Ver una Solicitud de Patente|||
+..|Por Titular|index.php|Ver por Titular o Propietario las Patentes||
+..|Por Clasificaci&oacute;n|index.php|Clasificaci&oacute;n Internacional de las Patentes||
+..|Por Locarno|blocarno.php|Clasificaci&oacute;n Locarno de las Patentes||
+..|Por Resumen|bresumen.php|B&uacute;squeda por texto en el Resumen||
+..|Por Inventor|binventor.php|B&uacute;squeda por Inventor de la Patente||
+..|Por Prioridad|bprioridad.php|B&uacute;squeda por Prioridad||
+..|Por Tramitante|btramitante.php|B&uacute;squeda por Tramitante||
+..|Por Registro|bregistro.php|B&uacute;squeda por N&uacute;mero de Registro||
+..|Por Fecha Presentaci&oacute;n|bfechapre.php|B&uacute;squeda por fecha de Presentaci&oacute;n||
+..|Por Fecha Publicaci&oacute;n|bfecha.php|B&uacute;squeda por fecha de Publicaci&oacute;n||
+..|Por Pa&iacute;s|bpais.php|Por Nombre de Pa&iacute;s|||
+..|Combinada|bcompleja.php|B&uacute;squeda Avanzada de Patentes||
+.|Salir|../index1.php|Ir al Menu Principal||| 

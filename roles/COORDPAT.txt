@@ -1,0 +1,104 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Carga de Solicitudes
+...| Modificar Solicitud (LPI 55)|patentes/p_infosol.php?vopc=4
+..| Datos T&eacute;cnicos
+...| Actualizaci&oacute;n|patentes/p_datostecj.php
+...| Palabras Claves|patentes/p_pclaves.php
+..|---
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+...| Evento Publicaci&oacute;n en Prensa|patentes/p_eveper.php?vopc=4
+...| Examen de Forma
+....| Devoluciones|patentes/p_devoluci.php
+....| Cambio de Bolet&iacute;n para Notificar Devoluci&oacute;n|patentes/p_boldev.php
+...| Registro
+....| Asignar Nro Registro Individual|patentes/p_regsolp.php
+....| Asignar N&uacute;mero de Registro Manual|patentes/p_regsole.php
+....| Modificaci&oacute;n de Registros|patentes/p_infosol.php?vopc=6
+..|---
+..| Prensa Digital
+...| Actualizar Publicacion en Prensa Patentes|patentes/p_actualprensa.php
+..|---
+..| Control de Anualidades
+...| Carga de Anualidades|patentes/p_anualidad.php
+..|---
+..| Anotaciones Marginales
+...| Cesiones, Fusiones y Cambios de Titular|patentes/p_amcesion.php
+...| Cambios de Domicilio del Titular|patentes/p_amcamdom.php
+...| Licencias de Uso|patentes/p_amlicuso.php
+...| Devoluciones|patentes/p_devanota.php
+...| Oficios de Devolucion|patentes/p_rptdevam.php
+..|---
+..| B&uacute;squeda
+...| T&eacute;cnica|sbp/index.php
+...| Peticionario o Solicitante|
+....| Cargar|patentes/p_peticio.php?conx=1&salir=1
+....| Reporte|patentes/p_rptppeticio.php?conx=1&salir=1
+..|---
+..| Bolet&iacute;n
+...| Aplicaci&oacute;n Evento 30 en Lote|patentes/p_ev30pub.php
+...| Patentes sin Consignaci&oacute;n de Publicaci&oacute;n en Prensa a Perimir x Rango|patentes/p_perisol.php
+...| Patentes sin Consignaci&oacute;n de Publicaci&oacute;n en Prensa a Perimir x Boletin|patentes/p_peribol.php
+...| Patentes Abandonadas por Falta de Pago por Bolet&iacute;n Vencido|patentes/p_cadubol.php
+...|---
+...| Generaci&oacute;n de Datos|patentes/p_bolgenar.php
+...| Edici&oacute;n de Datos Generados|patentes/p_bolediar.php
+...|---
+...| Verificaci&oacute;n Anotaciones Marginales|patentes/p_bolveram.php
+...|---
+...| Generaci&oacute;n de Archivos y Listados
+....| Listados|patentes/p_rptplisbol.php?conx=1&salir=1
+....| Listado de Orden de Publicacion|patentes/p_rptpordepub.php?conx=1&salir=1
+....| Listado de Patentes de Rehabilitaci&oacute;n|patentes/p_rptprehab.php?conx=1&salir=1
+..|---
+..| Certificado Electr&oacute;nico
+...| Generacion de Certificado|patentes/p_gencertif.php?vopc=1
+...| Enviar Certificados para la firma|comun/z_enviarcert_pat.php?vopc=1
+...| Consulta de Certificado Electr&oacute;nico|patentes/p_rptpcertep.php?vopc=1
+..|---
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Cronolog&iacute;a|patentes/p_rptpcronol.php
+...| Consulta Interna|consultapatentes/indexi.php
+...| Consulta Abierta|patentes/p_rptpcona.php
+...| Administrativos|
+....| Solicitudes Presentadas|patentes/p_rptpsolpre.php?conx=1&salir=1
+....| Solicitudes Presentadas formato Boletin|patentes/pb_rptpsolpre.php
+....| Oficios de Devoluci&oacute;n|patentes/p_rptpoficio.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php
+.....| Por Listados Varios x Registro|patentes/p_rptpavztra_r.php
+.....| Por Transacciones|patentes/p_rptpavztra.php
+.....| Por Transacciones x Reg.|patentes/p_rptpavztra_reg.php
+.....| Anualidades|patentes/p_rptpanual.php?conx=1&salir=1
+....| Memoria Descriptiva Digitalizadas|patentes/p_rptpsidig.php
+....| Memoria Descriptiva No Digitalizadas|patentes/p_rptpnodig.php
+....|---
+....| Tablas|||
+.....| Status Administrativos|patentes/p_rptestatus.php
+.....| Eventos|patentes/p_rptevento.php
+.....| Paises|marcas/m_rptpais.php
+...| Certificados|
+....| Generar|patentes/p_rptpcertp.php
+..|---
+..| Estadisticas||Estadisticas de Patentes|
+...| Todas las Publicaciones de un Boletin|patentes/p_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|patentes/p_est_tpuxbol.php?vopc=0
+...| Relaci&oacute;n: (Concesi&oacute;n-Pago) por Boletines|patentes/p_est_rconpag.php?vopc=0
+...| Relaci&oacute;n: (Orden Pub.Prensa-Pago) por Boletines|patentes/p_est_rordpag.php?vopc=0
+...|---
+...| Presentadas por A&ntilde;o |patentes/p_est_prexmes.php?vopc=0
+...| Examinadas Fondo/Forma por A&ntilde;o (Eventos:28,29,51,52,53,56,59)|patentes/p_est_exaxmes.php?vopc=0
+...| Registradas por a&ntilde;o|patentes/p_est_regxmes.php?vopc=0
+...|---
+...| Por Estatus en tipos de Patentes|patentes/p_est_estatus.php?vopc=0
+...| Transacciones por Evento/Usuarios|patentes/p_est_usuxmes.php?vopc=0
+.| Ind. Geogr&aacute;ficas||Sistema de Indicaciones Geogr&aacute;ficas|folder.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

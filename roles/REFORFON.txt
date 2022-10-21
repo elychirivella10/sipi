@@ -1,0 +1,63 @@
+.| Salir|aut_logout.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Modificaci&oacute;n de Solicitudes
+...| Modificar Solicitud|marcas/m_infosol.php?vopc=4
+...| Modificaci&oacute;n de Distingue|marcas/m_modprod.php?vopc=4
+...| Modificaci&oacute;n de Etiqueta|marcas/m_modetiqueta.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_pantevent.php
+...| Examen de Forma
+....| Devoluciones (LPI 55) Formato VIEJO|marcas/m_devoluci56.php
+....| Modificaci&oacute;n de Devoluciones (LPI 55) Formato VIEJO|marcas/m_devoluci56_mod.php
+....|---
+....| Devoluci&oacute;n (LPI 55) NUEVO FORMATO|marcas/m_devoluci56n.php
+....| Modificaci&oacute;n de Devoluciones (LPI 55) NUEVO FORMATO|marcas/m_devoluci56nf_mod.php
+....|---
+....| Reingresos|marcas/m_infosol.php?vopc=5
+...| Examen de Fondo
+....| Devoluciones|marcas/m_devfondo.php
+....| Examen de Fondo (LPI)|marcas/m_exfon55.php?conx=1&salir=1
+....| Negaciones (LPI 55)|marcas/m_negacion56.php
+..|---
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexfull.php
+...| Consulta Decisi&oacute;n Forma/Fondo|consultamarcas/indexforfon.php
+...| Poderes|marcas/m_cpoderes.php?opc=12
+...| Expediente Electr&oacute;nico|expediente/m_rptpexp.php
+...| Administrativos|
+....| Solicitudes Presentadas|marcas/m_rptpsolpre.php?conx=1&salir=1
+....| Solicitudes por Estatus formato Boletin|marcas/mb_rptpsolpre.php
+....| Oficios de Devoluci&oacute;n (LPI 55) Formato Anterior|marcas/m_rptpoficio55.php?conx=1&salir=1
+....| Oficios de Devoluci&oacute;n (LPI 55) NUEVO FORMATO|marcas/m_rptpoficio55nf.php?conx=1&salir=1
+....| Oficios de Devoluci&oacute;n Fondo (LPI 55) VIEJO FORMATO|marcas/m_rptpofifon55.php?conx=1&salir=1
+....| Listados de Marcas Concedidas con Titulares a Caducar|marcas/m_rptm400bol.php
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri_nom.php?conx=1&salir=1
+.....| Por Criterio Lemas (Est.104/Comentario)|marcas/m_rptpavzcri_lemas.php
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php?conx=1&salir=1
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php?conx=1&salir=1
+.....| Listados con Titulares|marcas/m_rptpavzda.php?conx=1&salir=1
+..|---
+..| Estadisticas||Estadistidicas de Marcas|
+...| Todas las Publicaciones de un Boletin|marcas/m_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|marcas/m_est_tpuxbol.php?vopc=0
+...| Relaci&oacute;n: (Concesi&oacute;n-Pago) por Boletines|marcas/m_est_rconpag.php?vopc=0
+...|---
+...| Presentadas por a&ntilde;o|marcas/m_est_prexmes.php?vopc=0
+...| Examinadas Fondo/Forma por A&ntilde;o (Eventos:51,52,53,54)|marcas/m_est_exaxmes.php?vopc=0
+...| Registradas por a&ntilde;o|marcas/m_est_regxmes.php?vopc=0
+...|---
+...| Por Estatus en tipos de Marcas|marcas/m_est_estatus.php?vopc=0
+...| Transacciones por Evento/Usuarios|marcas/m_est_usuxmes.php?vopc=0
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Consultas y Reportes
+...| Consulta Interna|consultapatentes/indexi.php
+.| Ind. Geogr&aacute;ficas||Sistema de Indicaciones Geogr&aacute;ficas|folder.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|configuration.png
+..| Cambio de Clave de Acceso|comun/z_modpass.php

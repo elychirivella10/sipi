@@ -1,0 +1,66 @@
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2000-015393   LC  LA NUEVA FORMA DE COMER ITALIANO                             CARGILL DE VENEZUELA, C.A.                                    FUNG MOO PIC-LING
+2000-020177   LC  EL HELADO DEL FUTURO                                         PRODUCTOS EFE, S.A.                                           AYALA CHERUBINI BEATRIZ CAROLINA
+2001-015269   LC  MULTIZONES                                                   THOUSAND ACRES CORP.                                          NEBREDA MARIA MILAGROS
+2001-017843   LC  EL GRAN MERCADO DE MAYORISTAS                                DESARROLLOS MERCAYAG, C.A.                                    MATTHIAS MONECKE
+2002-015520   LC  PURO TEX-MEX                                                 CARLOS RAFAEL BRACHO DIAZ                                     CARLOS R. BRACHO
+2002-016756   LC  WHISKAS: 8 DE CADA 10 GATOS PREFIEREN WHISKAS                MARS, INCORPORTED                                             ALONSO BRICE¶O DELFINA
+2003-002429   LC  EL PODER EN SUS COMIDAS                                      ALCALA ZABALA, RENE A.                                        SCHILLING ENRIQUE ROMULO
+2003-004740   LC  ENTRE 2 ES MAS FACIL                                         BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2003-004741   LC  ENTRE 2 ES MAS FACIL                                         BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2003-004760   LC  ES TIEMPO DE RITZ                                            KRAFT FOODS HOLDINGS, INC.                                    EZAGUI SPRITZER JAIME R.
+2003-005581   LC  AL QUE SIEMPRE LLAMAS                                        BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2003-005584   LC  AL QUE SIEMPRE LLAMAS                                        BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2003-005685   LC  SIM CARD... TU CHIP INTELIGENTE                              BANESCO BANCO UNIVERSAL, C.A                                  MONSERRATT EDGAR JAVIER
+2003-005688   LC  SIM CARD... TU CHIP INTELIGENTE                              BANESCO BANCO UNIVERSAL, C.A                                  MONSERRATT EDGAR JAVIER
+2003-005689   LC  SIM CARD... TU CHIP INTELIGENTE                              BANESCO BANCO UNIVERSAL, C.A                                  MONSERRATT EDGAR JAVIER
+2003-005691   LC  SIM CARD... TU CHIP INTELIGENTE                              BANESCO BANCO UNIVERSAL, C.A                                  MONSERRATT EDGAR JAVIER
+2003-005692   LC  SIM CARD... TU CHIP INTELIGENTE                              BANESCO BANCO UNIVERSAL, C.A                                  MONSERRATT EDGAR JAVIER
+2003-005694   LC  SIM CARD... TU CHIP INTELIGENTE                              BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2003-005695   LC  SIM CARD... TU CHIP INTELIGENTE                              BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2003-005696   LC  SIM CARD... TU CHIP INTELIGENTE                              BANESCO BANCO UNIVERSAL C.A.                                  MONSERRATT EDGAR JAVIER
+2003-005697   LC  SIM CARD... TU CHIP INTELIGENTE                              BANESCO BANCO UNIVERSAL, C.A                                  MONSERRATT EDGAR JAVIER
+2003-005698   LC  SIM CARD... TU CHIP INTELIGENTE                              BANESCO BANCO UNIVERSAL, C.A                                  MONSERRATT EDGAR JAVIER
+2003-006612   LC  PIEZAS SELECCIONADAS                                         THE EAST ASIATIC CO. LTD. A/S (A/S DET OSTASIATISKE KOMPAGNI  BENTATA KAREL
+2003-006613   LC  CALIDAD ARTESANAL                                            THE EAST ASIATIC CO. LTD A/S (A/S DET OSTASIATISKE KOMPAGNI)  BENTATA KAREL
+2003-014777   LC  SOLO UNO ES EL CONCRETO PROFESIONAL                          CEMEX, S.A. DE C.V.                                           MANUEL POLANCO FERNANDEZ
+2003-014778   LC  PISO DIGNO                                                   CEMEX, S.A. DE C.V.                                           MANUEL POLANCO FERNANDEZ
+2003-014957   LC  SPECIALIST IN THE ART OF TRAVEL                              VIRTUOSO, LTD.                                                HOET MACHADO PATRICIA A
+2003-016540   LC  JAZZMANIA 105.7 FM  MUSICA PARA PUERTO LA CRUZ               INVERSIONES JAZZMANIA MUSIC C.A.                              FRANCISCO J. ACEVEDO S.
+2003-016541   LC  JAZZMANIA 97.3 FM  MUSICA PARA LA GRAN CARACAS               INVERSIONES JAZZMANIA MUSIC C.A.                              FRANCISCO J. ACEVEDO S.
+2004-002182   LC  SIEMPRE HAY UN PALACIO CERCA DE USTED                        EL PALACIO DEL BLUMER INTERNACIONAL, C.A.                     JOSE NICOLAS DUQUE GIRALDO
+2004-005208   LC  CLUB SOCIAL. . VIVE EL DIA A TU RITMO                        KRAFT FOODS HOLDINGS, INC.                                    EZAGUI SPRITZER JAIME R.
+2004-006084   LC  ELEVA TUS DEFENSAS                                           MEGAT HOLDINGS LLC.                                           BARRAGAN DE AGUILAR, MARIA THAMARA
+2004-006651   LC  CUARTO PERFIL. .PA' ENCIMA Y COMO ES?                        EDGAR ALEXANDER DIAZ G.                                       EDGAR ALEXANDER DIAZ G.
+2004-007897   LC  EL FRAILE. . ILUMINANDO LA FE DESDE 1944                     INVERSIONES PARAVELAS, C.A.                                   MELENA MEDINA FERNANDO
+2004-007933   LC  PANADERIA Y PASTELERIA SAN DIEGO. .COMPRE MAS GASTANDO MENOS AUTOMERCADOS SAN DIEGO C.A.                                   GUANCHE RAFAEL ERNESTO
+2004-009684   LC  OREO                                                         KRAF FOODS HOLDINGS, INC.                                     EZAGUI SPRITZER JAIME R.
+2004-014595   LC  Y A TI ¿QUE TE DA TU MAMI?                                   CARGILL DE VENEZUELA, S.R.L.                                  HERNANDEZ RICARDO ANTEQUERA
+2004-015896   LC  EL GUSTO QUE UNE A LA FAMILIA                                CARGILL DE VENEZUELA, S.R.L.                                  ANTEQUERA H. RICARDO E.
+2004-016115   LC  LIMPIEZA INSUPERABLE                                         DETERGENTES CARACAS C.A.                                      FILIPPO MEROLA
+2004-017677   LC  LA MEJOR COSTILLA                                            INDUSTRIAS IBERIA, C.A.                                       BARRAGAN DE FIGUEROA AURA
+2004-018168   LC  VIVE A PLENITUD Y DISFRUTA CON RESPONSABILIDAD EVITA EL EXCE (CELIVECA) CENTRAL DE LICORES UNIDOS DE VENEZUELA C.A.        JOSE C. ALVAREZ
+2004-018169   LC  VIVE A PLENITUD Y DISFRUTA CON RESPONSABILIDAS EVITA EL EXCE (CELIVECA) CENTRAL DE LICORES UNIDOS DE VENEZUELA C.A.        JOSE C. ALVAREZ
+2004-022115   LC  LA FIESTA SALSERA                                            JOSE LUIS SEIJAS NUÑEZ                                        MONAGAS DOMINGUEZ NEREIDA ANTONIA
+2005-001578   LC  NIÑOS POR 100PRE                                             RABEN GARCIA, ALFREDO IVAN                                    ALFREDO RABEN G.
+2005-001895   LC  DONDE NADIE MAS PUEDE LLEGAR                                 TELECOMUNICACIONES BANTEL, C.A.                               SOSA MENDOZA PEDRO I.
+2005-002505   LC  TODA LA VIDA                                                 C.A. FARMACEUTICA MUSKUS FARMUS                               JAIME FRANCISCO BATLLE LOPEZ
+2005-002506   LC  TODA LA VIDA                                                 C.A. FARMACEUTICA MUSKUS FARMUS                               JAIME FRANCISCO BATLLE LOPEZ
+2005-002507   LC  TODA LA VIDA                                                 C.A. FARMACEUTICA MUSKUS FARMUS                               JAIME FRANCISCO BATLLE LOPEZ
+2005-002508   LC  NOS PONEMOS EN SU PIEL                                       C.A. FARMACEUTICA MUSKUS FARMUS                               JAIME FRANCISCO BATLLE LOPEZ
+2005-002510   LC  NOS PONEMOS EN SU PIEL                                       C.A. FARMACEUTICA MUSKUS FARMUS                               JAIME FRANCISCO BATLLE LOPEZ
+2005-002511   LC  NOS PONEMOS EN SU PIEL                                       C.A. FARMACEUTICA MUSKUS FARMUS                               JAIME FRANCISCO BATLLE LOPEZ
+2006-000574   LC  SOLUCIONES PARA EL TRANSPORTISTA                             THE GOODYEAR TIRE & RUBBER COMPANY                            PARRA DE ALEXANDER MERCEDES
+2006-000575   LC  GOODYEAR Nº 1 EN CAUCHOS                                     THE GOODYEAR TIRE & RUBBER COMPANY                            PARRA DE ALEXANDER MERCEDES
+2006-000576   LC  PASION POR LA TIERRA                                         THE GOODYEAR TIRE & RUBBER COMPANY                            PARRA DE ALEXANDER MERCEDES
+2006-000662   LC  AJUSTE A LA MEDIDA                                           THE PROCTER & GAMBLE COMPANY                                  DIEGO BUSTILLOS BEINER
+2006-001115   LC  EL AGUA AVANZA                                               THE COCA-COLA COMPANY                                         HERNANDEZ RICARDO ANTEQUERA
+1991-013076   LC  BIG ON CHOCOLATE                                             MARS INCORPORATED                                             ALONSO BRICE¶O DELFINA
+                                                         Total de Solicitudes :   57
+
+
+
+
+
+

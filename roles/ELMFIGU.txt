@@ -1,0 +1,78 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Tablas
+...| Ingresos
+....| C&oacute;digos de Viena|marcas/m_viena.php?vopc=3
+...| Actualizacion
+....| C&oacute;digos de Viena|marcas/m_viena.php?vopc=4
+..| B&uacute;squedas Exoneradas
+...| Carga de Pedidos|marcas/m_ingfacfon1.php?vopc=1
+...| Reportes de Auditor&iacute;a
+....| Factura B&uacute;squeda Fonetica Cargadas|marcas/m_rptconfon.php
+....| Factura B&uacute;squeda Gr&aacute;ficas Cargadas|marcas/m_rptconlog.php
+..| B&uacute;squedas
+...| Fonetica y Grafica
+....| Fonetica
+.....| B&uacute;squedas Externas|marcas/m_panelfon.php
+.....| Examen de Fondo
+......| Generar Archivo TXT Solicitudes Fondo - al Servidor Fonetica|marcas/m_fondotxt.php
+......| Generar Archivo TXT Solicitudes Forma/Fondo - al Servidor Fonetica|marcas/m_fondotxt1.php
+......| Generar Archivo TXT Solicitudes Forma/Fondo - al Servidor Fonetica x Criterio|marcas/m_fondotxtcri.php
+......| Transformar Resultado TXT Busquedas de Fondo a Formato PDF|comun/z_leabusqf.php?vopc=1
+....| Figurativa o Gr&aacute;fica 
+.....| Carga de Datos Gr&aacute;ficos de la Web|marcas/m_ingwebfig.php
+.....| Copiar Imagen Externa al Servidor|marcas/m_upimagen.php?vopc=3
+.....| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+.....| Actualizaci&oacute;n de Verificacion|marcas/m_solviena.php
+.....| Ver Verificacion|marcas/m_vvienasol.php
+.....| Procesamiento
+......| Por Codigo|marcas/m_conviena.php
+......| Externa|marcas/m_pbexfigu.php?vopc=5
+......| Interna|marcas/m_pbinfigu.php
+.....| Ver Resultados Externos|marcas/m_verbusext.php
+.....| Env&iacute;o de Resultado B&uacute;squeda PDF por Correo|comun/m_mailbusqgext.php?vopc=1
+.....| Actualizaci&oacute;n de Estatus para Re-Env&iacute;o de Resultado B&uacute;squeda por Correo|marcas/m_actenvgra.php?vopc=4
+.....| B&uacute;squedas Externas|marcas/m_panelgra.php
+...| Reportes de Auditor&iacute;a
+....| B&uacute;squeda Fonetica(s)/Gr&aacute;fica(s) Diarias|marcas/m_rptbusdia.php
+....| Factura B&uacute;squeda Fonetica Cargadas|marcas/m_rptconfon.php
+....| Factura B&uacute;squeda Gr&aacute;ficas Cargadas|marcas/m_rptconlog.php
+....| B&uacute;squedas Cargadas por Procesar/Enviar|marcas/m_rptbuspen.php
+....| Control de Logos Entregados|marcas/m_rptlogent.php
+....| Proceso de Verificaci&oacute;n|marcas/m_rptpauver.php
+....| B&uacute;squeda Interna|marcas/m_rptpaubin.php
+....| B&uacute;squeda Externa|marcas/m_rptpaubex.php
+....| Auditor&iacute;a Logotipos Modificados|marcas/m_rptpaudlog.php
+...| Peticionario o Solicitante o Titular --> Anterior|
+....| Cargar|marcas/m_peticio.php?conx=1&salir=1
+....| Reporte|marcas/m_rptppeticio.php?conx=1&salir=1
+....| Listados|marcas/m_rptplispet.php?conx=1&salir=1
+..| Consultas y Reportes
+...| Administrativos|
+....| B&uacute;squedas Exoneradas|
+.....| Emisi&oacute;n Planillas de B&uacute;squedas|marcas/m_ingfacbus.php?vopc=1
+.....| Re-Emisi&oacute;n Planillas de B&uacute;squedas|marcas/m_impfacbus.php?vopc=1
+....| Usuarios|
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+..| B&uacute;squeda
+...| Peticionario o Solicitante o Titular --> Anterior|
+....| Cargar|patentes/p_peticio.php
+....| Reporte|patentes/p_rptppeticio.php
+.| Ind. Geogr&aacute;ficas||Sistema de Indicaciones Geogr&aacute;ficas|folder.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+..| B&uacute;squedas Externas Webpi
+...| Transformar Resultados del Webpi a formato PDF|comun/z_leabusq.php?vopc=1
+...| Verificaci&oacute;n de Archivos TXT Busquedas a Convertir en PDF|comun/z_verificatxt.php?vopc=1
+...| Verificaci&oacute;n de Resultados Foneticas en PDF|comun/z_verificapdf.php?vopc=1
+...| Env&iacute;o de Resultados PDF Webpi por Correo|comun/z_enviobusq.php?vopc=1
+..| B&uacute;squedas Peticionario Webpi
+...| Reporte Tramites B&uacute;squeda Peticionario Cargados WEBPI|comun/z_rptconpet.php
+...| B&uacute;squeda por Palabra del Titular|comun/z_buspeticio.php
+...| Generaci&oacute;n de Resultados en PDF|comun/z_rptpetiweb.php
+...| Env&iacute;o de Resultados PDF Webpi por Correo|comun/z_enviopet.php?vopc=1
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

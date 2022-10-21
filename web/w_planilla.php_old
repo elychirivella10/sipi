@@ -1,0 +1,147 @@
+<script language="Javascript"> 
+
+function pregunta() { 
+  return confirm('Estas seguro de grabar la Informacion ?'); }
+
+
+
+</script>
+<?php
+// *************************************************************************************
+// Programa: w_ingresol.php 
+// Realizado por el Analista de Sistema  Karina Pérez
+// Coordinación de Informática / Dirección de Soporte Administrativo / SAPI / MILCO
+// Año 2010
+// *************************************************************************************
+// *************************************************************************************
+include ("../setting.inc.php");
+ob_start();
+
+//Comienzo del Programa por los encabezados del reporte
+
+include ("../z_includes.php");
+
+//funcion del formulario
+include ("w_formulario.php");
+//include ("w_grabar.php");
+
+if (($_SERVER['HTTP_REFERER']=="")) {
+   echo "Acceso Denegado"; exit();}
+
+//Variables
+$usuario   = $_SESSION['usuario_login'];
+$role      = $_SESSION['usuario_rol'];
+$fecha     = fechahoy();
+$fechahoy  = hoy();
+$sql = new mod_db();
+
+$tbname_1 = "stzpaisr";
+$tbname_2 = "stzagenr";
+$tbname_3 = "stzsolic";
+$tbname_4 = "stmmarce";
+$tbname_5 = "stzevtrd";
+$tbname_6 = "stzderec";
+$tbname_7 = "stzottid";
+$tbname_8 = "stmlogos";
+$tbname_9 = "stztmptit";
+$tbname_10 = "stzusuar";
+$tbname_11 = "stmtmpccv";
+$tbname_12 = "stzbitac";
+$tbname_13 = "stzbider";
+$tbname_14 = "stmlemad";
+$tbname_15 = "stzpriod";
+$tbname_16 = "stzautod";
+$tbname_17 = "stmccvma";
+$tbname_18 = "stztmpage";
+$tbname_19 = "stztmprio";
+
+$vopc = $_GET['vopc'];
+$vtramt=$_GET['vtramt'];
+$vsol=$_GET['vsol'];
+
+
+//$smarty->assign('titulo',$substmar);
+//$smarty->assign('subtitulo','Ingreso de Solicitud al SIPI');
+//$smarty->assign('login',$usuario);
+//$smarty->assign('fechahoy',$fecha);
+//$smarty->display('encabezado1.tpl');
+//$smarty->assign('varfocus','wingresol.vtramt'); 
+//$smarty->assign('modo2','readonly');
+
+
+//Verificando conexion
+$sql->connection($usuario);
+
+//****************************************************************************
+if ($vopc==4) {
+    $sql1 = new mod_db();
+    $sql1->connection1();
+    $resultado_tram = pg_exec("SELECT * FROM stzderec, stztramite 
+    			 	WHERE stzderec.nro_tramite = '$vtramt'  
+    			 	AND  stzderec.solicitud = '$vsol'
+    			 	AND  stzderec.estatus = '0'
+    			 	AND stzderec.nro_tramite = stztramite.nro_tramite  
+    			 	AND stztramite.estatus_tra = '13' ");
+    $filas_resultado_tram = pg_numrows($resultado_tram); 
+    $sql1->disconnect1();
+    $sql1 = new mod_db();
+    $sql1->connection1();
+    //ejecuto el shell para traer la imagen
+    $result_tra = pg_exec("SELECT * FROM stmbugra WHERE nro_tramite= '$vtramt'");
+    $reg_t = pg_fetch_array($result_tra);    
+    $nro_busgra = $reg_t['nro_busgra'];
+    $nro_bus = $reg_t['archivo_logo'];    
+
+    
+   //  echo "nro: $nro_busgra";
+        $cmd="scp -P  22 www-data@172.16.0.7:/var/www/consulta/apl/logotipos/".$nro_busgra.".png  /var/www/apl/sipi2011/graficos/docutemp/"; 
+        exec($cmd);
+
+ 
+    //copia los documentos del webpi a una carpeta temporal en el sipi, hasta validarlos y moverlos al sitio correcto
+    $cmd="scp -P  22 www-data@172.16.0.7:/var/www/consulta/apl/documentos/poder/".$vsol.".pdf  /var/www/apl/sipi2011/graficos/docutemp/poder/"; 
+    exec($cmd);
+    $cmd="scp -P  22 www-data@172.16.0.7:/var/www/consulta/apl/documentos/asamblea/".$vsol.".pdf  /var/www/apl/sipi2011/graficos/docutemp/asamblea/"; 
+
+    exec($cmd);
+    $cmd="scp -P  22 www-data@172.16.0.7:/var/www/consulta/apl/documentos/reglamento/".$vsol.".pdf  /var/www/apl/sipi2011/graficos/docutemp/reglamento/"; 
+    exec($cmd);
+    $cmd="scp -P  22 www-data@172.16.0.7:/var/www/consulta/apl/documentos/cedula/".$vsol.".pdf  /var/www/apl/sipi2011/graficos/docutemp/cedula/"; 
+    exec($cmd);
+    $cmd="scp -P  22 www-data@172.16.0.7:/var/www/consulta/apl/documentos/prioridad/".$vsol.".pdf  /var/www/apl/sipi2011/graficos/docutemp/prioridad/"; 
+    exec($cmd);
+    $cmd="scp -P  22 www-data@172.16.0.7:/var/www/consulta/apl/documentos/rif/".$vsol.".pdf  /var/www/apl/sipi2011/graficos/docutemp/rif/"; 
+    exec($cmd);
+    $cmd="scp -P  22 www-data@172.16.0.7:/var/www/consulta/apl/documentos/mercantil/".$vsol.".pdf  /var/www/apl/sipi2011/graficos/docutemp/mercantil/"; 
+    exec($cmd);
+    $cmd="scp -P  22 www-data@172.16.0.7:/var/www/consulta/apl/documentos/otros/".$vsol.".pdf  /var/www/apl/sipi2011/graficos/docutemp/otros/"; 
+    exec($cmd);
+
+    $formulario=formulario($vtramt,$vsol); 
+    $planilla= 'formulario'.$vtramt.'_'.$vsol.'.pdf';
+    $vtramite= $vtramt;
+
+
+
+
+    echo "<iframe src= $planilla width='100%' height='70%' align='center' ></iframe>"; 
+      $sql1->disconnect1();
+  
+  //  unlink("$planilla");
+}   
+
+
+//Pase de variables y Etiquetas al template
+$smarty->assign('submitbutton','submit'); 
+$smarty->assign('submitbutton1','button'); 
+
+$smarty->assign('campo1','Nro. Tramite:');
+$smarty->assign('usuario',$usuario);
+$smarty->assign('vopc',$vopc);
+//$smarty->assign('accion',$accion);
+$smarty->assign('vtramt',$vtramt);
+$smarty->assign('vsol',$vsol);
+$smarty->display('w_ingresol1.tpl');
+$smarty->display('pie_pag.tpl');
+//ob_end_clean(); 
+?>

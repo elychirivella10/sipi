@@ -1,0 +1,62 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Carga de Solicitudes
+...| Modificar Solicitud|marcas/m_infosol.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+...| Examen de Forma
+....| Reingresos|marcas/m_infosol.php?vopc=5
+..|---
+..| B&uacute;squeda
+...| Figurativa
+....| Actualizaci&oacute;n de Verificaci&oacute;n|marcas/m_solviena.php
+....| Copia de Imagenes
+.....| Copiar Imagen Externa al Servidor|marcas/m_upimagen.php?vopc=3
+.....| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+....| Procesamiento de B&uacute;squeda
+.....| Por Codigo|marcas/m_conviena.php
+.....| Externa|marcas/m_pbexfigu.php?vopc=5
+.....| Interna|marcas/m_pbinfigu.php
+...| Reportes de Auditor&iacute;a
+....| Factura B&uacute;squeda Gr&aacute;fica|marcas/m_rptconlog.php
+....| Proceso de Verificaci&oacute;n|marcas/m_rptpauver.php
+....| Control de Logos Entregados|marcas/m_rptlogent.php
+....| B&uacute;squeda Gr&aacute;ficaExterna|marcas/m_rptpaubex.php
+....| B&uacute;squeda Gr&aacute;fica Interna|marcas/m_rptpaubin.php
+...| Peticionario o Solicitante o Titular|
+....| Cargar|marcas/m_peticio.php?conx=1&salir=1
+....| Reporte|marcas/m_rptppeticio.php?conx=1&salir=1
+....| Listados|marcas/m_rptplispet.php?conx=1&salir=1
+..|---
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos
+....| Consulta Interna|consultamarcas/indexi.php
+....| Oficios de Devoluci&oacute;n (LPI 55)|marcas/m_rptpoficio55.php?conx=1&salir=1
+....| Listados de Marcas Concedidas con Titulares a Caducar|marcas/m_rptm400bol.php
+....| Usuarios|
+.....| Por Listados Varios|marcas/m_rptpavztra.php
+..|---
+..| Estadisticas||Estadistidicas de Marcas|
+...| Todas las Publicaciones de un Boletin|marcas/m_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|marcas/m_est_tpuxbol.php?vopc=0
+...| Relaci&oacute;n: (Concesi&oacute;n-Pago) por Boletines|marcas/m_est_rconpag.php?vopc=0
+...|---
+...| Presentadas por a&ntilde;o|marcas/m_est_prexmes.php?vopc=0
+...| Examinadas Fondo/Forma por A&ntilde;o (Eventos:51,52,53,54)|marcas/m_est_exaxmes.php?vopc=0
+...| Registradas por a&ntilde;o|marcas/m_est_regxmes.php?vopc=0
+...|---
+...| Por Estatus en tipos de Marcas|marcas/m_est_estatus.php?vopc=0
+...| Transacciones por Evento/Usuarios|marcas/m_est_usuxmes.php?vopc=0
+.| Patentes||Sistema de Patentes|folder-open.png
+..| B&uacute;squeda
+...| Peticionario o Solicitante o Titular|
+....| Cargar|patentes/p_peticio.php
+....| Reporte|patentes/p_rptppeticio.php
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

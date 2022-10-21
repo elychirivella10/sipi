@@ -1,0 +1,55 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| B&uacute;squedas
+...| Fonetica y Grafica
+....| Carga de Pedidos|marcas/m_ingfacfon1.php?vopc=1
+....| Modificaci&oacute;n de Pedido Gr&aacute;fico|marcas/m_bexfigu.php?vopc=4
+....| Figurativa o Gr&aacute;fica 
+.....| Copiar Imagen Externa al Servidor|marcas/m_upimagen.php?vopc=3
+.....| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+.....| Actualizaci&oacute;n de Verificacion|marcas/m_solviena.php
+.....| Ver Verificacion|marcas/m_vvienasol.php
+.....| Procesamiento
+......| Por Codigo|marcas/m_conviena.php
+......| Externa|marcas/m_pbexfigu.php?vopc=5
+......| Interna|marcas/m_pbinfigu.php
+...| Reportes de Auditor&iacute;a
+....| Factura B&uacute;squeda Gr&aacute;ficas Cargadas|marcas/m_rptconlog.php
+....| Control de Logos Entregados|marcas/m_rptlogent.php
+....| Proceso de Verificaci&oacute;n|marcas/m_rptpauver.php
+....| B&uacute;squeda Interna|marcas/m_rptpaubin.php
+....| B&uacute;squeda Externa|marcas/m_rptpaubex.php
+..|---
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Datos T&eacute;cnicos
+...| Actualizaci&oacute;n|patentes/p_datostecj.php
+...| Palabras Claves|patentes/p_pclaves.php
+..|---
+..| B&uacute;squeda
+...| T&eacute;cnica|sbp/index.php
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos|
+....| Cronolog&iacute;a|patentes/p_rptpcronol.php
+....| Consulta Abierta|patentes/p_rptpcona.php
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php
+.....| Por Transacciones|patentes/p_rptpavztra.php?conx=1&salir=1
+.....| Por Transacciones x Reg.|patentes/p_rptpavztra_reg.php
+....|---
+....| Tablas|||
+.....| Paises|marcas/m_rptpais.php
+..|---
+..| Estadisticas||Estadistidicas de Patentes|
+...| Todas las Publicaciones de un Boletin|patentes/p_est_pubxbol.php?vopc=0
+...| Por Tipo de Publicaci&oacute;n y rango de Boletines|patentes/p_est_tpuxbol.php?vopc=0
+...| Presentadas por A&ntilde;o |patentes/p_est_prexmes.php?vopc=0
+...| Examinadas Fondo/Forma por A&ntilde;o (Eventos:28,29,51,52,53,56,59)|patentes/p_est_exaxmes.php?vopc=0
+...| Registradas por a&ntilde;o|patentes/p_est_regxmes.php?vopc=0
+...| Por Estatus en tipos de Patentes|patentes/p_est_estatus.php?vopc=0
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

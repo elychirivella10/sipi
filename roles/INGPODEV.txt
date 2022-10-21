@@ -1,0 +1,56 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Ingreso de Solicitud (CAN)|marcas/m_infosol.php?vopc=3
+..|---
+..| Modificar Solicitud (CAN)|marcas/m_infosol.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+...| Cambios de Agente/Tramitante|marcas/m_cambagtr.php
+...| Cambios de titular|marcas/m_cambtitu.php
+...| Cambios de Domicilio del titular|marcas/m_cambdomi.php
+...| Devoluciones (LPI 55)|marcas/m_devoluci56.php
+...| Reingresos|marcas/m_reingres.php?vopc=5
+...| Modificaci&oacute;n de Distingue|marcas/m_modprod.php?vopc=4
+..| Tablas
+...| Ingresos
+....| Poderes|marcas/m_ipoderes.php
+...| Actualizacion
+....| Poderes|marcas/m_apoderes.php
+..|---
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos
+....| Consulta Interna|consultamarcas/indexi.php
+....| Cronolog&iacute;a|marcas/m_rptpcronol.php
+....| Oficios de Devoluci&oacute;n (LPI 55)|marcas/m_rptpoficio55.php?conx=1&salir=1
+....| Usuarios|
+.....| Solicitudes Presentadas|marcas/m_rptpsolpre.php
+.....| Por Criterio|marcas/m_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|marcas/m_rptpavztra.php
+.....| Por Listados Varios x reg.|marcas/m_rptpavztra_r.php?conx=1&salir=1
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php?conx=1&salir=1
+....|---
+....| Tablas|||
+.....| Agentes|marcas/m_rptagente.php
+.....| Poderes|marcas/m_rptppoder.php
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+..| Consultas y Reportes
+...| Cronolog&iacute;a|patentes/p_rptpcronol.php?conx=1&salir=1
+...| Administrativos|
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php?conx=1&salir=1
+.....| Por Transacciones|patentes/p_rptpavztra.php?conx=1&salir=1
+.....| Por Transacciones X Recept.|patentes/p_rptpavztrar.php?conx=1&salir=1
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php
+..| Tablas Generales
+...| Ingresos
+....| Agentes|comun/z_agentes.php?vopc=3

@@ -1,0 +1,105 @@
+<html>
+<head>
+  <LINK REL="STYLESHEET" TYPE="text/css" HREF="../main.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link rel="stylesheet" href="../include/template_css.css" type="text/css" />
+</head>
+
+<body onLoad="this.document.{$varfocus}.focus()">
+
+<div align="center">
+
+<form name="formarcas1" action="m_conviena.php" method="post">
+  <table>
+    <tr><td class="izq-color">{$campo1}</td>
+	<td class="der-color">
+           <input type="text" name="v1" size="11" maxlength="11" value='{$vcontrol}' {$modo1}>
+        </td>
+    </tr>
+  </table>
+  &nbsp;
+
+  <table width="85%">
+    <tr><td class="izq2-color" colspan="2">{$lcviena}</td></tr>
+    <tr><td>    
+    <iframe id='top' style='width:99%;height:90px;background-color: WHITE;' src="m_verccv.php?psol={$vcontrol}"></iframe> 
+    </td></tr>
+    <tr><td class="der-color">
+        <input type="text" name="vviena" {$modo2} size="11" onkeyup="this.value=this.value.toUpperCase()">
+        <input type="button" value="Buscar/Incluir"  name="vvienai" {$modo2} onclick="gestionvienap(document.formarcas1.v1,document.formarcas1.vviena,document.formarcas1.vvienai)">
+        <input type="button" value="Buscar/Eliminar" name="vvienae" {$modo2} onclick="gestionvienap(document.formarcas1.v1,document.formarcas1.vviena,document.formarcas1.vvienae)">
+    </td></tr>
+  </table>
+
+</form>
+&nbsp;     
+
+<form name="formarcas1" action="z_browvie.php?vopc=0&vtp=0" method="post">
+  <input type ='hidden' name='usuario' value={$usuario}>
+  <input type ='hidden' name='accion'  value={$accion}>
+  <input type ='hidden' name='v1'      value='{$vcontrol}'>
+
+  <input type ='hidden' name='camposquery' value='{$camposquery}'>
+  <input type ='hidden' name='camposname'  value='{$camposname}'>
+  <input type ='hidden' name='tablas'      value='{$tablas}'>
+  <input type ='hidden' name='condicion'   value='{$condicion}'> 
+  <input type ='hidden' name='orden'       value='{$orden}'>
+  <input type ='hidden' name='modo'        value='{$modo}'> 
+  <input type ='hidden' name='modoabr'     value='{$modoabr}'>
+  <input type ='hidden' name='vurl'        value='{$vurl}'>
+  <input type ='hidden' name='new_windows' value='{$new_windows}'>
+
+  <table>
+  <tr>
+    <td>
+      <p align='center'><b><font size='2' face='Tahoma'>Se encontraron '{$universo}' Solicitudes con ese C&oacute;digo de Viena ..! </font></b></p>
+    </td>
+  </tr>
+  </table>
+
+  <table class="menubar1" cellpadding="0" cellspacing="0" border="1">
+  <tr>
+   <td class="menudottedline" width="95%">
+     <div class="pathway">
+       <!--<img src="../imagenes/systeminfo.png"  align="left" border="0" /><br/>-->
+     <p>
+     <font size="-2">M&oacute;dulo:&nbsp;&nbsp;m_conviena.php<p></b>Descripci&oacute;n: Rescata todas aquellas solicitudes de Marcas con los C&oacute;digos de Viena especificados.</font>
+     </div>	
+   </td>
+   
+   <td class="menudottedline" width="73%" ></td>
+      <td class="menudottedline" align="right">
+	<table cellpadding="0" cellspacing="0" border="0" id="toolbar">
+	  <tr valign="left" align="left">
+	    <td>&nbsp;</td>
+	    <td>
+	      <a class="toolbar" >
+              <input type="image" {$modo3} src="../imagenes/find.png" value="Visualizar" border="0">Visualizar</a>
+	    </td>
+	    <td>&nbsp;</td>
+	    <td>
+	      <a class="toolbar" href="../marcas/m_conviena.php">
+	      <img src="../imagenes/cancel_f2.png" alt="&nbsp;Cancelar" name="Cancelar" title="Cancelar" align="left" border="0" /><br/>&nbsp;Cancelar</a>
+	    </td>
+	    <td>&nbsp;</td>
+	    <td>
+	      <a class="toolbar" href="../index1.php">
+	      <img src="../imagenes/salir_f2.png"  alt="&nbsp;Logout" name="Salir" title="Salir" align="left" border="0" /><br/>&nbsp;Salir</a>
+	    </td>
+	    <td>&nbsp;</td>
+	 </tr>
+	</table>
+      </td>
+   </td>
+  </tr>
+  </table>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+
+</form>
+</div>  
+</body>
+</html>
+
+

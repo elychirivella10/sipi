@@ -1,0 +1,57 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Consultas y Reportes
+...| Consulta Abierta|marcas/m_rptpcona.php?conx=1&salir=1
+...| Consulta Interna|consultamarcas/indexi.php
+...| Cronolog&iacute;a|marcas/m_rptpcronol.php?conx=1&salir=1
+...| Poderes|marcas/m_cpoderes.php
+...| Pago de Tasa (Derechos)|marcas/m_rptptasa.php?conx=1&salir=1
+...| Administrativos|
+....| Solicitudes Presentadas|marcas/m_rptpsolpre.php?conx=1&salir=1
+....| Oficios de Devoluci&oacute;n (CAN)|marcas/m_rptpoficio.php?conx=1&salir=1
+....| Oficios de Devoluci&oacute;n (LPI 55)|marcas/m_rptpoficio55_a.php?conx=1&salir=1
+....| Oficios de Devoluci&oacute;n prueba (LPI 55)|marcas/m_rptpoficio55.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Listados Varios x reg.|marcas/m_rptpavztra_r.php?conx=1&salir=1
+.....| Listados Marcas Registradas X Bol.|marcas/m_rptpavztra_estbol.php?conx=1&salir=1
+.....| Listados con Titulares|marcas/m_rptpavzda.php?conx=1&salir=1
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php?conx=1&salir=1
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php?conx=1&salir=1
+.....| Listado de Anotaciones Marginales a Publicar|marcas/m_rptpanota.php?conx=1&salir=1
+..|---
+..| Estadisticas||Estadistidicas de Marcas|
+...|Totales por Tipo|marcas/m_rptpestanu.php
+...|Totales por Pais|marcas/m_rptpestanupais.php
+...|Totales por Clase|marcas/m_rptpestanuclas.php
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Consultas y Reportes
+...| Consulta Abierta|patentes/p_rptpcona.php?conx=1&salir=1
+...| Cronolog&iacute;a|patentes/p_rptpcronol.php?conx=1&salir=1
+...| Administrativos|
+....| Solicitudes Presentadas|patentes/p_rptpsolpre.php?conx=1&salir=1
+....| Oficios de Devoluci&oacute;n|patentes/p_rptpoficio.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|patentes/p_rptpavzcri.php?conx=1&salir=1
+.....| Por Transacciones|patentes/p_rptpavztra.php?conx=1&salir=1
+..|---
+..| Estadisticas||Estadistidicas de Patentes|
+...|Totales por Tipo|patentes/p_rptpestanu.php
+...|Totales por Pais|patentes/p_rptpestanupais.php
+...|Pat. Registradas|patentes/p_rptpestanureg.php
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+..| Consultas y Reportes
+...| Cronolog&iacute;a|autor/a_rptpcronol.php?conx=1&salir=1
+...| Administrativos|
+....| Solicitudes Presentadas|autor/a_rptpsolpre.php?conx=1&salir=1
+....| Oficios de Devoluci&oacute;n|autor/a_rptpoficio.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|autor/a_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|autor/a_rptplisvar.php?conx=1&salir=1
+.....| Por Transacciones|autor/a_rptpavztra.php?conx=1&salir=1
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

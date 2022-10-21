@@ -1,0 +1,14 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| B&uacute;squeda
+...| Fonetica
+....| Ingreso de Control de Facturas|marcas/m_infonetica.php?vopc=3
+....| Modificaci&oacute;n de Control de Facturas|marcas/m_infonetica.php?vopc=4
+....| Auditor&iacute;a de Facturas Busquedas Recibidas|marcas/m_rptaudfac.php
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|configuration.png
+..| Cambio de Clave|comun/z_modpass.php

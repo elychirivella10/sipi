@@ -1,0 +1,77 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Ingreso de Solicitud|marcas/m_infosol.php?vopc=3
+..|---
+..| Modificar Solicitud|marcas/m_infosol.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+...| Evento Publicaci&oacute;n en Prensa|marcas/m_eveper.php?vopc=4
+...| Cambios de Agente/Tramitante|marcas/m_cambagtr.php
+...| Cambios de titular|marcas/m_cambtitu.php
+...| Cambios de Domicilio del titular|marcas/m_cambdomi.php
+...| Modificaci&oacute;n de Distingue|marcas/m_modprod.php?vopc=4
+..|---
+..| Tablas
+...| Ingresos
+....| Poderes|marcas/m_ipoderes.php
+...| Actualizaci&oacute;n
+....| Poderes|marcas/m_apoderes.php
+..|---
+..| B&uacute;squeda
+...| Fonetica
+....| Carga de Factura y Planillas de Busqueda
+.....| Carga de Busqueda - Sede SAPI
+......| Ingreso de Pedido SAPI en Lote|marcas/m_ingfacfon.php?vopc=1
+......| Modificaci&oacute;n de Pedido SAPI|marcas/m_bfonetica_sede.php?vopc=4
+....| Reportes de Auditor&iacute;a
+.....| De Planillas Cargadas|marcas/m_rptconfon.php
+...| Figurativa
+....| Copia de Imagenes
+.....| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+..|---
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos
+....| Consulta Interna|consultamarcas/indexi2.php
+....| Cronolog&iacute;a|marcas/m_rptpcronol.php
+....| Usuarios|
+.....| Solicitudes Presentadas|marcas/m_rptpsolpre.php
+.....| Por Listados Varios|marcas/m_rptpavztra.php
+.....| Por Listados Varios x reg.|marcas/m_rptpavztra_r.php
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php
+....|---
+....| Tablas|||
+.....| Agentes|marcas/m_rptagente.php
+.....| Poderes|marcas/m_rptppoder.php
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Ingreso de Solicitud|patentes/p_infosol.php?vopc=3
+..|---
+..| Modificar Solicitud|patentes/p_infosol.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+...| Evento Publicaci&oacute;n en Prensa|patentes/p_eveper.php?vopc=4
+...| Cambios de Agente/Tramitante|patentes/p_cambagtr.php
+...| Cambios de titular|patentes/p_cambtitu.php
+...| Cambios de Domicilio del titular|patentes/p_cambdomi.php
+..| B&uacute;squeda
+...| T&eacute;cnica|sbp/index.php
+..| Consultas y Reportes
+...| Administrativos|
+....| Cronolog&iacute;a|patentes/p_rptpcronol.php
+....| Consulta Abierta|patentes/p_rptpcona.php
+....| Usuarios|
+.....| Solicitudes Presentadas|patentes/p_rptpsolpre.php
+.....| Por Criterio|patentes/p_rptpavzcri.php
+.....| Por Transacciones|patentes/p_rptpavztra.php
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php
+..| Tablas Generales
+...| Ingresos
+....| Agentes|comun/z_agentes.php?vopc=3

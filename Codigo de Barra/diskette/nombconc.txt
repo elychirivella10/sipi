@@ -1,0 +1,198 @@
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2000-001757 NC    DELFIN                                                       DELFIN, C.A.                                                  CARRASCOSA JOSE MANUEL
+2000-001803 NC    GOURMEZZA                                                    GOURMEZZA C.A.                                                HELLMUND HERNANDEZ IGNACIO JOSE
+2000-015014 NC    GRUPO GLOBAL                                                 GRUPO GLOBAL 98, S.A.                                         LEON TAUREL
+2000-017417 NC    GRAN MARQUEZ                                                 FINCA CHISPA, C.A.                                            MARCO A. COLMENARES A.
+2000-018879 NC    LATIN AMERICAN PETROLEUM SHOW                                GRUPO B.G. DE EVENTOS, C.A.                                   JORGE BEHM
+2001-014228 NC    SOFIANDES                                                    SEGUROS LOS ANDES C.A.                                        MONSERRATT EDGAR JAVIER
+2001-014520 NC    PARQUE METROPOLITANO CEMENTERIO JARDIN                       PARQUE CEMENTERIO METROPOLITANO DEL ESTE, C.A.                HERNANDEZ RICARDO ANTEQUERA
+2001-018691 NC    SHIA BERTONI                                                 SHIA BERTONI RAMOS                                            DOUGLAS DAGER RODRIGUEZ
+2002-000793 NC    FUNG Y HUNG                                                  BAZAR FUNG Y HUNG C.A.                                        ENRIQUE J. CHEANG VERA
+2002-001051 NC    CALZADO EL TERAMANO                                          CALZADO EL TERAMANO, C.A.                                     BATISTA CONTRERAS, EVA MAGALY
+2002-001389 NC    AUTO ACESORIOS TEAM A.T.R.                                   AUTO ACCESORIOS TEAM RANCHO, A.T.R., C.A.                     FELIPE CAMPISI
+2002-002503 NC    SUPERMERCADOS ALIADOS                                        EL PATIO INVERSIONES 2001 C.A.                                MARINA ELIA LA YALA DE N.
+2002-003322 NC    BODY SIGNER                                                  GUADALUPE RIOS PARTIDAS                                       GUADALUPE RIOS PARTIDAS
+2002-003583 NC    WWW.PROCESSUM.COM                                            PROCESSUM C.A.                                                MARIO J. HERIZE
+2002-005041 NC    DIGITEL EMPRESARIAL                                          BANESCO BANCO UNIVERSAL, C.A                                  MONSERRATT EDGAR JAVIER
+2002-006434 NC    SOTIL VIAJES Y TURISMOS                                      AGENCIA DE VIAJES Y TURISMO SOTIL C.A.                        FRANCISCO J. RAMOS M.
+2002-012176 NC    LA FABRIL                                                    LA FABRIL, S.A.                                               ARCILA SALGADO GUSTAVO
+2002-012546 NC    FORROCAR                                                     FORROCAR, C.A.                                                ELIAS LUIS FRANCISCO
+2002-016977 NC    INDUSTRIAS BIOKEM                                            PRODUCTOS BIO KEM, C.A.                                       EREU CASTRO YOLIBETH DEL VALLE
+2002-017672 NC    MISTERBUBBLE                                                 HERAL AUTOLAVADO C.A.                                         HERNANDEZ GONZALEZ RAFAEL ANGEL
+2002-017819 NC    EMPALIGHT                                                    ANGEL ALBERTO BELZAREZ WAISMAN                                ALGEL ALBERTO BELZAREZ WAISMAN
+2002-018006 NC    COMUNICALOS                                                  GRUPO COMUNICALO, S.A.                                        ELIAS MOBILY GUITTA A.
+2002-018289 NC    VOL DE VENEZUELA                                             VOL DE VENEZUELA C.A.                                         MARIA A. VILLAMIZAR
+2003-001536 NC    LA BOUTIQUE DEL SONIDO....BAJO COSTO                         LA BOUTIQUE DEL SONIDO, S.R.L.                                JAIME DUM LERNER
+2003-002671 NC    CONFECCIONES LE TETTE                                        CONFECCIONES LE TETTE S.R.L.                                  RAQUEL RODRIGUEZ
+2003-003787 NC    COMPU MALL                                                   INVERSIONES COMPU MALL, C.A.                                  MENDOZA HERNANDEZ RAQUEL
+2003-004788 NC    QUALA                                                        QUALA, S.A.                                                   OSCAR J. HUERTAS BIGOTT
+2003-004815 NC    LA RIVIERA                                                   LA RIVIERA D.F. INTERNACIONAL , S.A.                          GABRIELA NU∂EZ MARQUEZ
+2003-006057 NC    CELLSOCKET                                                   CENTRO PROFESIONAL DE CAPACITACION A.B.C.                     BONALDE VERA ELISCAR AZILDE
+2003-006670 NC    MARIDOS DE ALQUILER                                          GLOBAL FRANCHISING, C.A.                                      MONSERRATT EDGAR JAVIER
+2003-006886 NC    KRUGER                                                       KRUGER, INC.                                                  VALLINA GRISANTI MANUEL
+2003-006960 NC    CONFIDENCIAL                                                 INVERSIONES GASTRONOMICAS DT & DS, C.A.                       LIGIA MERCEDES SALAZAR PARRA
+2003-006962 NC    REDBAR                                                       INVERSIONES GASTRONOMICAS DT & DS, C.A.                       LIGIA MERCEDES SALAZAR PARRA
+2003-007028 NC    DOLPHIN WASH                                                 LAVASPIRAUTO JAB, C.A.                                        JUAN A. BRICE—O
+2003-012693 NC    VEPICA VENEZOLANA DE PROYECTOS INTEGRADOS                    VENEZOLANA DE PROYECTOS INTEGRADOS VEPICA, C.A.               LINO MORALES ALFONZO
+2003-012724 NC    GAPS CELLUMOVIL                                              SAT CELLUMOVIL S.A.                                           JORGE SUAREZ MORALES
+2003-015152 NC    MUEBLE-KIT                                                   MOBILIARIO Y DISE—O ACRILART C.A.                             ALONSO BUSTILLO RICARDO
+2003-015283 NC    CAFE CON PIERNAS . COM                                       CAFE CON PIERNAS . COM, C.A.                                  RODOLFO A. NOVELLINO HERNANDEZ
+2003-015595 NC    ANDES PARADISE                                               EMPACADORA DE ALIMENTOS EACA, C.A.                            ORTIZ MORALES  ENOES JOSEFINA
+2003-015791 NC    PICARO'S                                                     PROCESADORA DE ALIMENTOS DIAZ, C.A.                           JOSE A. DIAZ
+2004-000195 NC    SASHA Y DANDY PET HOUSE                                      PET HOUSE, C.A.                                               VLADIMIR ALVAREZ L.
+2004-004254 NC    MAR AZUL M.J                                                 CREACIONES MAR AZUL C.A.                                      MARIA ELISA LOPEZ PEREZ
+2004-005717 NC    PRODESA PROYECTOS Y DESARROLLOS                              PROYECTOS Y DESARROLLOS S.A. (PRODESA)                        COHEN YISSACGHAR, MERY
+2004-006012 NC                                                                 INVERSIONES SELVA, C.A.                                       LEOPOLDO MARQUEZ LEFELD
+2004-006311 NC    CALZATODO                                                    CALZATODO S.R.L.                                              PAULA FOLLO B.
+2004-007054 NC    EUROCENTER, C.A.                                             EUROCENTER, C.A.                                              DE FRENZA MICHELE
+2004-007690 NC    ECOSENSE                                                     ECOSENSE C.A.                                                 JOHN MALLCOTT BLANCO
+2004-008803 NC    DONUT'S Y AREQUIPE                                           MORENO DE MORALES, ESMEIRA ELISA                              MORENO DE MORALES, ESMEIRA ELISA
+2004-009885 NC    FULL PITS                                                    FULL PITS CORPORATION, C.A.                                   ANTONIO GONZALEZ GUTIERREZ
+2004-010234 NC    SHIHAN                                                       COMERCIALIZADORA LANPAR, C.A.                                 MONSERRATT EDGAR JAVIER
+2004-011654 NC    FASCINACION                                                  FASCINACION BOULEVARD C.A.                                    FLAVIO CHAVEZ
+2004-013624 NC    FUNDASENO                                                    FUNDACION FUNDASENO, MI GRUPO DE APOYO                        VALLE SEIJAS MARIA ANGELICA
+2004-014146 NC    SGR SOCIEDADES DE GARANTIAS RECIPROCAS                       FONPYME, S.A.                                                 RIERA DOMINGO ALFREDO
+2004-016275 NC    REICHI                                                       REINALDO DUQUE RAMIREZ                                        REINALDO DUQUE RAMIREZ
+2004-019617 NC    CONSULTORES EN SEGURIDAD HUMANA CSH                          CONSULTORES EN SEGURIDAD HUMANA CSH, C.A.                     GUSTAVO BERMUDEZ
+2004-020009 NC    NAILS EXPRESS                                                INVERSORA NAILS EXPRESS. C.A.                                 MONSERRATT EDGAR JAVIER
+2004-020021 NC    POLYTECNO                                                    POLYTECNO POLIMEROS TECNOLOGICOS, C.A.                        MONAGAS DOMINGUEZ NEREIDA ANTONIA
+2004-020032 NC    AGUA. MODA                                                   COMERCIALIZADORA INTERNACIONAL DIBERT C.A.                    NI—O GARCIA
+2004-020179 NC    BM                                                           BOUMAC REPRESENTACIONES C.A.                                  ALESSANDRO MACROBIO
+2004-021359 NC    SIN KBLES                                                    TECNOLOGIAS SIN KBLES C.A.                                    ANGEL GUGLIOTTA
+2004-021361 NC    HONGDA CHEM VENEZUELA C.A.                                   HONGDA CHEM VENEZUELA, C.A.                                   JOSE JAVIER HERNANDEZ
+2004-021416 NC    CENTRALYS                                                    CENTRALYS S.A.                                                SABO DE FISCHER NOHEMI
+2004-021586 NC    MULTISERVICIOS MIKORTE 98 C.A.                               MULTISERVICIOS MIKORTE 98, C.A.                               FRANCY DE PEREZ
+2004-021807 NC    IANCARINA                                                    INDUSTRIA ALIMENTICIA NACIONAL DE CEREALES Y HARINAS, C.A.**  DIEGO BUSTILLOS BEINER
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2004-021818 NC    EL CLUB DE HACER TAREAS                                      INVERSIONES PC-TEL B.D.A, C.A                                 ANGEL ARGENIS BARROYETA NU—EZ
+2004-022067 NC    PROCECA (PROCESADORA DE CEREALES, C.A.)                      PROCESADORA DE CEREALES, C.A. (PROCECA)                       LUIS OSCAR GIMENEZ SALDIVIA
+2004-022068 NC    COMELONA                                                     INVERSIONES FLY 4:20, C.A.                                    LUIS E. MONCADA FARIA
+2004-022072 NC    GARNI RESTAURANT                                             DISE—OS Y DESARROLLOS MESALCA, C.A.                           ARCILA SALGADO GUSTAVO
+2004-022475 NC    TUCORREA.COM                                                 PASCAL MODAS, C.A.                                            SARA CAROLINA SANCHEZ PARRA
+2005-001417 NC    LA CASA DEL HERRERO                                          PENTAINVERSIONES, S.A.                                        ANTEQUERA H. RICARDO E.
+2005-001418 NC    HIERRO ORIENTE                                               PENTAINVERSIONES, S.A.                                        ANTEQUERA H. RICARDO E.
+2005-001419 NC    HIERROS MAGALLANES                                           PENTAINVERSIONES S.A.                                         ANTEQUERA H. RICARDO E.
+2005-003780 NC    LA CASA DEL HIERRO                                           PENTAINVERSIONES, S.A.                                        HERNANDEZ RICARDO ANTEQUERA
+2005-003910 NC    RS RENZA SPORTING                                            RENZA SPORTING, C.A.                                          MARIA GRACIA MIJARES
+2005-005387 NC    RICO DULCE                                                   CEN JIAN NING                                                 CEN JIAN NING
+2005-006351 NC    PRODUCTOS TOQUICEL                                           PRODUCTOS TOQUICEL S.A.                                       DANIEL QUINTERO
+2005-006361 NC    PLUMROSE EXPRES                                              THE EAST ASIATIC CO. LTD. A/S (A/S DET OSTASIATISKE KOMPA**   DANA RUTH BENTATA
+2005-006362 NC    PLUMROSE EXPRESS                                             THE EAST ASIATIC CO. LTD. A/S (A/S DET OSTASIATISKE KOMPA**   DANA RUTH BENTATA
+2005-006368 NC    FIDEVALORES SOCIEDAD DE CORRETAJE DE TITULOS VALORES         FIDEVALORES SOCIEDAD DE CORRETAJE DE TITULOS VALORES, S.A.    CARRASCOSA JOSE MANUEL
+2005-006919 NC    VEURO                                                        VETRACHIPI,C.A.                                               YUBIRIS CORONADO GARCIA
+2005-007484 NC    HAZANSITO                                                    BOUTROS ANTONIO PAULA                                         ANTONIO PAULA BOUTROS
+2005-007880 NC    CB SEMILLAS CRISTIANI BURKARD                                PRODUCTORA LATINOAMERICANA DE SEMILLAS, S.A.                  AYALA CHERUBINI BEATRIZ CAROLINA
+2005-007977 NC    SERVICIOS ASCAR                                              SERVICIOS ASCAR, C.A.                                         GARCIA DELGADO ROBERT C.
+2005-008034 NC    COOPERATIVA GIMOREF 654                                      COOPERATIVA GIMOREF 654 R.L.                                  CARLOS FARIAS
+2005-008106 NC    INTERACTIVA                                                  INTERACTIVA C.A.                                              CARLOS EDUARDO SALMERON ZAPATA
+2005-008108 NC    CASUAL CLASSE                                                DISTRIBUIDORA 1717, C.A.                                      JOSE ANDRES PITA VILLAR
+2005-008128 NC    CLUB PLATINUM                                                BAR RESTAURANT COLONIAL MAREA ROJA, C.A.                      MARJORIE DORAY ANAYA SEPULVEDA
+2005-008429 NC    AP AUTOMERCADO PREMIER                                       AUTOMERCADO PREMIER, C.A.                                     JOSE ENRIQUE MONTES DE OCA CH.
+2005-008516 NC    YOGA ROLL                                                    PORRAS ACOSTA AMADEO CELESTINO                                PORRAS ACOSTA AMADEO CELESTINO
+2005-009084 NC    COOPER GALVANIZED DE VENEZUELA                               COOPER GALVANIZED DE VENEZUELA C.A.                           QUIRO RAFAEL ARVELAEZ
+2005-010002 NC    FENCING COMPUTACION                                          FENCING COMPUTACION, C.A.                                     OSCAR JOSE VIÒA RIVERO
+2005-010028 NC    SABLE                                                        CONFECCIONES YARNABETH, C.A.                                  FRANCO YAMMINE N.
+2005-010277 NC    NUTRITEC                                                     NUTRICION TECNICA NUTRITEC C.A.                               DANIEL QUINTERO
+2005-010285 NC    CLINISALUD SERVICIOS DE ADMINISTRACION DE SALUD              CLINISALUD, SERVICIOS DE ADMINISTRACION DE SALUD C.A.         LAURA ELENA QUINTERO GUERERE
+2005-011437 NC                                                                 SEMILLAS HIBRIDAS DE VENEZUELA, C.A. SEHIVECA                 GUANCHE RAFAEL ERNESTO
+2005-011742 NC    MERCAPITAL, SERVICIOS FINANCIEROS                            MERCAPITAL SERVICIOS FINANCIEROS, C.A.                        AARONS POITEVIEN FRED
+2005-011795 NC    POWER FLUX                                                   INVERSIONES Y REPRESENTACIONES PLUS ULTRA, C.A.               ALEJANDRO LIBORIUS
+2005-012281 NC    PAPELANDIA                                                   EXTREME E-PAPER, C.A.                                         GIMENEZ NURIA JULIA DE
+2005-012323 NC    DUAL                                                         CONFECCIONES NIA & J.J, C.A.                                  JAIRO JOSE LABRADOR E.
+2005-012343 NC    GIA                                                          ZEITONE PIERRE                                                ZEITONE PIERRE
+2005-012350 NC    NENO¥S!                                                      SUELAS CARABOBO, SUELACA C.A.                                 CID CONDE JULIO
+2005-013691 NC    LAMPARAS PIERROT                                             LAMPARAS PIERROT, C.A.                                        GARCIA DELGADO ROBERT C.
+2005-013724 NC    A                                                            UNIDAD OFTALMOLOGICA ASLAN, C.A.                              EMILIO ASLAN TRAZIKHAN
+2005-013725 NC                                                                 UNIDAD OFTALMOLOGICA CENTRO DE ESPECIALISTAS, C.A.            EMILIO ASLAN TARZIKHAN
+2005-013887 NC    EMBASSY FREIGHT VENEZUELA                                    EMBASSY FREIGHT VENEZUELA, C.A.                               PEDRO JOSE LARES LEON
+2005-013901 NC    FULLEQUIPO.COM                                               CONSORCIO TUEQUIPO.COM-VENEZUELA, C.A.                        ALFREDO CROES ARRAEZ
+2005-013920 NC    ROLDA                                                        LUIGI DI GIROLAMO MALDERA                                     LUIGI DI GIROLAMO MALDERA
+2005-014000 NC    L.C.C. LA CASA DEL CONTRAENCHAPADO                           LA CASA DEL CONTRAENCHAPADO, C.A.                             VICENZO GUGLIOTTA CASSIA
+2005-014005 NC    H                                                            TRACTO CENTRO, C.A.                                           JELAMBI GARCIA GITSEL
+2005-014013 NC    RANCHO GRILL HOUSE                                           MAYOR DE CARNES Y CHARCUTERIA AUGUSTO, C.A.                   AUGUSTO ZANOTTI MOSSUTO
+2005-014136 NC    ALHAMBRA PALACE                                              PROMOCIONES RECREATIVAS VENEZOLANAS, PREVECA, C.A.            HERNANDEZ GONZALEZ RAFAEL ANGEL
+2005-014139 NC    ALHAMBRA PALACE                                              PROMOCIONES RECREATIVAS VENEZOLANAS, PREVECA, C.A.            HERNANDEZ GONZALEZ RAFAEL ANGEL
+2005-014150 NC                                                                 INDUSTRIA ELECTRONICA FISHER S.R.L.                           RAMIREZ CARRERA GABRIEL ANTONIO
+2005-014151 NC    L Q L Q                                                      QUERALES CASTILLO LAUHALY DEL CARMEN                          QUERALES CASTILLO LAUHALY DEL CARMEN
+2005-014260 NC    CORAMECA AMARILLAS ESPECIALIZADAS                            CORAMECA, CORPORACION AMARILLAS ESPECIALIZADAS, C.A.          JOSE ANTONIO LOPEZ PERNALETE
+2005-014502 NC                                                                 MASTER ELECTRIC, C.A.                                         SARA CAROLINA SANCHEZ PARRA
+2005-014602 NC    INVERSIONES RUTEL                                            INVERSIONES RUTEL, C.A.                                       EDUARDO ENRIQUE UZCATEGUI GONZALEZ
+2005-014613 NC    INVERSIONES PAVALY                                           INVERSIONES PAVALY, C.A.                                      ULISSES VAZ
+2005-014629 NC    FLORICOOP                                                    COOPERATIVA LA FLORIDA RL (FLORICOOP)                         JOSE ALFREDO CARDENAS SANCHEZ
+2005-014706 NC    DISGRECA                                                     DISTRIBUIDORA CERAMIGRES C.A. (DISGRECA)                      SUAREZ FRANCISCO
+2005-014716 NC    VA LLA                                                       H.S. GOLDEN INVERSIONES, C.A.                                 JOSE FEDERICO AZPURUA
+2005-014780 NC    FARMACIA PAEZ                                                FARMACIAS PAEZ, C.A.                                          CARRASCOSA JOSE MANUEL
+2005-014920 NC    ALIMENTOS EL BUHO-NERO                                       INVERSIONES EL BUHO-NERO, C.A.                                ELIO RIVERO
+2005-015038 NC    COARCA                                                       COMERCIAL ARDILA C.A.                                         MORALES FINOL, ANDRES
+2005-015101 NC    LABORATORIO SILVESTRI                                        LABORATORIO SILVESTRI, C.A.                                   ARCILA SALGADO GUSTAVO
+2005-015208 NC    DELICAMAR                                                    LA CASA DE LA LANGOSTA, C.A                                   WALTER CASTRO SALERNO
+2005-015221 NC    IMPORTADORA OCCIDENTAL DE VENEZUELA                          IMPORTADORA OCCIDENTAL DE VENEZUELA, C.A.                     RAMON DE JESUS ABREU CARDENAS
+2005-015293 NC    MAGIC DENT                                                   DISTRIBUIDORA DENTAL SEGURITE 9000, C.A.                      ELIO JOSE FLORES M.
+Solicitud   Clase Nombre de la Marca                                           Titular                                                       Tramitante
+==============================================================================================================================================
+2005-015451 NC    CABANNA                                                      ALMOHADAS CABANNA, C.A.                                       MALAVER, ELIZABETH
+2005-015472 NC    GLAMOUR                                                      CARISMA PRODUCTOS, C.A.                                       ABBAS PARVIN
+2005-015516 NC    IVISA                                                        INDUSTRIAS VENEZOLANAS DE ILUMINACION, IVISA, S.A.            MENGOCHEA FREITES KEILA
+2005-015530 NC                                                                 MONTE AVILA EDITORES LATINOAMERICANA, C.A.                    CARLOS E. NOGUERA S.
+2005-015568 NC    BITU CENTER                                                  BITUCENTER, C.A.                                              BENITEZ ESTRA∂O, TULIA
+2005-015637 NC    VITA CUCINE                                                  VITA CUCINE, C.A.                                             ALEJANDRO HERNANDEZ ALVAREZ
+2005-015707 NC    QUIMEDICAL                                                   INVERSIONES QUIMEDICAL, C.A.                                  BARRAGAN DE AGUILAR, MARIA THAMARA
+2005-015711 NC    QUIPROMED                                                    INVERSIONES QUIMEDICAL, C.A.                                  BARRAGAN DE AGUILAR, MARIA THAMARA
+2005-015726 NC    INK FRANCHISE                                                PRIMO CONTACTO P.C.C.A., C.A.                                 LUCA SMILLO ALLEAUME
+2005-015732 NC    MARIU OLE                                                    MARIU OLE CONFECCIONES, C.A.                                  MARIAEUGENIA RIVERO BARRIOS
+2005-015827 NC    DR. CARTUCHO                                                 INVERSIONES TV RECARGA, C.A.                                  JOE NARVAEZ
+2005-015873 NC    MASTER ELECTRIC                                              MASTER ELECTRIC C.A.                                          SARA CAROLINA SANCHEZ PARRA
+2005-015892 NC    DECOVENEZIA                                                  HERNAN DANIEL MANRIQUE CANO                                   HERNAN D. MANRIQUE CANO
+2005-015902 NC    DANTAANA PRODUCCIONES                                        DANTAANA PRODUCCIONES, C.A.                                   ANA MARIA ALVAREZ SERRADAS
+2005-015903 NC    DANTA ANA PRODUCCIONES                                       DANTAANA PRODUCCIONES, C.A.                                   ANA MARIA ALVAREZ SERRADAS
+2005-015952 NC    DISTRIBUIDORA BELHER                                         DISTRIBUIDORA BELHER, C.A                                     MARITZA SOLEDAD HERNANDEZ MEDINA
+2005-016122 NC    EMPERALIMP 845 RL                                            ASOCIACION COOPERATIVA EMPERALIMP 845 R.L.                    PERLA MERCEDES BLANCO BLANCO
+2005-016376 NC    AIR HOTEL CLUB                                               FRANCISCO AUGUSTO DAS NEVES                                   SONIA ELENA HERNANDEZ
+2005-016378 NC    SIAM NATURALS                                                SIAM FARMACEUTICA, C.A.                                       BARRAGAN DE AGUILAR, MARIA THAMARA
+2005-016401 NC    JEPA FASHION                                                 JEPA FASHION C.A.                                             JEAN DANIEL KADADIHI
+2005-016407 NC    EXIM 2121                                                    CORPORACION EXPORT-IMPORT 2121, C.A.                          JOSE RODRIGUEZ
+2005-016423 NC    TECNO SPORTS                                                 TECNOSPORTS DE VENEZUELA, C.A.                                GONZALEZ ZAMBRANO ARNALDO A.
+2005-016449 NC    ULTRA CLEAN                                                  INVERSIONES MAXICLEAN SERVICES, C.A.                          ALONSO BRICE∂O DELFINA
+2006-000088 NC    SELEXSALUD                                                   SELEXSALUD S.A.                                               ROSALES BENNET ILEANA
+2006-000285 NC    DINAMA                                                       DINAMA, C.A.                                                  ARCILA SALGADO GUSTAVO
+2006-000553 NC    TREATMENTS SPA`S                                             INVERSIONES TREATMENTS SPA 2007, C.A.                         ENRIQUE H MORENO A
+2006-000601 NC    MILLER INTERNATIONAL LATINOAMERICA AJUSTE DE PERDIDAS        MILLER AJUSTES INTERNACIONALES, S.A.                          RAIF EL ARIGIE HARBIE
+2006-000716 NC    FUNDACION CRECEMOS                                           FUNDACION TOGETHER DE VENEZUELA (FOUDATION FOR UNITY)         MARITZA GALARRAGA DE C
+2006-000812 NC    ESPRESSO FABRICA CULINARIA                                   INVERSIONES 253045, C.A.                                      DA CORTE ABREU JULIO
+2006-000850 NC    TUCLON.COM                                                   INVERSIONES MARTROD C.A.                                      ARMANDO J. RODRIGUEZ
+2006-000909 NC    FITCAR FERIA INTERNACIONAL DE TURISMO DE CARACAS             VENEZOLANA DE TURISMO VENETUR S.A.                            FRANCISCO J. ACEVEDO S.
+2006-001028 NC    PRODUCTOS COOPERATIVOS                                       INTEGRACION COOPERATIVA AGROPECUARIA LOS GRANJEROS, R.L.      ALFIO NICOLOSI
+2006-001099 NC    CALZADOS RITY                                                CALZA NET, C.A.                                               DORADO FERNANDEZ, CARLOS RAFAEL
+1994-009289 NC    BIZCOCHOS CARIBE                                             VIZCOCHOS CARIBE, C.A.                                        INGRID JOSEFINA DIAZ GIL
+1994-012058 NC    EDUARDO ROMER C.A.                                           EDUARDO ROMER C.A.                                            BENITEZ ESTRA∂O, TULIA
+1995-010906 NC    ESTACION ESPACIAL ALFA CENTAURY                              JUGUETERIA ESTACION ESPACIAL ALFA CENTAURY C.A.               AMADEO PERRELLA
+1995-013908 NC    MAGIC SHOP                                                   MANNAH SOLEIMAN NASSER                                        MANNAH SOLEIMAN NASER Y.
+1997-021219 NC    AMETEK                                                       AMETEK, INC.                                                  LINARES ROA LISSETTE Y.
+1998-013285 NC    2FU                                                          ALBERTO ELIAS HERGERT                                         ALBERTO ELIAS HERGERT
+1998-015478 NC    I.P.M. INGENIERIA Y PRODUCTOS MEDICOS                        INGENIERIA Y PRODUCTOS MEDICOS I.P.M. C.A.                    ENRIQUE J. CHEANG VERA
+1999-004527 NC    AMOBLANDO                                                    CORPORACION AMOBLANDO, C.A.                                   ARCILA SALGADO GUSTAVO
+                                                         Total de Solicitudes :  169
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

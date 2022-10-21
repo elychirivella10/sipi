@@ -1,0 +1,188 @@
+<html>
+<head>
+  <LINK REL="STYLESHEET" TYPE="text/css" HREF="../main.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Servicio Aut&oacute;nomo de la Propiedad Intelectual</title>
+
+ <script type="text/javascript">
+
+   function checkKey(evt) 
+    {if (evt.keyCode == '17') 
+    {alert("Comando No Permitido ...!!!"); 
+     return false} 
+   return true}
+
+  </script>  
+  
+</head>
+<header>
+
+<body onkeydown="return checkKey(event)" onLoad="this.document.formarca.vsol1.focus()" bgcolor="#F9F9F9">
+
+<div align="center"> 
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top">
+      <div align="left">
+       <img src="../imagenes/cinta_azul.png" width="992" height="2">
+      </div>
+    </td>
+  </tr> 
+</table>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
+  <tr> 
+     <td width="100" valign="top">
+      <font color="#666666" size="2" face="Verdana, Arial, Helvetica, sans-serif">
+        <img src="../imagenes/encabezado.png" width="995px" height="52">
+      </font>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" align="center" >
+  <tr height="30" >
+    <td width="5%" class="subtitulo2">
+      <b><i><a href="">Inicio</a></i></b>
+    </td>
+    <td width="5%" class="subtitulo2">
+      <b><i><a href="http://www.sapi.gob.ve" target="blank">Sapi</a></i></b> 
+    </td>
+    <td width="5%" class="subtitulo2">
+      <b><i><a href="http://correo.sapi.gob.ve" target="blank">Correo</a></i></b>
+    </td>
+    <td width="5%" class="subtitulo2">
+      <b><i><a href="http://sire.sapi.gob.ve/" target="blank">Sire</a></i></b> 
+    </td>
+    <td width="10%" class="subtitulo2">
+      <b><i><a href="http://www.bicentenariobu.com" target="blank">Banco Bicentenario</a></i></b>
+    </td>
+    <td width="40%" class="subtitulo1">
+		<MARQUEE><b><i>Sistema Automatizado de Marcas, Patentes y Derecho de Autor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Impulsando el Software Libre como parte del Gobierno Electr&oacute;nico</i></b></MARQUEE>
+    </td>
+  </tr>
+</table>
+
+<?php
+
+include ("../setting.inc.php");
+//LLamadas a funciones de Libreria 
+include ("$include_lib/library.php");
+
+$subtitulo = "Consulta Interna de Marcas";
+$fecha   = trim(fechahoy());
+
+?>
+
+  <table width="100%">
+   <tr>
+    <td width="30%" class="izq2-color">
+      <font face="MS Sans Serif" size="-1">Usuario: <?php echo $usuario ?> </font>
+    </td>
+    <td width="40%" class="cnt-color3">
+      <font face="MS Sans Serif" size="-1"><?php echo $subtitulo ?> </font>
+    </td>
+    <td width="30%" class="der2-color">
+      <font face="MS Sans Serif" size="-1"><?php echo $fecha ?> </font>
+    </td>
+    </tr>
+  </table>
+
+</div>    
+</header>
+
+<br /><br />
+<p align="center"><font size="4" face="Tahoma">B&uacute;squeda por N&uacute;mero de Solicitud</font>
+<?php 
+  //require("../../librerias/library.php"); 
+  $vtipuser=1; 
+  $lastupdate="12/08/2008 - 08:30am"; 
+  echo "<form name='formarca' action='busca_marcas_n.php?vopc=1&vusuario=$vtipuser&lastupdate=$lastupdate' method='POST'>"; 
+?>
+<p align="center"><font size="3" face="Tahoma">N&uacute;mero de Solicitud:</font>
+<!-- <?php
+  $lastupdate="05/10/2006 - 08:30am";
+  require("lib/library.php");
+  $vtipuser=1;
+  // 1=Usuario Interno:  - Activa las Busquedas Avanzadas
+  //                     - Las consultas por nombre son en todos los estatus
+  // 2=Usuario Externo:  - No activa las Busquedas Avanzadas
+  //                     - Las consultas por nombre son solo de Marcas Registradas (Estatus=555) 
+
+?>-->
+         
+<!--<input type="text" name="vsol1" size="2" maxlength="5" onKeypress="Only_num()" onkeyup="checkLength()" 
+onchange="Rellena(document.formarcas.vsol1,4)" onkeydown="codigotecla(document.formarcas.vsol2)">-<input type="text" 
+name="vsol2" size="6" maxlength="7" onKeypress="Only_num()" onkeyup="javascript:checkLength();" 
+onchange="Rellena(document.formarcas.vsol2,6)" onkeydown="codigotecla(document.formarcas.buscar1)"></td>-->
+
+<input type="text" name="vsol1" size="3" maxlength="4" onKeyPress="return acceptChar(event,2, this)" onchange="Rellena(document.formarca.vsol1,4)" onkeyup="checkLength(event,this,4,document.formarca.vsol2)">-
+<input type="text" name="vsol2" size="6" maxlength="6" onKeyPress="return acceptChar(event,2, this)" onchange="Rellena(document.formarca.vsol2,6)" onkeyup="checkLength(event,this,6,document.formarca.buscar1)">
+<input type="submit" class="boton_blue" value="Buscar" name="buscar1">
+<input type="reset" class="boton_blue" value="Limpiar" name="limpiar"></font>
+</form>
+<br /><br />
+<?php echo "<form action='busca_marcas_n.php?vopc=2&vusuario=$vtipuser&lastupdate=$lastupdate' method='POST'>"; ?>
+<p align="center"><font size="4" face="Tahoma">B&uacute;squeda por N&uacute;mero de Registro</font>
+<p align="center"><font size="3" face="Tahoma">N&uacute;mero de Registro:  <input type="text" name="vreg" size="6" maxlength="7">  <input type="submit" class="boton_blue" value="Buscar" name="B2"> <input type="reset" class="boton_blue" value="Limpiar" name="limpiar"></font>
+</form>
+<br /><br />
+<?php echo "<form action='busca_marcas_t.php?vusuario=$vtipuser&lastupdate=$lastupdate' method='POST'>"; ?>
+<p align="center"><font size="4" face="Tahoma">B&uacute;squeda por Nombre</font>
+<p align="center"><font size="3" face="Tahoma">Solicitudes que <select size="1" name="vsel">
+      <option value="1">comiencen por</option>
+      <option value="2">el nombre exacto sea</option>
+      <option value="3">contengan la porci&oacute;n de texto</option> 
+      </select>  <input type="text" name="vtex" size="30">  <input type="submit" class="boton_blue" value="Buscar" name="B1"> <input type="reset" class="boton_blue" value="Limpiar" name="limpiar"></p>
+</form>
+<br /><br />
+<div align="center">
+<?php
+if ($vtipuser==1)
+  {echo "<form action='busca_marcas_a.php?vusuario=$vtipuser&lastupdate=$lastupdate' method='POST'>"; 
+   echo "<p align='center'><font size='1' face='Tahoma'><input type='submit' class='boton_blue' value='Busqueda Avanzada' name='B2'></font>";
+   echo "</form>";
+  }
+?>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>
+    <a href="../salir.php">
+    <img src="../imagenes/salir.png" alt="Salir" align="middle" name="salir" border="0" />
+    <font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif">Salir</font></a>
+  </td>
+  <br /><br /><br />
+</div>
+ </p>
+
+ <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
+  <tr> 
+    <td valign="top">
+      <div align="left">
+       <img src="../imagenes/cinta_azul.png" width="987" height="4">
+      </div>
+    </td>
+  </tr> 
+ </table>
+
+ <div align="center">
+ <font size="-2"><I>Desarrollado por: <b>Coordinaci&oacute;n de Inform&aacute;tica - SAPI Rif: G-20008399-9<br/>
+Sistema Versi&oacute;n 1.4, desarrollado con Smarty, CSS, HTML, PHP 5, JavaScript y PostgreSQL 8.3 <br/> 
+  Caracas - Venezuela - CopyLeft 2005, 2006, 2007, 2010 / Decreto No. 3.390 <I></font>
+ </p>
+ </div>
+
+ <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
+  <tr> 
+    <td valign="top">
+      <div align="left">
+       <img src="../imagenes/cinta_azul.png" width="987" height="4">
+      </div>
+    </td>
+  </tr> 
+ </table>
+  
+</body>
+</html>
+

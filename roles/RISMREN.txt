@@ -1,0 +1,51 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| B&uacute;squeda
+...| Figurativa
+....| Actualizaci&oacute;n de Verificaci&oacute;n|marcas/m_solviena.php
+....| Ver Verificacion|marcas/m_vvienasol.php
+....| Copia de Imagenes
+.....| Copiar Imagen Externa al Servidor|marcas/m_upimagen.php?vopc=3
+.....| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+....| B&uacute;squeda
+.....| Por Codigo|marcas/m_conviena.php
+.....| Externa|marcas/m_pbexfigu.php?vopc=5
+.....| Interna|marcas/m_pbinfigu.php
+...| Reportes de Auditor&iacute;a
+....| Factura B&uacute;squeda Gr&aacute;fica|marcas/m_rptconlog.php
+....| Proceso de Verificaci&oacute;n|marcas/m_rptpauver.php
+....| Control de Logos Entregados|marcas/m_rptlogent.php
+....| B&uacute;squeda Gr&aacute;ficaExterna|marcas/m_rptpaubex.php
+....| B&uacute;squeda Gr&aacute;fica Interna|marcas/m_rptpaubin.php
+...| Peticionario o Solicitante o Titular|
+....| Cargar|marcas/m_peticio.php?conx=1&salir=1
+....| Reporte|marcas/m_rptppeticio.php?conx=1&salir=1
+....| Listados|marcas/m_rptplispet.php?conx=1&salir=1
+..| Anotaciones Marginales
+...| Cesiones, Fusiones y Cambios de Titular|marcas/m_amcesion.php
+...| Cesiones, Fusiones y Cambios de Titular - Facturacion Anterior|marcas/m_amcesionv.php
+...| Cambios de Domicilio del Titular|marcas/m_amcamdom.php
+...| Licencias de Uso|marcas/m_amlicuso.php
+...| Renovaciones|marcas/m_amrenova.php
+...| Devoluciones|marcas/m_devanota.php
+...| Oficios de Devolucion|marcas/m_rptdevam.php
+...| Listado Devoluciones a Notas Marginales a Publicar|marcas/m_lisdevreg.php?conx=1&salir=1
+...| Publicaciones en Bolet&iacute;n|marcas/m_marginal.php
+...| Eliminacion Anota. Marginal a Publicar|marcas/m_actmargi.php?vopc=1
+..| Consultas y Reportes
+...| Consulta Interna|consultamarcas/indexi.php
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos
+....| Usuarios|
+.....| Por Criterio|marcas/m_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|marcas/m_rptpavztra.php?conx=1&salir=1
+.....| Por Listados Varios x reg.|marcas/m_rptpavztra_r.php?conx=1&salir=1
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php
+.....| Listado de Anotaciones Marginales a Publicar|marcas/m_rptpanota.php?conx=1&salir=1
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

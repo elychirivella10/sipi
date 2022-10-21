@@ -1,0 +1,74 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+.| Patentes||Sistema de Patentes|folder-open.png
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+..| Ingreso de Solicitud Autom&aacute;ticas
+...| Obra Literaria                          |autor/a_otrasobrnw.php?vopc=3&vpla=OL
+...| Obra Musical                            |autor/a_otrasobrnw.php?vopc=3&vpla=OM
+...| Obra Esc&eacute;nica                    |autor/a_otrasobrnw.php?vopc=3&vpla=OE
+...| Obra Audiovisual y Radiof&oacute;nicas  |autor/a_otrasobrnw.php?vopc=3&vpla=AR
+...| Arte Visual                             |autor/a_otrasobrnw.php?vopc=3&vpla=AV
+...| Programas de Computaci&oacute;n y Base de Datos|autor/a_otrasobrnw.php?vopc=3&vpla=PC
+...| Actos y Contratos|autor/a_obractosnw.php?vopc=3&conx=2&salir=1
+...| Producci&oacute;n Fonogr&aacute;fica|autor/a_obrpfononw.php?vopc=3&conx=2&salir=1
+...| Interpretaciones y Ejecuciones Art&iacute;sticas|autor/a_obraieanw.php?vopc=3&conx=2&salir=1
+..| Ingreso de Solicitud Manual
+...| Obra Literaria                          |autor/a_otrasobr.php?vopc=3&vpla=OL
+...| Obra Musical                            |autor/a_otrasobr.php?vopc=3&vpla=OM
+...| Obra Esc&eacute;nica                    |autor/a_otrasobr.php?vopc=3&vpla=OE
+...| Obra Audiovisual y Radiof&oacute;nicas  |autor/a_otrasobr.php?vopc=3&vpla=AR
+...| Arte Visual                             |autor/a_otrasobr.php?vopc=3&vpla=AV
+...| Programas de Computaci&oacute;n y Base de Datos|autor/a_otrasobr.php?vopc=3&vpla=PC
+...| Actos y Contratos|autor/a_obractos.php?vopc=3&conx=2&salir=1
+...| Producci&oacute;n Fonogr&aacute;fica|autor/a_obrpfono.php?vopc=3&conx=2&salir=1
+...| Interpretaciones y Ejecuciones Art&iacute;sticas|autor/a_obraiea.php?vopc=3&conx=2&salir=1
+..|---
+..| Modificaci&oacute;n de Solicitud
+...| Obra Literaria                          |autor/a_otrasobr.php?vopc=7&vpla=OL
+...| Obra Musical                            |autor/a_otrasobr.php?vopc=7&vpla=OM
+...| Obra Esc&eacute;nica                    |autor/a_otrasobr.php?vopc=7&vpla=OE
+...| Obra Audiovisual y Radiof&oacute;nicas  |autor/a_otrasobr.php?vopc=7&vpla=AR
+...| Arte Visual                             |autor/a_otrasobr.php?vopc=7&vpla=AV
+...| Programas de Computaci&oacute;n y Base de Datos|autor/a_otrasobr.php?vopc=7&vpla=PC
+...| Actos y Contratos|autor/a_obractos.php?vopc=5&conx=2&salir=1
+...| Producci&oacute;n Fonogr&aacute;fica|autor/a_obrpfono.php?vopc=5&conx=2&salir=1
+...| Interpretaciones y Ejecuciones Art&iacute;sticas|autor/a_obraiea.php?vopc=5&conx=2&salir=1
+..|---
+..| Control Administrativo
+...| Evento Individual                |autor/a_eveind.php?conx=2&salir=1
+...| Devoluciones (Despacho Saneador) |autor/a_devoluci.php
+..|---
+..| B&uacute;squeda T&eacute;cnica|sba/inicio.php
+..|---
+..| Tablas
+...| Ingresos
+....| Idioma     |autor/a_tablidio.php?vopc=3
+....| Genero     |autor/a_tablgene.php?vopc=3
+...| Actualizaci&oacute;n
+....| Idioma          |autor/a_tablidio.php?vopc=4
+....| Genero          |autor/a_tablgene.php?vopc=4
+..|---
+..| Consultas y Reportes
+...| Cronolog&iacute;a|autor/a_rptpcronol.php?conx=1&salir=1
+...| Administrativos|
+....| Solicitudes Presentadas|autor/a_rptpsolpre.php?conx=1&salir=1
+....| Oficios de Devoluci&oacute;n (Despacho Saneador) para Revisi&oacute;n|autor/a_rptpoficio.php?conx=1&salir=1
+....| Usuarios|
+.....| Por Criterio|autor/a_rptpavzcri.php?conx=1&salir=1
+.....| Por Listados Varios|autor/a_rptplisvar.php?conx=1&salir=1
+.....| Por Transacciones|autor/a_rptpavztra.php?conx=1&salir=1
+.....| Ineditas con Datos Autores|autor/a_rptpavzcri2.php?conx=1&salir=1
+....| Tablas|||
+.....| Status Administrativos|autor/a_rptestatus.php
+.....| Eventos|autor/a_rptevento.php
+..|---
+..| Estadisticas||Estadisticas de Derecho de Autor|
+...|Presentadas por A&ntilde;o/Estatus|autor/a_est_prexmes.php
+...|Presentadas por A&ntilde;o/Tipo de Obras|autor/a_est_prextipo.php
+...|Transacciones por Evento/Usuarios|autor/a_est_usuxeve.php
+...|Por Solicitante|autor/a_rptpnatj.php
+.| Mantenimiento||Mantenimiento del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php

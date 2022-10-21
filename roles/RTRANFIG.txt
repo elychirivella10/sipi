@@ -1,0 +1,105 @@
+.| Salir|index.php|Ir a Inicio|home.png
+.| Ayuda|inicio_help.php|Ayuda on line|utility.png
+.| Marcas||Sistema de Marcas|folder.png
+..| Ingreso de Solicitud|marcas/m_infosol.php?vopc=3
+..|---
+..| Modificar Solicitud|marcas/m_infosol.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|marcas/m_eveind.php?conx=1&salir=1
+...| Evento Publicaci&oacute;n en Prensa|marcas/m_eveper.php?vopc=4
+...| Cambios de Agente/Tramitante|marcas/m_cambagtr.php
+...| Cambios de titular|marcas/m_cambtitu.php
+...| Cambios de Domicilio del titular|marcas/m_cambdomi.php
+...| Modificaci&oacute;n de Distingue|marcas/m_modprod.php?vopc=4
+..|---
+..| Tablas
+...| Ingresos
+....| Poderes|marcas/m_ipoderes.php
+....| C&oacute;digos de Viena|marcas/m_viena.php?vopc=3
+...| Actualizaci&oacute;n
+....| Poderes|marcas/m_apoderes.php
+....| C&oacute;digos de Viena|marcas/m_viena.php?vopc=4
+..|---
+..| B&uacute;squeda
+...| Fonetica
+....| Carga de Busqueda - Sede SAPI
+.....| Ingreso de Pedido SAPI en Lote|marcas/m_ingfacfon.php?vopc=1
+.....| Modificaci&oacute;n de Pedido SAPI|marcas/m_bfonetica_sede.php?vopc=4
+....| Generar Archivo TXT de Taquillas - Procesar Busquedas|marcas/m_abfontxt.php
+....| Reportes de Auditor&iacute;a
+.....| De Planillas Cargadas|marcas/m_rptconfon.php
+.....| De Busquedas Procesadas|marcas/m_rptfonpro.php
+....| Examen de Fondo
+.....| Transformar Busquedas de Fondo a formato PDF|comun/z_leabusqf.php?vopc=1
+...| Figurativa
+....| Copia de Imagenes
+.....| Copiar Imagen Externa al Servidor|marcas/m_upimagen.php?vopc=3
+.....| Copiar Imagen Fondo al Servidor|marcas/m_upimagen2.php?vopc=3
+....| Actualizaci&oacute;n de Verificacion|marcas/m_solviena.php
+....| Carga de Planillas Pedidos
+.....| Ingreso de Pedido Informacion|marcas/m_bexlogo.php?vopc=3
+.....| Modificaci&oacute;n de Pedido Informacion|marcas/m_bexlogo.php?vopc=4
+.....| Modificaci&oacute;n de Pedido|marcas/m_bexfigu.php?vopc=4
+....| B&uacute;squedas
+.....| Por Codigo|marcas/m_conviena.php
+.....| Externa|marcas/m_pbexfigu.php?vopc=5
+.....| Interna|marcas/m_pbinfigu.php
+....| Auditor&iacute;a
+.....| Proceso de Verificaci&oacute;n|marcas/m_rptpauver.php
+.....| Planillas Cargadas|marcas/m_rptconlog.php
+.....| Control de Logos Entregados|marcas/m_rptlogent.php
+.....| B&uacute;squeda Interna|marcas/m_rptpaubin.php
+.....| B&uacute;squeda Externa|marcas/m_rptpaubex.php
+...| Peticionario o Solicitante|
+....| Cargar|marcas/m_peticio.php?conx=1&salir=1
+....| Reporte|marcas/m_rptppeticio.php?conx=1&salir=1
+....| Listados|marcas/m_rptplispet.php?conx=1&salir=1
+..|---
+..| Consultas y Reportes
+...| Poderes|marcas/m_cpoderes.php
+...| Administrativos
+....| Consulta Interna|consultamarcas/indexi2.php
+....| Cronolog&iacute;a|marcas/m_rptpcronol.php
+....| Usuarios|
+.....| Solicitudes Presentadas|marcas/m_rptpsolpre.php
+.....| Por Listados Varios|marcas/m_rptpavztra.php
+.....| Por Listados Varios x reg.|marcas/m_rptpavztra_r.php
+.....| Por Transacciones x Sol.|marcas/m_rptpavztra1.php
+.....| Por Transacciones x Reg.|marcas/m_rptpavztra_reg.php
+....|---
+....| Tablas|||
+.....| Agentes|marcas/m_rptagente.php
+.....| Poderes|marcas/m_rptppoder.php
+.| Patentes||Sistema de Patentes|folder-open.png
+..| Ingreso de Solicitud|patentes/p_infosol.php?vopc=3
+..|---
+..| Modificar Solicitud|patentes/p_infosol.php?vopc=4
+..|---
+..| Control Administrativo
+...| Evento Individual|patentes/p_eveind.php
+...| Evento Publicaci&oacute;n en Prensa|patentes/p_eveper.php?vopc=4
+...| Cambios de Agente/Tramitante|patentes/p_cambagtr.php
+...| Cambios de titular|patentes/p_cambtitu.php
+...| Cambios de Domicilio del titular|patentes/p_cambdomi.php
+..| B&uacute;squeda
+...| T&eacute;cnica|sbp/index.php
+..| Consultas y Reportes
+...| Administrativos|
+....| Cronolog&iacute;a|patentes/p_rptpcronol.php
+....| Consulta Abierta|patentes/p_rptpcona.php
+....| Usuarios|
+.....| Solicitudes Presentadas|patentes/p_rptpsolpre.php
+.....| Por Criterio|patentes/p_rptpavzcri.php
+.....| Por Transacciones|patentes/p_rptpavztra.php
+....| Peticionario|
+.....| Cargar|patentes/p_peticio.php
+.....| Reporte|patentes/p_rptppeticio.php
+.| Bolet&iacute;n||Sistema de Boletin|colors.png
+.| Via Web||Internet|email.png
+.| DNDA||Sistema Derechos de Autor|pen_01.png
+.| Mantenimiento||Mantenimiento de Colores del Sistema|colors.png
+..| Cambio de Clave|comun/z_modpass.php
+..| Tablas Generales
+...| Ingresos
+....| Agentes|comun/z_agentes.php?vopc=3
